@@ -1,0 +1,1567 @@
+{
+  "introductionZhHans": "一菜一张卡：先看图片和菜名，翻到背面点击整道菜名，或点击每个拆解词块听发音。",
+  "cards": [
+    {
+      "id": "pad-thai",
+      "category": "米饭与面食",
+      "thai": "ผัดไทย",
+      "meaningZhHans": "泰式炒河粉",
+      "audioID": "audio-food_dining-word-049",
+      "imageAssetID": "pad-thai",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒；翻炒"
+          },
+          {
+            "thai": "ไทย",
+            "glossZhHans": "泰国的；泰式的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ไทย",
+            "glossZhHans": "泰国的"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国最具代表性的国民街头美食。由米粉、豆干、韭菜、豆芽等炒制，搭配罗望子酱调味，酸甜微辣。"
+    },
+    {
+      "id": "tom-yum-kung",
+      "category": "汤与咖喱",
+      "thai": "ต้มยำกุ้ง",
+      "meaningZhHans": "冬阴功虾汤",
+      "audioID": "audio-food_dining-word-048",
+      "imageAssetID": "tom-yum",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ต้มยำ",
+            "glossZhHans": "冬阴功汤"
+          },
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ต้ม",
+            "glossZhHans": "煮；汤"
+          },
+          {
+            "thai": "ยำ",
+            "glossZhHans": "酸辣拌味"
+          },
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国国汤。“ต้ม”（煮）+“ยำ”（酸辣拌）+“กุ้ง”（大虾），以香茅、南姜、青柠叶与鸟眼椒熬煮，酸辣鲜香。"
+    },
+    {
+      "id": "green-curry",
+      "category": "汤与咖喱",
+      "thai": "แกงเขียวหวาน",
+      "meaningZhHans": "绿咖喱",
+      "audioID": "audio-food_dining-word-051",
+      "imageAssetID": "green-curry",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "เขียว",
+            "glossZhHans": "绿色的"
+          },
+          {
+            "thai": "หวาน",
+            "glossZhHans": "甜的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱菜"
+          },
+          {
+            "thai": "เขียว",
+            "glossZhHans": "绿色"
+          },
+          {
+            "thai": "หวาน",
+            "glossZhHans": "甜"
+          }
+        ]
+      },
+      "explanationZhHans": "以新鲜青辣椒为基础制成绿咖喱酱，加入浓郁椰奶呈现柔和浅绿色（เขียวหวาน），口感辛香中带有椰奶回甘。"
+    },
+    {
+      "id": "som-tam",
+      "category": "烧烤与小吃",
+      "thai": "ส้มตำ",
+      "meaningZhHans": "青木瓜沙拉",
+      "audioID": "audio-food_dining-word-047",
+      "imageAssetID": "som-tam",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ส้ม",
+            "glossZhHans": "酸的；酸味"
+          },
+          {
+            "thai": "ตำ",
+            "glossZhHans": "捣；舂拌"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ส้ม",
+            "glossZhHans": "酸味"
+          },
+          {
+            "thai": "ตำ",
+            "glossZhHans": "捣拌"
+          }
+        ]
+      },
+      "explanationZhHans": "源自泰国东北（伊森）的名菜。“ส้ม”（酸）+“ตำ”（捣/舂），将青木瓜丝、花生、鱼露、青柠汁在木臼中捣拌入味。"
+    },
+    {
+      "id": "mango-sticky-rice",
+      "category": "饮料与甜品",
+      "thai": "ข้าวเหนียวมะม่วง",
+      "meaningZhHans": "芒果糯米饭",
+      "audioID": "audio-food_dining-word-076",
+      "imageAssetID": "mango-sticky",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ข้าวเหนียว",
+            "glossZhHans": "糯米饭"
+          },
+          {
+            "thai": "มะม่วง",
+            "glossZhHans": "芒果"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭"
+          },
+          {
+            "thai": "เหนียว",
+            "glossZhHans": "黏的；糯的"
+          },
+          {
+            "thai": "มะม่วง",
+            "glossZhHans": "芒果"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国经典甜品。将蒸熟的糯米拌入温热甜椰奶，搭配香甜多汁的当季熟芒果与炸绿豆仁。"
+    },
+    {
+      "id": "thai-milk-tea",
+      "category": "饮料与甜品",
+      "thai": "ชาไทย",
+      "meaningZhHans": "泰式奶茶",
+      "audioID": "audio-food_dining-word-070",
+      "imageAssetID": "thai-milk-tea",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ชา",
+            "glossZhHans": "茶"
+          },
+          {
+            "thai": "ไทย",
+            "glossZhHans": "泰国的；泰式的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ชา",
+            "glossZhHans": "茶"
+          },
+          {
+            "thai": "ไทย",
+            "glossZhHans": "泰式的"
+          }
+        ]
+      },
+      "explanationZhHans": "以深度烘焙的红茶为茶底，加入八角等香料，冲泡后加入炼乳与淡奶，呈现标志性的浓郁橙红色。"
+    },
+    {
+      "id": "coconut-water",
+      "category": "饮料与甜品",
+      "thai": "น้ำมะพร้าว",
+      "meaningZhHans": "椰子水",
+      "audioID": "audio-food_dining-word-071",
+      "imageAssetID": "coconut-water",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "น้ำ",
+            "glossZhHans": "水"
+          },
+          {
+            "thai": "มะพร้าว",
+            "glossZhHans": "椰子"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "น้ำ",
+            "glossZhHans": "水"
+          },
+          {
+            "thai": "มะพร้าว",
+            "glossZhHans": "椰子"
+          }
+        ]
+      },
+      "explanationZhHans": "新鲜嫩椰子水，清甜解渴，是泰国街头最常见的天然饮品。"
+    },
+    {
+      "id": "khao-man-gai",
+      "category": "米饭与面食",
+      "thai": "ข้าวมันไก่",
+      "meaningZhHans": "海南鸡饭",
+      "audioID": "thai-menu-khao-man-gai",
+      "imageAssetID": "khao-man-gai",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ข้าวมัน",
+            "glossZhHans": "油饭；鸡油饭"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭"
+          },
+          {
+            "thai": "มัน",
+            "glossZhHans": "油；油润"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ]
+      },
+      "explanationZhHans": "“ข้าวมัน”（油润鸡油饭）+“ไก่”（鸡肉）。由华人移民带入泰国并本土化，搭配特调黄豆酱南姜辣椒蘸酱。"
+    },
+    {
+      "id": "pad-see-ew",
+      "category": "米饭与面食",
+      "thai": "ผัดซีอิ๊ว",
+      "meaningZhHans": "泰式炒酱油粉",
+      "audioID": "thai-menu-pad-see-ew",
+      "imageAssetID": "pad-see-ew",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ซีอิ๊ว",
+            "glossZhHans": "酱油"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ซีอิ๊ว",
+            "glossZhHans": "酱油"
+          }
+        ]
+      },
+      "explanationZhHans": "“ผัด”（炒）+“ซีอิ๊ว”（酱油，源自潮州话）。宽河粉用大火镬气快炒芥蓝、鸡蛋与肉片，酱香浓郁。"
+    },
+    {
+      "id": "pad-kra-pao",
+      "category": "米饭与面食",
+      "thai": "ผัดกะเพรา",
+      "meaningZhHans": "打抛炒肉",
+      "audioID": "audio-food_dining-word-052",
+      "imageAssetID": "pad-kra-pao",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "กะเพรา",
+            "glossZhHans": "圣罗勒；打抛叶"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "กะเพรา",
+            "glossZhHans": "圣罗勒"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国最受欢迎的便当快餐。“กะเพรา”指圣罗勒（打抛叶），带有独特辛香，常与肉末及大蒜、辣椒大火快炒，配荷包蛋。"
+    },
+    {
+      "id": "massaman-curry",
+      "category": "汤与咖喱",
+      "thai": "แกงมัสมั่น",
+      "meaningZhHans": "玛莎曼咖喱",
+      "audioID": "thai-menu-massaman",
+      "imageAssetID": "massaman",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "มัสมั่น",
+            "glossZhHans": "玛莎曼"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱菜"
+          },
+          {
+            "thai": "มัสมั่น",
+            "glossZhHans": "玛莎曼"
+          }
+        ]
+      },
+      "explanationZhHans": "曾被评为全球最美味菜肴之一。受波斯与印度风味影响，香料丰富（肉桂、豆蔻、八角），口感浓郁醇厚、微甜微辣。"
+    },
+    {
+      "id": "tom-kha-gai",
+      "category": "汤与咖喱",
+      "thai": "ต้มข่าไก่",
+      "meaningZhHans": "椰奶鸡汤",
+      "audioID": "audio-food_dining-word-077",
+      "imageAssetID": "tom-kha",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ต้มข่า",
+            "glossZhHans": "椰奶南姜汤"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ต้ม",
+            "glossZhHans": "煮；汤"
+          },
+          {
+            "thai": "ข่า",
+            "glossZhHans": "南姜"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ]
+      },
+      "explanationZhHans": "这道经典泰式名汤以浓郁椰奶（กะทิ）为汤底，加入灵魂香料南姜（ข่า）、香茅和青柠叶熬煮出酸辣奶香。因椰香浓郁，大众通俗意译为「椰奶鸡汤 / 椰汁鸡汤」。"
+    },
+    {
+      "id": "gai-yang",
+      "category": "烧烤与小吃",
+      "thai": "ไก่ย่าง",
+      "meaningZhHans": "泰式烤鸡",
+      "audioID": "thai-menu-gai-yang",
+      "imageAssetID": "gai-yang",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          },
+          {
+            "thai": "ย่าง",
+            "glossZhHans": "烤"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          },
+          {
+            "thai": "ย่าง",
+            "glossZhHans": "烤"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国东北经典烤物。整鸡用香茅、蒜末、芫荽根与鱼露腌渍后炭火慢烤，外皮焦香，常配糯米饭与青木瓜沙拉。"
+    },
+    {
+      "id": "boat-noodles",
+      "category": "米饭与面食",
+      "thai": "ก๋วยเตี๋ยวเรือ",
+      "meaningZhHans": "泰式船面",
+      "audioID": "thai-menu-boat-noodles",
+      "imageAssetID": "boat-noodles",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ก๋วยเตี๋ยว",
+            "glossZhHans": "米粉；面条"
+          },
+          {
+            "thai": "เรือ",
+            "glossZhHans": "船"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ก๋วยเตี๋ยว",
+            "glossZhHans": "面条"
+          },
+          {
+            "thai": "เรือ",
+            "glossZhHans": "船"
+          }
+        ]
+      },
+      "explanationZhHans": "早期在曼谷水上运河的小船上贩卖的面食。为防打翻份量小巧，汤底加入多种香料熬制，浓郁微甜。"
+    },
+    {
+      "id": "spring-roll",
+      "category": "烧烤与小吃",
+      "thai": "ปอเปี๊ยะทอด",
+      "meaningZhHans": "泰式炸春卷",
+      "audioID": "thai-menu-spring-roll",
+      "imageAssetID": "spring-roll",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ปอเปี๊ยะ",
+            "glossZhHans": "春卷"
+          },
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ปอเปี๊ยะ",
+            "glossZhHans": "春卷"
+          },
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          }
+        ]
+      },
+      "explanationZhHans": "薄面皮包裹粉丝、木耳、胡萝卜与肉馅炸至金黄酥脆，佐以泰式甜辣酱。"
+    },
+    {
+      "id": "bangkok-pizza",
+      "category": "曼谷常见其他餐食",
+      "thai": "พิซซ่า",
+      "meaningZhHans": "披萨",
+      "audioID": "thai-menu-pizza",
+      "imageAssetID": "bangkok-pizza",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "พิซซ่า",
+            "glossZhHans": "披萨"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "พิซซ่า",
+            "glossZhHans": "披萨"
+          }
+        ]
+      },
+      "explanationZhHans": "曼谷国际化餐厅与快餐店常见的主食。"
+    },
+    {
+      "id": "khao-soi",
+      "category": "米饭与面食",
+      "thai": "ข้าวซอย",
+      "meaningZhHans": "清迈咖喱面",
+      "audioID": "thai-menu-khao-soi",
+      "imageAssetID": "khao-soi",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭；米"
+          },
+          {
+            "thai": "ซอย",
+            "glossZhHans": "切；切成条"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭；米"
+          },
+          {
+            "thai": "ซอย",
+            "glossZhHans": "切；切成条"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国北部（清迈）代表美食。浓郁黄咖喱椰奶汤底，搭配水煮鸡蛋面与顶部的金黄脆炸面条，配酸菜和红葱头。"
+    },
+    {
+      "id": "khao-ka-moo",
+      "category": "米饭与面食",
+      "thai": "ข้าวขาหมู",
+      "meaningZhHans": "泰式猪脚饭",
+      "audioID": "thai-menu-khao-ka-moo",
+      "imageAssetID": "khao-ka-moo",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭"
+          },
+          {
+            "thai": "ขาหมู",
+            "glossZhHans": "猪脚；卤猪蹄"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭"
+          },
+          {
+            "thai": "ขา",
+            "glossZhHans": "腿；脚"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          }
+        ]
+      },
+      "explanationZhHans": "潮汕卤猪脚在泰国的本土演化。慢火卤至软烂入味，配酸菜、芥蓝与自制蒜蓉辣椒醋解腻。"
+    },
+    {
+      "id": "khao-pad-gai",
+      "category": "米饭与面食",
+      "thai": "ข้าวผัดไก่",
+      "meaningZhHans": "鸡肉炒饭",
+      "audioID": "thai-menu-khao-pad-gai",
+      "imageAssetID": "khao-pad-gai",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ข้าวผัด",
+            "glossZhHans": "炒饭"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ข้าว",
+            "glossZhHans": "米饭"
+          },
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          }
+        ]
+      },
+      "explanationZhHans": "“ข้าวผัด”（炒饭）+“ไก่”（鸡）。粒粒分明的泰香米炒鸡蛋、洋葱与鸡肉，通常配青柠角与鱼露辣椒（พริกน้ำปลา）。"
+    },
+    {
+      "id": "pad-woon-sen",
+      "category": "米饭与面食",
+      "thai": "ผัดวุ้นเส้น",
+      "meaningZhHans": "泰式炒粉丝",
+      "audioID": "thai-menu-pad-woon-sen",
+      "imageAssetID": "pad-woon-sen",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒；翻炒"
+          },
+          {
+            "thai": "วุ้นเส้น",
+            "glossZhHans": "粉丝"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "วุ้น",
+            "glossZhHans": "粉胶；琼脂"
+          },
+          {
+            "thai": "เส้น",
+            "glossZhHans": "粉条；线"
+          }
+        ]
+      },
+      "explanationZhHans": "“ผัด”（炒）+“วุ้นเส้น”（粉丝）。搭配鸡蛋、卷心菜、木耳或虾仁快炒，口感滑爽弹牙。"
+    },
+    {
+      "id": "rad-na",
+      "category": "米饭与面食",
+      "thai": "ราดหน้า",
+      "meaningZhHans": "泰式浇汁宽粉",
+      "audioID": "thai-menu-rad-na",
+      "imageAssetID": "rad-na",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ราด",
+            "glossZhHans": "浇；淋"
+          },
+          {
+            "thai": "หน้า",
+            "glossZhHans": "表面；浇在上面"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ราด",
+            "glossZhHans": "浇；淋"
+          },
+          {
+            "thai": "หน้า",
+            "glossZhHans": "表面；浇在上面"
+          }
+        ]
+      },
+      "explanationZhHans": "“ราด”（浇/淋）+“หน้า”（表面）。先将宽河粉炒香，再浇上加了芥蓝与肉片的浓稠滑蛋芡汁。"
+    },
+    {
+      "id": "pad-kee-mao",
+      "category": "米饭与面食",
+      "thai": "ผัดขี้เมา",
+      "meaningZhHans": "醉鬼炒粉",
+      "audioID": "thai-menu-pad-kee-mao",
+      "imageAssetID": "pad-kee-mao",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒；翻炒"
+          },
+          {
+            "thai": "ขี้เมา",
+            "glossZhHans": "醉汉；醉打抛风味"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ขี้",
+            "glossZhHans": "嗜...者"
+          },
+          {
+            "thai": "เมา",
+            "glossZhHans": "醉酒；醉"
+          }
+        ]
+      },
+      "explanationZhHans": "“ขี้เมา”意为醉汉。相传是为喝酒后解酒而发明的重口味炒面，大火爆炒圣罗勒叶、青胡椒串与大量鲜辣椒，极具辛辣镬气。"
+    },
+    {
+      "id": "bamee-moo-daeng",
+      "category": "米饭与面食",
+      "thai": "บะหมี่หมูแดง",
+      "meaningZhHans": "叉烧面",
+      "audioID": "thai-menu-bamee-moo-daeng",
+      "imageAssetID": "bamee-moo-daeng",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "บะหมี่",
+            "glossZhHans": "面条；鸡蛋面"
+          },
+          {
+            "thai": "หมูแดง",
+            "glossZhHans": "叉烧；红烧猪肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "บะหมี่",
+            "glossZhHans": "面条；鸡蛋面"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          },
+          {
+            "thai": "แดง",
+            "glossZhHans": "红色的"
+          }
+        ]
+      },
+      "explanationZhHans": "“บะหมี่”（鸡蛋面）+“หมูแดง”（叉烧）。可做成干拌面（แห้ง）或清汤面（น้ำ），配青菜与炸馄饨皮。"
+    },
+    {
+      "id": "jok",
+      "category": "米饭与面食",
+      "thai": "โจ๊ก",
+      "meaningZhHans": "泰式粥",
+      "audioID": "thai-menu-jok",
+      "imageAssetID": "jok",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "โจ๊ก",
+            "glossZhHans": "粥"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "โจ๊ก",
+            "glossZhHans": "粥"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国最受欢迎的早餐之一。碎米熬至绵密如米糊，通常加入肉丸、半熟蛋、姜丝与葱花。"
+    },
+    {
+      "id": "kuay-chap",
+      "category": "米饭与面食",
+      "thai": "ก๋วยจั๊บ",
+      "meaningZhHans": "泰式粿汁卷粉",
+      "audioID": "thai-menu-kuay-chap",
+      "imageAssetID": "kuay-chap",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ก๋วยจั๊บ",
+            "glossZhHans": "粿汁；卷粉汤"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ก๋วยจั๊บ",
+            "glossZhHans": "粿汁；卷粉汤"
+          }
+        ]
+      },
+      "explanationZhHans": "潮汕传统在泰国的代表作。特制方形粉片遇热水卷成小筒，搭配浓厚胡椒卤汤、脆皮烧肉与卤蛋。"
+    },
+    {
+      "id": "panang-curry",
+      "category": "汤与咖喱",
+      "thai": "แกงพะแนง",
+      "meaningZhHans": "帕能咖喱",
+      "audioID": "thai-menu-panang-curry",
+      "imageAssetID": "panang-curry",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "พะแนง",
+            "glossZhHans": "帕能咖喱"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "พะแนง",
+            "glossZhHans": "帕能咖喱"
+          }
+        ]
+      },
+      "explanationZhHans": "比绿咖喱更浓稠、汤汁更少的咖喱。椰浆浓缩裹在肉上，撒有细切青柠叶丝，甜咸微辣、奶香极浓。"
+    },
+    {
+      "id": "red-curry",
+      "category": "汤与咖喱",
+      "thai": "แกงแดง",
+      "meaningZhHans": "红咖喱",
+      "audioID": "thai-menu-red-curry",
+      "imageAssetID": "red-curry",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "แดง",
+            "glossZhHans": "红色的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "แดง",
+            "glossZhHans": "红色的"
+          }
+        ]
+      },
+      "explanationZhHans": "以大量干红辣椒、大蒜、香茅捣制成红咖喱酱，搭配竹笋、茄子与肉类，颜色红亮微辣。"
+    },
+    {
+      "id": "yellow-curry",
+      "category": "汤与咖喱",
+      "thai": "แกงเหลือง",
+      "meaningZhHans": "黄咖喱",
+      "audioID": "thai-menu-yellow-curry",
+      "imageAssetID": "yellow-curry",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "เหลือง",
+            "glossZhHans": "黄色的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "แกง",
+            "glossZhHans": "咖喱；汤菜"
+          },
+          {
+            "thai": "เหลือง",
+            "glossZhHans": "黄色的"
+          }
+        ]
+      },
+      "explanationZhHans": "加入了姜黄与咖喱粉，色泽金黄、香气温和柔顺，常用于炖煮鸡肉或牛肉。"
+    },
+    {
+      "id": "pu-pad-pong-kari",
+      "category": "汤与咖喱",
+      "thai": "ปูผัดผงกะหรี่",
+      "meaningZhHans": "咖喱炒蟹",
+      "audioID": "thai-menu-pu-pad-pong-kari",
+      "imageAssetID": "pu-pad-pong-kari",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ปู",
+            "glossZhHans": "螃蟹"
+          },
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒；翻炒"
+          },
+          {
+            "thai": "ผงกะหรี่",
+            "glossZhHans": "咖喱粉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ปู",
+            "glossZhHans": "螃蟹"
+          },
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "ผง",
+            "glossZhHans": "粉末；粉"
+          },
+          {
+            "thai": "กะหรี่",
+            "glossZhHans": "咖喱"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国海鲜餐厅必点名菜。用黄咖喱粉、鸡蛋、淡奶与葱蒜大火滑炒整蟹，蛋液吸满鲜美蟹汁。"
+    },
+    {
+      "id": "pla-kapong-neung-manao",
+      "category": "汤与咖喱",
+      "thai": "ปลากะพงนึ่งมะนาว",
+      "meaningZhHans": "青柠蒸鲈鱼",
+      "audioID": "thai-menu-pla-kapong-neung-manao",
+      "imageAssetID": "pla-kapong-neung-manao",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ปลากะพง",
+            "glossZhHans": "鲈鱼"
+          },
+          {
+            "thai": "นึ่ง",
+            "glossZhHans": "蒸"
+          },
+          {
+            "thai": "มะนาว",
+            "glossZhHans": "青柠"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ปลา",
+            "glossZhHans": "鱼"
+          },
+          {
+            "thai": "กะพง",
+            "glossZhHans": "鲈鱼；盲鲃"
+          },
+          {
+            "thai": "นึ่ง",
+            "glossZhHans": "蒸"
+          },
+          {
+            "thai": "มะนาว",
+            "glossZhHans": "青柠"
+          }
+        ]
+      },
+      "explanationZhHans": "以鲜榨青柠汁、蒜末、鱼露与鲜辣椒调制酸辣酱汁淋在鲜鲈鱼上清蒸，肉质细嫩，极其开胃。"
+    },
+    {
+      "id": "moo-ping",
+      "category": "烧烤与小吃",
+      "thai": "หมูปิ้ง",
+      "meaningZhHans": "烤猪肉串",
+      "audioID": "thai-menu-moo-ping",
+      "imageAssetID": "moo-ping",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          },
+          {
+            "thai": "ปิ้ง",
+            "glossZhHans": "烤；炙烤"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          },
+          {
+            "thai": "ปิ้ง",
+            "glossZhHans": "烤；炙烤"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国街头随处可见的国民小吃。猪肉用椰奶、香菜根与甜酱油腌渍后串烤，肉质鲜甜多汁，常搭配一小袋糯米饭。"
+    },
+    {
+      "id": "gai-tod",
+      "category": "烧烤与小吃",
+      "thai": "ไก่ทอด",
+      "meaningZhHans": "泰式炸鸡",
+      "audioID": "thai-menu-gai-tod",
+      "imageAssetID": "gai-tod",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          },
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ไก่",
+            "glossZhHans": "鸡肉"
+          },
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          }
+        ]
+      },
+      "explanationZhHans": "外皮酥脆并撒上大量炸红葱酥，搭配泰式甜辣酱或伊森酸辣酱（น้ำจิ้มแจ่ว）。"
+    },
+    {
+      "id": "satay",
+      "category": "烧烤与小吃",
+      "thai": "สะเต๊ะ",
+      "meaningZhHans": "沙嗲肉串",
+      "audioID": "thai-menu-satay",
+      "imageAssetID": "satay",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "สะเต๊ะ",
+            "glossZhHans": "沙嗲；烤肉串"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "สะเต๊ะ",
+            "glossZhHans": "沙嗲；烤肉串"
+          }
+        ]
+      },
+      "explanationZhHans": "南洋传入泰国的经典烤串。用姜黄腌出金黄色，烤好后蘸花生酱与酸甜黄瓜醋红葱（อาจาด）食用。"
+    },
+    {
+      "id": "tod-man-kung",
+      "category": "烧烤与小吃",
+      "thai": "ทอดมันกุ้ง",
+      "meaningZhHans": "泰式炸虾饼",
+      "audioID": "thai-menu-tod-man-kung",
+      "imageAssetID": "tod-man-kung",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ทอดมัน",
+            "glossZhHans": "炸鱼虾饼；炸饼"
+          },
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          },
+          {
+            "thai": "มัน",
+            "glossZhHans": "肉茸饼；油润"
+          },
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          }
+        ]
+      },
+      "explanationZhHans": "用新鲜纯虾肉打成泥、裹上面包糠炸至金黄膨松，蘸酸甜梅子酱食用。"
+    },
+    {
+      "id": "tod-man-pla",
+      "category": "烧烤与小吃",
+      "thai": "ทอดมันปลา",
+      "meaningZhHans": "泰式炸鱼饼",
+      "audioID": "thai-menu-tod-man-pla",
+      "imageAssetID": "tod-man-pla",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ทอดมัน",
+            "glossZhHans": "炸鱼饼"
+          },
+          {
+            "thai": "ปลา",
+            "glossZhHans": "鱼"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ทอด",
+            "glossZhHans": "炸"
+          },
+          {
+            "thai": "มัน",
+            "glossZhHans": "肉茸饼；油润"
+          },
+          {
+            "thai": "ปลา",
+            "glossZhHans": "鱼"
+          }
+        ]
+      },
+      "explanationZhHans": "鱼浆加入红咖喱酱与切碎的长豆角、青柠叶搅拌起胶后油炸，带有浓郁的泰式香料风味。"
+    },
+    {
+      "id": "larb-moo",
+      "category": "烧烤与小吃",
+      "thai": "ลาบหมู",
+      "meaningZhHans": "凉拌辣肉末",
+      "audioID": "thai-menu-larb-moo",
+      "imageAssetID": "larb-moo",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ลาบ",
+            "glossZhHans": "凉拌辣肉末"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ลาบ",
+            "glossZhHans": "凉拌辣肉末"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国东北名菜。猪肉碎汆熟后拌入炒糯米粉（ข้าวคั่ว）、薄荷叶、红葱头、青柠汁与干辣椒粉，香脆酸辣。"
+    },
+    {
+      "id": "nam-tok-moo",
+      "category": "烧烤与小吃",
+      "thai": "น้ำตกหมู",
+      "meaningZhHans": "瀑布烤猪肉沙拉",
+      "audioID": "thai-menu-nam-tok-moo",
+      "imageAssetID": "nam-tok-moo",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "น้ำตก",
+            "glossZhHans": "瀑布；辣拌肉沙拉（菜名）"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "น้ำ",
+            "glossZhHans": "水；液体"
+          },
+          {
+            "thai": "ตก",
+            "glossZhHans": "落下；滴落"
+          },
+          {
+            "thai": "หมู",
+            "glossZhHans": "猪肉"
+          }
+        ]
+      },
+      "explanationZhHans": "“น้ำตก”意为瀑布，形容烤肉时肉汁滋滋滴入炭火。将烤猪颈肉切片，拌入炒米粉、薄荷叶与酸辣酱汁。"
+    },
+    {
+      "id": "yam-woon-sen",
+      "category": "烧烤与小吃",
+      "thai": "ยำวุ้นเส้น",
+      "meaningZhHans": "泰式粉丝沙拉",
+      "audioID": "thai-menu-yam-woon-sen",
+      "imageAssetID": "yam-woon-sen",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ยำ",
+            "glossZhHans": "酸辣拌；凉拌"
+          },
+          {
+            "thai": "วุ้นเส้น",
+            "glossZhHans": "粉丝"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ยำ",
+            "glossZhHans": "酸辣拌；凉拌"
+          },
+          {
+            "thai": "วุ้น",
+            "glossZhHans": "粉胶；琼脂"
+          },
+          {
+            "thai": "เส้น",
+            "glossZhHans": "粉条；线"
+          }
+        ]
+      },
+      "explanationZhHans": "热粉丝拌入肉末、虾仁、鱿鱼、芹菜与洋葱，淋上青柠鱼露辣椒汁，酸爽开胃。"
+    },
+    {
+      "id": "goong-pad-nam-prik-pao",
+      "category": "海鲜",
+      "thai": "กุ้งผัดน้ำพริกเผา",
+      "meaningZhHans": "甜辣酱炒虾",
+      "audioID": "thai-menu-goong-pad-nam-prik-pao",
+      "imageAssetID": "goong-pad-nam-prik-pao",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          },
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒；翻炒"
+          },
+          {
+            "thai": "น้ำพริกเผา",
+            "glossZhHans": "烤辣椒酱"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "กุ้ง",
+            "glossZhHans": "虾"
+          },
+          {
+            "thai": "ผัด",
+            "glossZhHans": "炒"
+          },
+          {
+            "thai": "น้ำ",
+            "glossZhHans": "汁；水"
+          },
+          {
+            "thai": "พริก",
+            "glossZhHans": "辣椒"
+          },
+          {
+            "thai": "เผา",
+            "glossZhHans": "烤；烧"
+          }
+        ]
+      },
+      "explanationZhHans": "以泰式烤辣椒膏（น้ำพริกเผา）快炒鲜虾与九层塔，甜中带微辣，酱香浓郁，非常下饭。"
+    },
+    {
+      "id": "mango-smoothie",
+      "category": "饮料与甜品",
+      "thai": "สมูทตี้มะม่วง",
+      "meaningZhHans": "芒果冰沙",
+      "audioID": "thai-menu-mango-smoothie",
+      "imageAssetID": "mango-smoothie",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "สมูทตี้",
+            "glossZhHans": "冰沙"
+          },
+          {
+            "thai": "มะม่วง",
+            "glossZhHans": "芒果"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "สมูทตี้",
+            "glossZhHans": "冰沙"
+          },
+          {
+            "thai": "มะม่วง",
+            "glossZhHans": "芒果"
+          }
+        ]
+      },
+      "explanationZhHans": "新鲜熟芒果肉与冰块高速打制成细腻绵密冰沙，热带解暑首选。"
+    },
+    {
+      "id": "iced-coffee",
+      "category": "饮料与甜品",
+      "thai": "กาแฟเย็น",
+      "meaningZhHans": "泰式冰咖啡",
+      "audioID": "thai-menu-iced-coffee",
+      "imageAssetID": "iced-coffee",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "กาแฟ",
+            "glossZhHans": "咖啡"
+          },
+          {
+            "thai": "เย็น",
+            "glossZhHans": "冷的；冰的"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "กาแฟ",
+            "glossZhHans": "咖啡"
+          },
+          {
+            "thai": "เย็น",
+            "glossZhHans": "冷的；冰的"
+          }
+        ]
+      },
+      "explanationZhHans": "“โอเลี้ยง”（黑咖啡）或泰式传统拼配咖啡加入浓甜炼乳与淡奶，倒在满杯碎冰上。"
+    },
+    {
+      "id": "chang-beer",
+      "category": "饮料与甜品",
+      "thai": "เบียร์ช้าง",
+      "meaningZhHans": "象牌啤酒",
+      "audioID": "thai-menu-chang-beer",
+      "imageAssetID": "chang-beer",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "เบียร์",
+            "glossZhHans": "啤酒"
+          },
+          {
+            "thai": "ช้าง",
+            "glossZhHans": "大象；象牌"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "เบียร์",
+            "glossZhHans": "啤酒"
+          },
+          {
+            "thai": "ช้าง",
+            "glossZhHans": "大象；象牌"
+          }
+        ]
+      },
+      "explanationZhHans": "泰国最著名的本土啤酒品牌之一，“ช้าง”在泰语中是大象的意思。"
+    },
+    {
+      "id": "cola",
+      "category": "饮料与甜品",
+      "thai": "โค้ก",
+      "meaningZhHans": "可乐",
+      "audioID": "thai-menu-cola",
+      "imageAssetID": "cola",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "โค้ก",
+            "glossZhHans": "可乐"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "โค้ก",
+            "glossZhHans": "可乐"
+          }
+        ]
+      },
+      "explanationZhHans": "餐厅与便利店最普及的碳酸饮料。"
+    },
+    {
+      "id": "burger",
+      "category": "西式餐点",
+      "thai": "เบอร์เกอร์",
+      "meaningZhHans": "汉堡",
+      "audioID": "thai-menu-burger",
+      "imageAssetID": "burger",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "เบอร์เกอร์",
+            "glossZhHans": "汉堡"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "เบอร์เกอร์",
+            "glossZhHans": "汉堡"
+          }
+        ]
+      },
+      "explanationZhHans": "现代快餐店与西餐厅常见主食。"
+    },
+    {
+      "id": "spaghetti",
+      "category": "西式餐点",
+      "thai": "สปาเกตตี",
+      "meaningZhHans": "意大利面",
+      "audioID": "thai-menu-spaghetti",
+      "imageAssetID": "spaghetti",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "สปาเกตตี",
+            "glossZhHans": "意大利面"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "สปาเกตตี",
+            "glossZhHans": "意大利面"
+          }
+        ]
+      },
+      "explanationZhHans": "在泰国常被改良为融合风味，如绿咖喱意面或醉打抛炒意面。"
+    },
+    {
+      "id": "steak",
+      "category": "西式餐点",
+      "thai": "สเต๊ก",
+      "meaningZhHans": "牛排",
+      "audioID": "thai-menu-steak",
+      "imageAssetID": "steak",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "สเต๊ก",
+            "glossZhHans": "牛排"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "สเต๊ก",
+            "glossZhHans": "牛排"
+          }
+        ]
+      },
+      "explanationZhHans": "西餐厅主食，街头也有泰式黑胡椒牛排摊。"
+    },
+    {
+      "id": "sushi",
+      "category": "西式餐点",
+      "thai": "ซูชิ",
+      "meaningZhHans": "寿司",
+      "audioID": "thai-menu-sushi",
+      "imageAssetID": "sushi",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ซูชิ",
+            "glossZhHans": "寿司"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ซูชิ",
+            "glossZhHans": "寿司"
+          }
+        ]
+      },
+      "explanationZhHans": "在泰国极其流行的日式料理。"
+    },
+    {
+      "id": "ramen",
+      "category": "西式餐点",
+      "thai": "ราเม็ง",
+      "meaningZhHans": "拉面",
+      "audioID": "thai-menu-ramen",
+      "imageAssetID": "ramen",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "ราเม็ง",
+            "glossZhHans": "拉面"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "ราเม็ง",
+            "glossZhHans": "拉面"
+          }
+        ]
+      },
+      "explanationZhHans": "曼谷有大量地道日本拉面馆。"
+    },
+    {
+      "id": "caesar-salad",
+      "category": "西式餐点",
+      "thai": "สลัดซีซาร์",
+      "meaningZhHans": "凯撒沙拉",
+      "audioID": "thai-menu-caesar-salad",
+      "imageAssetID": "caesar-salad",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "สลัด",
+            "glossZhHans": "沙拉"
+          },
+          {
+            "thai": "ซีซาร์",
+            "glossZhHans": "凯撒"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "สลัด",
+            "glossZhHans": "沙拉"
+          },
+          {
+            "thai": "ซีซาร์",
+            "glossZhHans": "凯撒"
+          }
+        ]
+      },
+      "explanationZhHans": "罗马生菜搭配面包丁、培根碎与帕玛森干酪的经典西式沙拉。"
+    },
+    {
+      "id": "french-fries",
+      "category": "西式餐点",
+      "thai": "เฟรนช์ฟรายส์",
+      "meaningZhHans": "薯条",
+      "audioID": "thai-menu-french-fries",
+      "imageAssetID": "french-fries",
+      "breakdown": {
+        "combinations": [
+          {
+            "thai": "เฟรนช์ฟรายส์",
+            "glossZhHans": "薯条"
+          }
+        ],
+        "minimal": [
+          {
+            "thai": "เฟรนช์ฟรายส์",
+            "glossZhHans": "薯条"
+          }
+        ]
+      },
+      "explanationZhHans": "快餐与小酒馆经典小食。"
+    }
+  ]
+}

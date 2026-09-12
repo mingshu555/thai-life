@@ -1,0 +1,672 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-Hans",
+  "recordCount": 11,
+  "items": [
+    {
+      "id": "basics-dial-001",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "สวัสดีครับ",
+          "meaningZhHans": "你好",
+          "segments": [
+            {
+              "thai": "สวัสดี",
+              "gloss": "你好"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "สวัสดีค่ะ",
+          "meaningZhHans": "你好",
+          "segments": [
+            {
+              "thai": "สวัสดี",
+              "gloss": "你好"
+            },
+            {
+              "thai": "ค่ะ",
+              "gloss": "女性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics-dial-002",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "คุณชื่ออะไรครับ",
+          "meaningZhHans": "你叫什么名字",
+          "segments": [
+            {
+              "thai": "คุณ",
+              "gloss": "你"
+            },
+            {
+              "thai": "ชื่อ",
+              "gloss": "名字；叫"
+            },
+            {
+              "thai": "อะไร",
+              "gloss": "什么"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ผมชื่อหลี่หมิงครับ",
+          "meaningZhHans": "我叫李明",
+          "segments": [
+            {
+              "thai": "ผม",
+              "gloss": "我（男性）"
+            },
+            {
+              "thai": "ชื่อ",
+              "gloss": "名叫"
+            },
+            {
+              "thai": "หลี่หมิง",
+              "gloss": "李明"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "ยินดีที่ได้รู้จักครับ",
+          "meaningZhHans": "很高兴认识你",
+          "segments": [
+            {
+              "thai": "ยินดี",
+              "gloss": "高兴；乐意"
+            },
+            {
+              "thai": "ที่ได้",
+              "gloss": "能够；得以"
+            },
+            {
+              "thai": "รู้จัก",
+              "gloss": "认识"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics-dial-003",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "พูดไทยได้ไหมครับ",
+          "meaningZhHans": "会说泰语吗",
+          "segments": [
+            {
+              "thai": "พูด",
+              "gloss": "说"
+            },
+            {
+              "thai": "ไทย",
+              "gloss": "泰语"
+            },
+            {
+              "thai": "ได้ไหม",
+              "gloss": "会吗；可以吗"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ได้นิดหน่อยครับ",
+          "meaningZhHans": "会一点点",
+          "segments": [
+            {
+              "thai": "ได้",
+              "gloss": "会；可以"
+            },
+            {
+              "thai": "นิดหน่อย",
+              "gloss": "一点点"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "เก่งมากครับ",
+          "meaningZhHans": "很厉害",
+          "segments": [
+            {
+              "thai": "เก่ง",
+              "gloss": "厉害；擅长"
+            },
+            {
+              "thai": "มาก",
+              "gloss": "很；非常"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics-dial-004",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "ขอบคุณมากครับ",
+          "meaningZhHans": "非常感谢",
+          "segments": [
+            {
+              "thai": "ขอบคุณ",
+              "gloss": "谢谢"
+            },
+            {
+              "thai": "มาก",
+              "gloss": "非常"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ไม่เป็นไรค่ะ",
+          "meaningZhHans": "不用客气",
+          "segments": [
+            {
+              "thai": "ไม่เป็นไร",
+              "gloss": "没关系；不用客气"
+            },
+            {
+              "thai": "ค่ะ",
+              "gloss": "女性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "basics-dial-005",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "ขอโทษครับ",
+          "meaningZhHans": "对不起",
+          "segments": [
+            {
+              "thai": "ขอโทษ",
+              "gloss": "对不起；抱歉"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ไม่เป็นไรครับ",
+          "meaningZhHans": "没关系",
+          "segments": [
+            {
+              "thai": "ไม่เป็นไร",
+              "gloss": "没关系"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food_dining-dial-001",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "กี่คนครับ",
+          "meaningZhHans": "几位",
+          "segments": [
+            {
+              "thai": "กี่",
+              "gloss": "几"
+            },
+            {
+              "thai": "คน",
+              "gloss": "人；位"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "สองคนครับ",
+          "meaningZhHans": "两位",
+          "segments": [
+            {
+              "thai": "สอง",
+              "gloss": "两"
+            },
+            {
+              "thai": "คน",
+              "gloss": "人；位"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "เชิญทางนี้ครับ",
+          "meaningZhHans": "这边请",
+          "segments": [
+            {
+              "thai": "เชิญ",
+              "gloss": "请"
+            },
+            {
+              "thai": "ทางนี้",
+              "gloss": "这边"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food_dining-dial-002",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "รับอะไรดีครับ",
+          "meaningZhHans": "来点什么",
+          "segments": [
+            {
+              "thai": "รับ",
+              "gloss": "要；点"
+            },
+            {
+              "thai": "อะไร",
+              "gloss": "什么"
+            },
+            {
+              "thai": "ดี",
+              "gloss": "好；用于礼貌询问"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "เอาผัดไทยกับน้ำเปล่าครับ",
+          "meaningZhHans": "要泰式炒面和白水",
+          "segments": [
+            {
+              "thai": "เอา",
+              "gloss": "要"
+            },
+            {
+              "thai": "ผัดไทย",
+              "gloss": "泰式炒面"
+            },
+            {
+              "thai": "กับ",
+              "gloss": "和"
+            },
+            {
+              "thai": "น้ำเปล่า",
+              "gloss": "白水"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "เผ็ดไหมครับ",
+          "meaningZhHans": "辣吗",
+          "segments": [
+            {
+              "thai": "เผ็ด",
+              "gloss": "辣"
+            },
+            {
+              "thai": "ไหม",
+              "gloss": "吗"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ไม่เผ็ดครับ",
+          "meaningZhHans": "不辣",
+          "segments": [
+            {
+              "thai": "ไม่",
+              "gloss": "不"
+            },
+            {
+              "thai": "เผ็ด",
+              "gloss": "辣"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "food_dining-dial-003",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "คิดเงินครับ",
+          "meaningZhHans": "结账",
+          "segments": [
+            {
+              "thai": "คิดเงิน",
+              "gloss": "结账；算钱"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ทั้งหมดสองร้อยบาทครับ",
+          "meaningZhHans": "一共两百铢",
+          "segments": [
+            {
+              "thai": "ทั้งหมด",
+              "gloss": "总共；全部"
+            },
+            {
+              "thai": "สองร้อย",
+              "gloss": "两百"
+            },
+            {
+              "thai": "บาท",
+              "gloss": "泰铢"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "นี่ครับ ไม่ต้องทอนครับ",
+          "meaningZhHans": "给你，不用找了",
+          "segments": [
+            {
+              "thai": "นี่",
+              "gloss": "这个；给你"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            },
+            {
+              "thai": "ไม่ต้อง",
+              "gloss": "不用"
+            },
+            {
+              "thai": "ทอน",
+              "gloss": "找零"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-dial-001",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "กินข้าวหรือยัง",
+          "meaningZhHans": "吃饭了吗",
+          "segments": [
+            {
+              "thai": "กินข้าว",
+              "gloss": "吃饭"
+            },
+            {
+              "thai": "หรือยัง",
+              "gloss": "了吗；还是没有"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ยังเลย ไปกินด้วยกันไหม",
+          "meaningZhHans": "还没，一起去吃吗",
+          "segments": [
+            {
+              "thai": "ยังเลย",
+              "gloss": "还没有"
+            },
+            {
+              "thai": "ไป",
+              "gloss": "去"
+            },
+            {
+              "thai": "กิน",
+              "gloss": "吃"
+            },
+            {
+              "thai": "ด้วยกัน",
+              "gloss": "一起"
+            },
+            {
+              "thai": "ไหม",
+              "gloss": "吗"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "ได้เลยครับ",
+          "meaningZhHans": "好啊",
+          "segments": [
+            {
+              "thai": "ได้เลย",
+              "gloss": "好啊；当然可以"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-dial-002",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "ขอโทษที่มาสายครับ",
+          "meaningZhHans": "抱歉迟到了",
+          "segments": [
+            {
+              "thai": "ขอโทษ",
+              "gloss": "抱歉"
+            },
+            {
+              "thai": "ที่",
+              "gloss": "因为；所…的"
+            },
+            {
+              "thai": "มาสาย",
+              "gloss": "迟到"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "ไม่เป็นไรค่ะ เพิ่งมาถึงเหมือนกัน",
+          "meaningZhHans": "没关系，我也刚到",
+          "segments": [
+            {
+              "thai": "ไม่เป็นไร",
+              "gloss": "没关系"
+            },
+            {
+              "thai": "ค่ะ",
+              "gloss": "女性礼貌词"
+            },
+            {
+              "thai": "เพิ่ง",
+              "gloss": "刚刚"
+            },
+            {
+              "thai": "มาถึง",
+              "gloss": "到达"
+            },
+            {
+              "thai": "เหมือนกัน",
+              "gloss": "也一样；也是"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-dial-003",
+      "turns": [
+        {
+          "speaker": "A",
+          "thai": "คุณทำงานอะไรครับ",
+          "meaningZhHans": "你做什么工作",
+          "segments": [
+            {
+              "thai": "คุณ",
+              "gloss": "你"
+            },
+            {
+              "thai": "ทำงาน",
+              "gloss": "工作"
+            },
+            {
+              "thai": "อะไร",
+              "gloss": "什么"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "B",
+          "thai": "เป็นครูสอนภาษาอังกฤษครับ",
+          "meaningZhHans": "我是英语老师",
+          "segments": [
+            {
+              "thai": "เป็น",
+              "gloss": "是；担任"
+            },
+            {
+              "thai": "ครู",
+              "gloss": "老师"
+            },
+            {
+              "thai": "สอน",
+              "gloss": "教"
+            },
+            {
+              "thai": "ภาษาอังกฤษ",
+              "gloss": "英语"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        },
+        {
+          "speaker": "A",
+          "thai": "เก่งจังเลยครับ",
+          "meaningZhHans": "真厉害啊",
+          "segments": [
+            {
+              "thai": "เก่ง",
+              "gloss": "厉害"
+            },
+            {
+              "thai": "จังเลย",
+              "gloss": "真是；很"
+            },
+            {
+              "thai": "ครับ",
+              "gloss": "男性礼貌词"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "introductionZhHans": "泰国现代招牌常把泰文字母的圆圈简化掉。左边是标准字，右边是街头常见的无头字。",
+  "glyphs": [
+    {
+      "id": "lo-ling",
+      "standardThai": "ล",
+      "looplessThai": "ล",
+      "thaiName": "ลอ ลิง",
+      "audioID": "audio-home_living-word-023",
+      "visualHintZhHans": "常像 n；先看顶部拱形和右侧收笔。",
+      "exampleWords": [
+        "ลดราคา"
+      ]
+    },
+    {
+      "id": "kho-khwai",
+      "standardThai": "ค",
+      "looplessThai": "ค",
+      "thaiName": "คอ ควาย",
+      "audioID": "audio-basics-word-019",
+      "visualHintZhHans": "外圈简化后接近 n，靠词和局部开口区分。",
+      "exampleWords": [
+        "ราคา"
+      ]
+    },
+    {
+      "id": "ko-kai",
+      "standardThai": "ก",
+      "looplessThai": "ก",
+      "thaiName": "กอ ไก่",
+      "audioID": "audio-basics-word-001",
+      "visualHintZhHans": "顶部圆滑拱起，整体可像小写 n。",
+      "exampleWords": [
+        "ทางออก"
+      ]
+    },
+    {
+      "id": "do-dek",
+      "standardThai": "ด",
+      "looplessThai": "ด",
+      "thaiName": "ดอ เด็ก",
+      "audioID": "audio-basics-word-008",
+      "visualHintZhHans": "左圆右直，常产生小写 d 的错觉。",
+      "exampleWords": [
+        "ลดราคา",
+        "เปิด"
+      ]
+    },
+    {
+      "id": "to-tao",
+      "standardThai": "ต",
+      "looplessThai": "ต",
+      "thaiName": "ตอ เต่า",
+      "audioID": "audio-basics-word-010",
+      "visualHintZhHans": "顶部常留凹口，轮廓容易像小写 m。",
+      "exampleWords": [
+        "ตลาด"
+      ]
+    },
+    {
+      "id": "tho-thahan",
+      "standardThai": "ท",
+      "looplessThai": "ท",
+      "thaiName": "ทอ ทหาร",
+      "audioID": "audio-basics-word-011",
+      "visualHintZhHans": "左高右低，整体轮廓常像 h。",
+      "exampleWords": [
+        "ทางออก"
+      ]
+    },
+    {
+      "id": "no-nu",
+      "standardThai": "น",
+      "looplessThai": "น",
+      "thaiName": "นอ หนู",
+      "audioID": "audio-basics-word-006",
+      "visualHintZhHans": "都是 u 形时，重点看右下内折。",
+      "exampleWords": [
+        "ชานม"
+      ]
+    },
+    {
+      "id": "mo-ma",
+      "standardThai": "ม",
+      "looplessThai": "ม",
+      "thaiName": "มอ ม้า",
+      "audioID": "audio-basics-word-007",
+      "visualHintZhHans": "同为 u 形，左下通常更平、更扁。",
+      "exampleWords": [
+        "ชานม"
+      ]
+    },
+    {
+      "id": "yo-yak",
+      "standardThai": "ย",
+      "looplessThai": "ย",
+      "thaiName": "ยอ ยักษ์",
+      "audioID": "audio-basics-word-012",
+      "visualHintZhHans": "左侧立柱中段明显内凹，是关键特征。",
+      "exampleWords": [
+        "ยา"
+      ]
+    },
+    {
+      "id": "po-pla",
+      "standardThai": "ป",
+      "looplessThai": "ป",
+      "thaiName": "ปอ ปลา",
+      "audioID": "audio-basics-word-009",
+      "visualHintZhHans": "u 形右腿明显拉高，常带上扬感。",
+      "exampleWords": [
+        "เปิด",
+        "ปิด"
+      ]
+    },
+    {
+      "id": "cho-chang",
+      "standardThai": "ช",
+      "looplessThai": "ช",
+      "thaiName": "ชอ ช้าง",
+      "audioID": "audio-basics-word-013",
+      "visualHintZhHans": "观察右上扬尾或顶部特征，别只看 u 形。",
+      "exampleWords": [
+        "ชานม"
+      ]
+    },
+    {
+      "id": "fo-fa",
+      "standardThai": "ฟ",
+      "looplessThai": "ฟ",
+      "thaiName": "ฟอ ฟัน",
+      "audioID": "audio-basics-word-015",
+      "visualHintZhHans": "右侧上扬尾巴是重要辨认点。",
+      "exampleWords": []
+    },
+    {
+      "id": "so-so",
+      "standardThai": "ส",
+      "looplessThai": "ส",
+      "thaiName": "สอ เสือ",
+      "audioID": "audio-basics-word-016",
+      "visualHintZhHans": "观察右上短尾和顶部凹口。",
+      "exampleWords": [
+        "สด"
+      ]
+    },
+    {
+      "id": "sara-e",
+      "standardThai": "เ",
+      "looplessThai": "เ",
+      "thaiName": "สระ เอ",
+      "audioID": "audio-basics-vowel-004",
+      "visualHintZhHans": "前置元音常被简化成一根竖线。",
+      "exampleWords": [
+        "เปิด"
+      ]
+    },
+    {
+      "id": "sara-ae",
+      "standardThai": "แ",
+      "looplessThai": "แ",
+      "thaiName": "สระ แอ",
+      "audioID": "audio-basics-vowel-005",
+      "visualHintZhHans": "前置元音常被简化成两根竖线。",
+      "exampleWords": []
+    },
+    {
+      "id": "ro-rua",
+      "standardThai": "ร",
+      "looplessThai": "ร",
+      "thaiName": "รอ เรือ",
+      "audioID": "audio-basics-word-014",
+      "visualHintZhHans": "底部圆圈简化，顶部小勾和直立笔画是识别点。",
+      "exampleWords": [
+        "ลดราคา"
+      ]
+    },
+    {
+      "id": "sara-aa",
+      "standardThai": "า",
+      "looplessThai": "า",
+      "thaiName": "สระ อา",
+      "audioID": "audio-basics-vowel-001",
+      "visualHintZhHans": "右下弯折通常保留，是长元音的稳定线索。",
+      "exampleWords": [
+        "ชานม",
+        "ยา",
+        "ตลาด"
+      ]
+    },
+    {
+      "id": "sara-i",
+      "standardThai": "ิ",
+      "looplessThai": "ิ",
+      "thaiName": "สระ อิ",
+      "audioID": "audio-basics-vowel-002",
+      "visualHintZhHans": "上方短帽在现代字中常被压扁。",
+      "exampleWords": [
+        "เปิด",
+        "ปิด"
+      ]
+    },
+    {
+      "id": "sara-ii",
+      "standardThai": "ี",
+      "looplessThai": "ี",
+      "thaiName": "สระ อี",
+      "audioID": "audio-basics-vowel-003",
+      "visualHintZhHans": "长上元音的双竖形在现代字中会更扁平，但仍位于辅音上方。",
+      "exampleWords": [
+        "สี่"
+      ]
+    },
+    {
+      "id": "kho-khai",
+      "standardThai": "ข",
+      "looplessThai": "ข",
+      "thaiName": "ขอ ไข่",
+      "audioID": "audio-basics-word-003",
+      "visualHintZhHans": "窄身 u 形，右上可能保留向上斜探的尾巴。",
+      "exampleWords": [
+        "ทางเข้า"
+      ]
+    },
+    {
+      "id": "ngo-ngu",
+      "standardThai": "ง",
+      "looplessThai": "ง",
+      "thaiName": "งอ งู",
+      "audioID": "audio-basics-word-004",
+      "visualHintZhHans": "圆圈简化后像没有点的 j 或反向弯钩。",
+      "exampleWords": [
+        "ทางเข้า"
+      ]
+    },
+    {
+      "id": "o-ang",
+      "standardThai": "อ",
+      "looplessThai": "อ",
+      "thaiName": "ออ อ่าง",
+      "audioID": "audio-basics-word-005",
+      "visualHintZhHans": "载体字的圆圈会消失，连续出现时要靠词切分。",
+      "exampleWords": [
+        "ทางออก"
+      ]
+    },
+    {
+      "id": "mai-tho",
+      "standardThai": "้",
+      "looplessThai": "้",
+      "thaiName": "ไม้โท",
+      "audioID": "audio-basics-tone-002",
+      "visualHintZhHans": "声调符号会扁平化，但仍保留在辅音上方。",
+      "exampleWords": [
+        "ทางเข้า"
+      ]
+    },
+    {
+      "id": "cho-chan",
+      "standardThai": "จ",
+      "looplessThai": "จ",
+      "thaiName": "จอ จาน",
+      "audioID": "audio-basics-word-017",
+      "visualHintZhHans": "圆圈简化后看顶部和右侧收笔，不要只认 u 形。",
+      "exampleWords": [
+        "จ่าย"
+      ]
+    },
+    {
+      "id": "mai-ek",
+      "standardThai": "่",
+      "looplessThai": "่",
+      "thaiName": "ไม้เอก",
+      "audioID": "audio-basics-tone-001",
+      "visualHintZhHans": "上方短折线在无头字体中更扁、更轻。",
+      "exampleWords": [
+        "จ่าย"
+      ]
+    },
+    {
+      "id": "ho-hip",
+      "standardThai": "ห",
+      "looplessThai": "ห",
+      "thaiName": "หอ หีบ",
+      "audioID": "audio-basics-word-018",
+      "visualHintZhHans": "高竖和顶部折笔是招牌中识别高字形的线索。",
+      "exampleWords": [
+        "ห้ามเข้า"
+      ]
+    }
+  ],
+  "confusionGroups": [
+    {
+      "id": "nu-ma",
+      "glyphIDs": [
+        "no-nu",
+        "mo-ma"
+      ],
+      "comparisonHintZhHans": "两者都像 u：น 看右下内折，ม 看左下平折。"
+    },
+    {
+      "id": "n-family",
+      "glyphIDs": [
+        "lo-ling",
+        "kho-khwai",
+        "ko-kai"
+      ],
+      "comparisonHintZhHans": "都可能像 n，不要脱离完整词，只看单个拱门下结论。"
+    },
+    {
+      "id": "tail-family",
+      "glyphIDs": [
+        "cho-chang",
+        "po-pla",
+        "fo-fa"
+      ],
+      "comparisonHintZhHans": "比较右侧是否上扬、尾巴长短和顶部凹口。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "milk-tea",
+      "titleZhHans": "奶茶店",
+      "imageAssetID": "milk-tea",
+      "thaiWord": "ชานม",
+      "standardThaiWord": "ชานม",
+      "meaningZhHans": "奶茶",
+      "audioID": "loopless-signage-word-chaanom",
+      "glyphExplanationZhHans": "ช 的右上特征、น 与 ม 的底部折角都能在招牌中复习。"
+    },
+    {
+      "id": "discount",
+      "titleZhHans": "商场促销",
+      "imageAssetID": "discount",
+      "thaiWord": "ลดราคา",
+      "standardThaiWord": "ลดราคา",
+      "meaningZhHans": "降价／打折",
+      "audioID": "audio-numbers-chunk-013",
+      "glyphExplanationZhHans": "ล、ด、ร、ค 的拱形和 d/n 轮廓集中出现。"
+    },
+    {
+      "id": "open-close",
+      "titleZhHans": "店门营业牌",
+      "imageAssetID": "open-close",
+      "thaiWord": "เปิด / ปิด",
+      "standardThaiWord": "เปิด / ปิด",
+      "meaningZhHans": "营业／关闭",
+      "audioID": "audio-home_living-word-023",
+      "glyphExplanationZhHans": "เ 的前置竖线和 ด、ป 的无头轮廓是识读重点；两个词分别播放。"
+    },
+    {
+      "id": "pharmacy",
+      "titleZhHans": "药店",
+      "imageAssetID": "pharmacy",
+      "thaiWord": "ยา",
+      "standardThaiWord": "ยา",
+      "meaningZhHans": "药／药店",
+      "audioID": "audio-health-word-006",
+      "glyphExplanationZhHans": "ย 的左侧内凹配合绿色招牌，是很实用的街头识别线索。"
+    },
+    {
+      "id": "station-exit",
+      "titleZhHans": "地铁指示",
+      "imageAssetID": "station-exit",
+      "thaiWord": "ทางออก / ทางเข้า",
+      "standardThaiWord": "ทางออก / ทางเข้า",
+      "meaningZhHans": "出口／入口",
+      "audioID": "audio-safety-word-041",
+      "glyphExplanationZhHans": "ท 像 h，เ 是前置竖线；出口与入口作为一组直接对照。"
+    },
+    {
+      "id": "closed-sign",
+      "titleZhHans": "关门牌",
+      "imageAssetID": null,
+      "thaiWord": "ปิด",
+      "standardThaiWord": "ปิด",
+      "meaningZhHans": "关闭／打烊",
+      "audioID": "audio-home_living-word-024",
+      "glyphExplanationZhHans": "ป 的右腿高度、ิ 的上方短帽和 ด 的 d 形轮廓组成常见关门词。"
+    },
+    {
+      "id": "market",
+      "titleZhHans": "市场",
+      "imageAssetID": null,
+      "thaiWord": "ตลาด",
+      "standardThaiWord": "ตลาด",
+      "meaningZhHans": "市场",
+      "audioID": "audio-basics-word-010",
+      "glyphExplanationZhHans": "ต 的顶部凹口、ล 的 n 形和 า 的右下弯折可以一起复习。"
+    },
+    {
+      "id": "coffee",
+      "titleZhHans": "咖啡店",
+      "imageAssetID": null,
+      "thaiWord": "กาแฟ",
+      "standardThaiWord": "กาแฟ",
+      "meaningZhHans": "咖啡",
+      "audioID": "audio-basics-word-001",
+      "glyphExplanationZhHans": "ก 的拱形、า 的长元音、แ 的前置双竖线和 ฟ 的上扬尾巴。"
+    },
+    {
+      "id": "payment",
+      "titleZhHans": "收银台",
+      "imageAssetID": null,
+      "thaiWord": "จ่าย",
+      "standardThaiWord": "จ่าย",
+      "meaningZhHans": "付款",
+      "audioID": "audio-numbers-word-037",
+      "glyphExplanationZhHans": "จ 的收笔、่ 的扁平声调符号和 า 的长元音是关键。"
+    },
+    {
+      "id": "station-entrance",
+      "titleZhHans": "地铁入口",
+      "imageAssetID": null,
+      "thaiWord": "ทางเข้า",
+      "standardThaiWord": "ทางเข้า",
+      "meaningZhHans": "入口",
+      "audioID": "audio-safety-word-042",
+      "glyphExplanationZhHans": "ท 像 h、เ 是前置竖线，ข 与 ้ 的局部特征帮助切分词。"
+    },
+    {
+      "id": "no-entry",
+      "titleZhHans": "禁止进入",
+      "imageAssetID": null,
+      "thaiWord": "ห้ามเข้า",
+      "standardThaiWord": "ห้ามเข้า",
+      "meaningZhHans": "禁止进入",
+      "audioID": "audio-safety-word-042",
+      "glyphExplanationZhHans": "ห 的高竖、้ 的上方符号和 ข 的窄 u 形出现在常见警示牌中。"
+    },
+    {
+      "id": "four-sign",
+      "titleZhHans": "数字标识",
+      "imageAssetID": null,
+      "thaiWord": "สี่",
+      "standardThaiWord": "สี่",
+      "meaningZhHans": "四",
+      "audioID": "audio-numbers-word-004",
+      "glyphExplanationZhHans": "ี 的双竖上元音与 ่ 的声调符号叠在 ส 上方，是认识上方符号组合的例子。"
+    }
+  ]
+}

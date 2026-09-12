@@ -1,0 +1,867 @@
+[
+  {
+    "id": "family-mai",
+    "rootThai": "ไม่",
+    "rootRomanization": "mài",
+    "rootMeaningZhHans": "不 (否定前缀)",
+    "rootAudioID": "",
+    "usageNote": "泰语中最核心的否定词，置于动词、形容词或助动词前表示否定。",
+    "category": "basics",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "basics-word-014",
+        "thai": "ไม่มี",
+        "romanization": "mâi-mii",
+        "meaningZhHans": "没有",
+        "audioID": "audio-basics-word-014"
+      },
+      {
+        "id": "basics-word-008",
+        "thai": "ไม่ใช่",
+        "romanization": "mâi-châi",
+        "meaningZhHans": "不是",
+        "audioID": "audio-basics-word-008"
+      },
+      {
+        "id": "basics-word-010",
+        "thai": "ไม่ได้",
+        "romanization": "mâi-dâi",
+        "meaningZhHans": "不可以/不能",
+        "audioID": "audio-basics-word-010"
+      },
+      {
+        "id": "basics-word-012",
+        "thai": "ไม่เอา",
+        "romanization": "mâi-ao",
+        "meaningZhHans": "不要",
+        "audioID": "audio-basics-word-012"
+      },
+      {
+        "id": "basics-word-032",
+        "thai": "ไม่รู้",
+        "romanization": "mâi-rúu",
+        "meaningZhHans": "不知道",
+        "audioID": "audio-basics-word-032"
+      },
+      {
+        "id": "basics-word-036",
+        "thai": "ไม่ชอบ",
+        "romanization": "mâi-chɔ̂ɔp",
+        "meaningZhHans": "不喜欢",
+        "audioID": "audio-basics-word-036"
+      },
+      {
+        "id": "basics-word-016",
+        "thai": "ไม่เป็น",
+        "romanization": "mâi-pen",
+        "meaningZhHans": "不是/不会",
+        "audioID": "audio-basics-word-016"
+      },
+      {
+        "id": "food_dining-chunk-007",
+        "thai": "ไม่เผ็ด",
+        "romanization": "mâi phèt",
+        "meaningZhHans": "不辣",
+        "audioID": "audio-food_dining-chunk-007"
+      },
+      {
+        "id": "health-chunk-006",
+        "thai": "ไม่สบาย",
+        "romanization": "mâi sà-baai",
+        "meaningZhHans": "不舒服",
+        "audioID": "audio-health-chunk-006"
+      },
+      {
+        "id": "food_dining-word-018",
+        "thai": "ไม่อร่อย",
+        "romanization": "mâi-à-rɔ̀i",
+        "meaningZhHans": "不好吃",
+        "audioID": "audio-food_dining-word-018"
+      }
+    ]
+  },
+  {
+    "id": "family-kho",
+    "rootThai": "ขอ",
+    "rootRomanization": "khɔ̌ɔ",
+    "rootMeaningZhHans": "请 / 要 / 索取",
+    "rootAudioID": "",
+    "usageNote": "泰语最高频的礼貌索取前缀，点餐、购物及寻求帮助时置于句首。",
+    "category": "basics",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "shopping-word-003",
+        "thai": "ของ",
+        "romanization": "khɔ̌ɔŋ",
+        "meaningZhHans": "东西/物品",
+        "audioID": "audio-shopping-word-003"
+      },
+      {
+        "id": "basics-word-005",
+        "thai": "ขอโทษ",
+        "romanization": "khɔ̌ɔ-thôot",
+        "meaningZhHans": "对不起/打扰一下",
+        "audioID": "audio-basics-word-005"
+      },
+      {
+        "id": "basics-word-004",
+        "thai": "ขอบคุณ",
+        "romanization": "khɔ̀ɔp-khun",
+        "meaningZhHans": "谢谢",
+        "audioID": "audio-basics-word-004"
+      },
+      {
+        "id": "shopping-word-039",
+        "thai": "ของฝาก",
+        "romanization": "khɔ̌ɔŋ-fàak",
+        "meaningZhHans": "纪念品/伴手礼",
+        "audioID": "audio-shopping-word-039"
+      },
+      {
+        "id": "shopping-chunk-020",
+        "thai": "ของหมด",
+        "romanization": "khɔ̌ɔŋ mòt",
+        "meaningZhHans": "卖完了",
+        "audioID": "audio-shopping-chunk-020"
+      },
+      {
+        "id": "safety-word-026",
+        "thai": "ของหาย",
+        "romanization": "khɔ̌ɔŋ hǎai",
+        "meaningZhHans": "东西丢了",
+        "audioID": "audio-safety-word-026"
+      },
+      {
+        "id": "food_dining-word-054",
+        "thai": "ของหวาน",
+        "romanization": "khɔ̌ɔŋ-wǎan",
+        "meaningZhHans": "甜点",
+        "audioID": "audio-food_dining-word-054"
+      },
+      {
+        "id": "basics-chunk-002",
+        "thai": "ขอโทษนะคะ",
+        "romanization": "khɔ̌ɔ-thôot ná khá",
+        "meaningZhHans": "打扰一下(女)",
+        "audioID": "audio-basics-chunk-002"
+      },
+      {
+        "id": "shopping-sent-080",
+        "thai": "ขอถุงด้วย",
+        "romanization": "K̄hx t̄hung d̂wy",
+        "meaningZhHans": "请给我一个袋子。",
+        "audioID": "audio-shopping-sent-080"
+      },
+      {
+        "id": "shopping-chunk-001",
+        "thai": "ขอลองหน่อย",
+        "romanization": "khɔ̌ɔ lɔɔŋ nɔ̀i",
+        "meaningZhHans": "请让我试一下",
+        "audioID": "audio-shopping-chunk-001"
+      }
+    ]
+  },
+  {
+    "id": "family-thii",
+    "rootThai": "ที่",
+    "rootRomanization": "thîi",
+    "rootMeaningZhHans": "场所 / 设施 / 地方",
+    "rootAudioID": "",
+    "usageNote": "名词性前缀，后接动作或用途词汇，构成各类公共场所或设施名称。",
+    "category": "local_errands",
+    "itemCount": 5,
+    "items": [
+      {
+        "id": "hotel-word-048",
+        "thai": "ที่พัก",
+        "romanization": "thîi-phák",
+        "meaningZhHans": "住宿",
+        "audioID": "audio-hotel-word-048"
+      },
+      {
+        "id": "transport-word-047",
+        "thai": "ที่นั่ง",
+        "romanization": "thîi-nâŋ",
+        "meaningZhHans": "座位",
+        "audioID": "audio-transport-word-047"
+      },
+      {
+        "id": "phone_network-word-016",
+        "thai": "ที่ชาร์จ",
+        "romanization": "thîi-cháat",
+        "meaningZhHans": "充电器",
+        "audioID": "audio-phone_network-word-016"
+      },
+      {
+        "id": "hotel-word-016",
+        "thai": "ที่จอดรถ",
+        "romanization": "thîi cɔ̀ɔt rót",
+        "meaningZhHans": "停车场",
+        "audioID": "audio-hotel-word-016"
+      },
+      {
+        "id": "airport-word-041",
+        "thai": "ที่สูบบุหรี่",
+        "romanization": "thîi sùup-bù-rìi",
+        "meaningZhHans": "吸烟区",
+        "audioID": "audio-airport-word-041"
+      }
+    ]
+  },
+  {
+    "id": "family-nam",
+    "rootThai": "น้ำ",
+    "rootRomanization": "náam",
+    "rootMeaningZhHans": "水 / 液体",
+    "rootAudioID": "audio-food_dining-word-002",
+    "usageNote": "常用于名词前构成各类饮品、水体及与水相关的设施名称。",
+    "category": "food_dining",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "weather_leisure-word-028",
+        "thai": "น้ำตก",
+        "romanization": "nám-tòk",
+        "meaningZhHans": "瀑布",
+        "audioID": "audio-weather_leisure-word-028"
+      },
+      {
+        "id": "food_dining-word-036",
+        "thai": "น้ำตาล",
+        "romanization": "nám-taan",
+        "meaningZhHans": "糖",
+        "audioID": "audio-food_dining-word-036"
+      },
+      {
+        "id": "food_dining-word-039",
+        "thai": "น้ำปลา",
+        "romanization": "nám-plaa",
+        "meaningZhHans": "鱼露",
+        "audioID": "audio-food_dining-word-039"
+      },
+      {
+        "id": "food_dining-word-030",
+        "thai": "น้ำแข็ง",
+        "romanization": "nám-khɛ̌ŋ",
+        "meaningZhHans": "冰",
+        "audioID": "audio-food_dining-word-030"
+      },
+      {
+        "id": "food_dining-word-056",
+        "thai": "น้ำจิ้ม",
+        "romanization": "nám-cîm",
+        "meaningZhHans": "蘸酱",
+        "audioID": "audio-food_dining-word-056"
+      },
+      {
+        "id": "home_living-chunk-009",
+        "thai": "น้ำรั่ว",
+        "romanization": "náam rûa",
+        "meaningZhHans": "漏水",
+        "audioID": "audio-home_living-chunk-009"
+      },
+      {
+        "id": "safety-word-009",
+        "thai": "น้ำท่วม",
+        "romanization": "náam-thûam",
+        "meaningZhHans": "水灾",
+        "audioID": "audio-safety-word-009"
+      },
+      {
+        "id": "hotel-word-025",
+        "thai": "น้ำร้อน",
+        "romanization": "nám-rɔ́ɔn",
+        "meaningZhHans": "热水",
+        "audioID": "audio-hotel-word-025"
+      },
+      {
+        "id": "food_dining-word-031",
+        "thai": "น้ำเปล่า",
+        "romanization": "nám-plàao",
+        "meaningZhHans": "白水/纯水",
+        "audioID": "audio-food_dining-word-031"
+      },
+      {
+        "id": "food_dining-word-035",
+        "thai": "น้ำผลไม้",
+        "romanization": "nám-phǒn-lá-mái",
+        "meaningZhHans": "果汁",
+        "audioID": "audio-food_dining-word-035"
+      }
+    ]
+  },
+  {
+    "id": "family-rot",
+    "rootThai": "รถ",
+    "rootRomanization": "rót",
+    "rootMeaningZhHans": "车 / 车辆",
+    "rootAudioID": "audio-transport-word-001",
+    "usageNote": "表示各类陆上交通工具，后面加修饰词表示具体车种。",
+    "category": "transport",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "transport-word-003",
+        "thai": "รถไฟ",
+        "romanization": "rót-fai",
+        "meaningZhHans": "火车",
+        "audioID": "audio-transport-word-003"
+      },
+      {
+        "id": "transport-word-040",
+        "thai": "รถติด",
+        "romanization": "rót-tìt",
+        "meaningZhHans": "堵车",
+        "audioID": "audio-transport-word-040"
+      },
+      {
+        "id": "transport-word-004",
+        "thai": "รถเมล์",
+        "romanization": "rót-mee",
+        "meaningZhHans": "公交车",
+        "audioID": "audio-transport-word-004"
+      },
+      {
+        "id": "airport-word-034",
+        "thai": "รถเข็น",
+        "romanization": "rót-khěn",
+        "meaningZhHans": "推车",
+        "audioID": "audio-airport-word-034"
+      },
+      {
+        "id": "transport-word-002",
+        "thai": "รถไฟฟ้า",
+        "romanization": "rót-fai-fáa",
+        "meaningZhHans": "轻轨/天铁",
+        "audioID": "audio-transport-word-002"
+      },
+      {
+        "id": "transport-chunk-017",
+        "thai": "รถติดมาก",
+        "romanization": "rót tìt mâak",
+        "meaningZhHans": "堵车很严重",
+        "audioID": "audio-transport-chunk-017"
+      },
+      {
+        "id": "safety-word-003",
+        "thai": "รถพยาบาล",
+        "romanization": "rót-phá-yaa-baan",
+        "meaningZhHans": "救护车",
+        "audioID": "audio-safety-word-003"
+      },
+      {
+        "id": "safety-word-004",
+        "thai": "รถดับเพลิง",
+        "romanization": "rót-dàp-phləəŋ",
+        "meaningZhHans": "消防车",
+        "audioID": "audio-safety-word-004"
+      },
+      {
+        "id": "transport-sent-007",
+        "thai": "รถติดไหมครับ",
+        "romanization": "rót tìt mǎi khráp",
+        "meaningZhHans": "堵车吗(男)",
+        "audioID": "audio-transport-sent-007"
+      },
+      {
+        "id": "transport-word-005",
+        "thai": "รถไฟฟ้าใต้ดิน",
+        "romanization": "rót-fai-fáa-tâi-din",
+        "meaningZhHans": "地铁",
+        "audioID": "audio-transport-word-005"
+      }
+    ]
+  },
+  {
+    "id": "family-hong",
+    "rootThai": "ห้อง",
+    "rootRomanization": "hɔ̂ɔŋ",
+    "rootMeaningZhHans": "房间 / 空间",
+    "rootAudioID": "audio-home_living-word-002",
+    "usageNote": "表示各类特定用途的房间或建筑物内部空间。",
+    "category": "hotel",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "home_living-word-003",
+        "thai": "ห้องนอน",
+        "romanization": "hɔ̂ɔŋ-nɔɔn",
+        "meaningZhHans": "卧室",
+        "audioID": "audio-home_living-word-003"
+      },
+      {
+        "id": "home_living-word-004",
+        "thai": "ห้องน้ำ",
+        "romanization": "hɔ̂ɔŋ-náam",
+        "meaningZhHans": "卫生间",
+        "audioID": "audio-home_living-word-004"
+      },
+      {
+        "id": "hotel-word-002",
+        "thai": "ห้องพัก",
+        "romanization": "hɔ̂ɔŋ-phák",
+        "meaningZhHans": "客房",
+        "audioID": "audio-hotel-word-002"
+      },
+      {
+        "id": "home_living-word-005",
+        "thai": "ห้องครัว",
+        "romanization": "hɔ̂ɔŋ-khrua",
+        "meaningZhHans": "厨房",
+        "audioID": "audio-home_living-word-005"
+      },
+      {
+        "id": "hotel-word-007",
+        "thai": "ห้องว่าง",
+        "romanization": "hɔ̂ɔŋ wâaŋ",
+        "meaningZhHans": "空房",
+        "audioID": "audio-hotel-word-007"
+      },
+      {
+        "id": "hotel-word-008",
+        "thai": "ห้องเต็ม",
+        "romanization": "hɔ̂ɔŋ tem",
+        "meaningZhHans": "满房",
+        "audioID": "audio-hotel-word-008"
+      },
+      {
+        "id": "hotel-word-011",
+        "thai": "ห้องสวีท",
+        "romanization": "hɔ̂ɔŋ sà-wìit",
+        "meaningZhHans": "套房",
+        "audioID": "audio-hotel-word-011"
+      },
+      {
+        "id": "home_living-chunk-015",
+        "thai": "ห้องว่างไหม",
+        "romanization": "hɔ̂ɔŋ wâaŋ mǎi",
+        "meaningZhHans": "有空房吗",
+        "audioID": "audio-home_living-chunk-015"
+      },
+      {
+        "id": "home_living-word-006",
+        "thai": "ห้องนั่งเล่น",
+        "romanization": "hɔ̂ɔŋ-nâŋ-lên",
+        "meaningZhHans": "客厅",
+        "audioID": "audio-home_living-word-006"
+      },
+      {
+        "id": "hotel-word-010",
+        "thai": "ห้องเตียงคู่",
+        "romanization": "hɔ̂ɔŋ tiaŋ khûu",
+        "meaningZhHans": "双人房",
+        "audioID": "audio-hotel-word-010"
+      }
+    ]
+  },
+  {
+    "id": "family-puat",
+    "rootThai": "ปวด",
+    "rootRomanization": "pùat",
+    "rootMeaningZhHans": "疼 / 疼痛",
+    "rootAudioID": "audio-health-word-012",
+    "usageNote": "健康与就医高频词根，后接身体器官名称表示具体疼痛部位。",
+    "category": "health",
+    "itemCount": 2,
+    "items": [
+      {
+        "id": "health-chunk-001",
+        "thai": "ปวดหัว",
+        "romanization": "pùat hǔa",
+        "meaningZhHans": "头疼",
+        "audioID": "audio-health-chunk-001"
+      },
+      {
+        "id": "health-chunk-002",
+        "thai": "ปวดท้อง",
+        "romanization": "pùat thɔ́ɔŋ",
+        "meaningZhHans": "肚子疼",
+        "audioID": "audio-health-chunk-002"
+      }
+    ]
+  },
+  {
+    "id": "family-pen",
+    "rootThai": "เป็น",
+    "rootRomanization": "pen",
+    "rootMeaningZhHans": "患病 / 处于...状态",
+    "rootAudioID": "audio-basics-word-015",
+    "usageNote": "描述身体健康状况或罹患具体病症时的前缀动词。",
+    "category": "health",
+    "itemCount": 3,
+    "items": [
+      {
+        "id": "health-word-022",
+        "thai": "เป็นลม",
+        "romanization": "pen-lom",
+        "meaningZhHans": "晕倒",
+        "audioID": "audio-health-word-022"
+      },
+      {
+        "id": "health-chunk-005",
+        "thai": "เป็นไข้",
+        "romanization": "pen khâi",
+        "meaningZhHans": "发烧了",
+        "audioID": "audio-health-chunk-005"
+      },
+      {
+        "id": "health-chunk-004",
+        "thai": "เป็นหวัด",
+        "romanization": "pen wàt",
+        "meaningZhHans": "感冒了",
+        "audioID": "audio-health-chunk-004"
+      }
+    ]
+  },
+  {
+    "id": "family-chaang",
+    "rootThai": "ช่าง",
+    "rootRomanization": "châang",
+    "rootMeaningZhHans": "师傅 / 维修工",
+    "rootAudioID": "audio-local_errands-word-035",
+    "usageNote": "职业前缀，后面接维修领域或专业，表示各类专业技术工种。",
+    "category": "home_living",
+    "itemCount": 3,
+    "items": [
+      {
+        "id": "local_errands-word-036",
+        "thai": "ช่างไฟ",
+        "romanization": "châaŋ fai",
+        "meaningZhHans": "电工",
+        "audioID": "audio-local_errands-word-036"
+      },
+      {
+        "id": "local_errands-word-038",
+        "thai": "ช่างแอร์",
+        "romanization": "châaŋ ɛɛ",
+        "meaningZhHans": "空调师傅",
+        "audioID": "audio-local_errands-word-038"
+      },
+      {
+        "id": "local_errands-word-037",
+        "thai": "ช่างประปา",
+        "romanization": "châaŋ prà-paa",
+        "meaningZhHans": "水管工",
+        "audioID": "audio-local_errands-word-037"
+      }
+    ]
+  },
+  {
+    "id": "family-krapao",
+    "rootThai": "กระเป๋า",
+    "rootRomanization": "krà-pǎo",
+    "rootMeaningZhHans": "包 / 行李 / 袋子",
+    "rootAudioID": "audio-shopping-word-010",
+    "usageNote": "随身物品与出行词根，表示各类包具、手袋及行李。",
+    "category": "airport",
+    "itemCount": 3,
+    "items": [
+      {
+        "id": "safety-word-027",
+        "thai": "กระเป๋าหาย",
+        "romanization": "krà-pǎo hǎai",
+        "meaningZhHans": "包丢了",
+        "audioID": "audio-safety-word-027"
+      },
+      {
+        "id": "airport-word-005",
+        "thai": "กระเป๋าถือ",
+        "romanization": "krà-pǎo-thʉ̌ʉ",
+        "meaningZhHans": "手提行李",
+        "audioID": "audio-airport-word-005"
+      },
+      {
+        "id": "transport-word-050",
+        "thai": "กระเป๋าเดินทาง",
+        "romanization": "krà-pǎo-dəən-thaaŋ",
+        "meaningZhHans": "行李箱",
+        "audioID": "audio-transport-word-050"
+      }
+    ]
+  },
+  {
+    "id": "family-tuu",
+    "rootThai": "ตู้",
+    "rootRomanization": "tûu",
+    "rootMeaningZhHans": "柜 / 箱 / 自动机",
+    "rootAudioID": "audio-home_living-word-012",
+    "usageNote": "家具与自助设施前缀，用于各类柜子及自助服务终端。",
+    "category": "home_living",
+    "itemCount": 1,
+    "items": [
+      {
+        "id": "home_living-word-013",
+        "thai": "ตู้เย็น",
+        "romanization": "tûu-yen",
+        "meaningZhHans": "冰箱",
+        "audioID": "audio-home_living-word-013"
+      }
+    ]
+  },
+  {
+    "id": "family-wan",
+    "rootThai": "วัน",
+    "rootRomanization": "wan",
+    "rootMeaningZhHans": "天 / 日 / 星期",
+    "rootAudioID": "audio-numbers-word-017",
+    "usageNote": "时间相关词根，常用于表示日期、节日及特定日子。",
+    "category": "numbers",
+    "itemCount": 10,
+    "items": [
+      {
+        "id": "numbers-word-020",
+        "thai": "วันนี้",
+        "romanization": "wan-níi",
+        "meaningZhHans": "今天",
+        "audioID": "audio-numbers-word-020"
+      },
+      {
+        "id": "weather_leisure-word-037",
+        "thai": "วันหยุด",
+        "romanization": "wan-yùt",
+        "meaningZhHans": "假日",
+        "audioID": "audio-weather_leisure-word-037"
+      },
+      {
+        "id": "phone_network-chunk-020",
+        "thai": "วันนี้หมด",
+        "romanization": "wan-níi mòt",
+        "meaningZhHans": "今天用完",
+        "audioID": "audio-phone_network-chunk-020"
+      },
+      {
+        "id": "health-chunk-015",
+        "thai": "วันละกี่ครั้ง",
+        "romanization": "wan lá kìi khráŋ",
+        "meaningZhHans": "一天几次",
+        "audioID": "audio-health-chunk-015"
+      },
+      {
+        "id": "weather_leisure-word-038",
+        "thai": "วันนักขัตฤกษ์",
+        "romanization": "wan-nák-khàt-tà-rʉ̀ʉk",
+        "meaningZhHans": "公共假日",
+        "audioID": "audio-weather_leisure-word-038"
+      },
+      {
+        "id": "weather_leisure-chunk-001",
+        "thai": "วันนี้อากาศดี",
+        "romanization": "wan-níi aa-kàat dii",
+        "meaningZhHans": "今天天气好",
+        "audioID": "audio-weather_leisure-chunk-001"
+      },
+      {
+        "id": "basics-sent-146",
+        "thai": "วันนี้วันอะไร",
+        "romanization": "Wạn nī̂ wạn xarị",
+        "meaningZhHans": "今天星期几？",
+        "audioID": "audio-basics-sent-146"
+      },
+      {
+        "id": "social-sent-079",
+        "thai": "วันนี้สนุกมาก",
+        "romanization": "Wạn nī̂ s̄nuk māk",
+        "meaningZhHans": "今天很开心。",
+        "audioID": "audio-social-sent-079"
+      },
+      {
+        "id": "numbers-sent-101",
+        "thai": "วันนี้วันที่สิบ",
+        "romanization": "Wạn nī̂ wạn thī̀ s̄ib",
+        "meaningZhHans": "今天是十号。",
+        "audioID": "audio-numbers-sent-101"
+      },
+      {
+        "id": "social-sent-006",
+        "thai": "วันนี้สนุกมากครับ",
+        "romanization": "wan-níi sà-nùk mâak khráp",
+        "meaningZhHans": "今天很开心(男)",
+        "audioID": "audio-social-sent-006"
+      }
+    ]
+  },
+  {
+    "id": "family-bai",
+    "rootThai": "ใบ",
+    "rootRomanization": "bai",
+    "rootMeaningZhHans": "单据 / 证件 / 叶片",
+    "rootAudioID": "",
+    "usageNote": "作为量词或前缀，常用于各类票据、证书、执照及卡片。",
+    "category": "shopping",
+    "itemCount": 4,
+    "items": [
+      {
+        "id": "hotel-word-036",
+        "thai": "ใบจอง",
+        "romanization": "bai-cɔɔŋ",
+        "meaningZhHans": "预订确认",
+        "audioID": "audio-hotel-word-036"
+      },
+      {
+        "id": "shopping-chunk-016",
+        "thai": "ใบเสร็จ",
+        "romanization": "bai-sèt",
+        "meaningZhHans": "收据",
+        "audioID": "audio-shopping-chunk-016"
+      },
+      {
+        "id": "local_errands-word-026",
+        "thai": "ใบขับขี่",
+        "romanization": "bai-khàp-khìi",
+        "meaningZhHans": "驾照",
+        "audioID": "audio-local_errands-word-026"
+      },
+      {
+        "id": "safety-word-032",
+        "thai": "ใบแจ้งความ",
+        "romanization": "bai-cɛ̂ɛŋ-khwaam",
+        "meaningZhHans": "报案单",
+        "audioID": "audio-safety-word-032"
+      }
+    ]
+  },
+  {
+    "id": "family-kin",
+    "rootThai": "กิน",
+    "rootRomanization": "kin",
+    "rootMeaningZhHans": "吃 / 饮食",
+    "rootAudioID": "audio-basics-word-020",
+    "usageNote": "口语中最常用的“吃”字，构词丰富，涵盖日常各种就餐表达。",
+    "category": "food_dining",
+    "itemCount": 7,
+    "items": [
+      {
+        "id": "basics-chunk-013",
+        "thai": "กินอะไร",
+        "romanization": "kin à-rai",
+        "meaningZhHans": "吃什么",
+        "audioID": "audio-basics-chunk-013"
+      },
+      {
+        "id": "food_dining-chunk-005",
+        "thai": "กินที่นี่",
+        "romanization": "kin thîi-nîi",
+        "meaningZhHans": "在这里吃",
+        "audioID": "audio-food_dining-chunk-005"
+      },
+      {
+        "id": "food_dining-chunk-017",
+        "thai": "กินเผ็ดได้ไหม",
+        "romanization": "kin phèt dâi mǎi",
+        "meaningZhHans": "能吃辣吗",
+        "audioID": "audio-food_dining-chunk-017"
+      },
+      {
+        "id": "food_dining-sent-009",
+        "thai": "กินไม่หมดครับ",
+        "romanization": "kin mâi mòt khráp",
+        "meaningZhHans": "吃不完(男)",
+        "audioID": "audio-food_dining-sent-009"
+      },
+      {
+        "id": "social-chunk-009",
+        "thai": "กินข้าวหรือยัง",
+        "romanization": "kin khâao rʉ̌ʉ yaŋ",
+        "meaningZhHans": "吃饭了吗",
+        "audioID": "audio-social-chunk-009"
+      },
+      {
+        "id": "food_dining-sent-108",
+        "thai": "กินที่ร้านครับ",
+        "romanization": "Kin thī̀ r̂ān khrạb",
+        "meaningZhHans": "在店里吃（男）。",
+        "audioID": "audio-food_dining-sent-108"
+      },
+      {
+        "id": "health-chunk-012",
+        "thai": "กินยาพร้อมอาหาร",
+        "romanization": "kin yaa phrɔ́ɔm aa-hǎan",
+        "meaningZhHans": "饭后吃药",
+        "audioID": "audio-health-chunk-012"
+      }
+    ]
+  },
+  {
+    "id": "family-phat",
+    "rootThai": "ผัด",
+    "rootRomanization": "phàt",
+    "rootMeaningZhHans": "炒 / 炒菜",
+    "rootAudioID": "audio-food_dining-word-041",
+    "usageNote": "烹饪动词，后面接食材构成各类泰式炒菜名。",
+    "category": "food_dining",
+    "itemCount": 2,
+    "items": [
+      {
+        "id": "food_dining-word-049",
+        "thai": "ผัดไทย",
+        "romanization": "phàt-thai",
+        "meaningZhHans": "泰式炒面",
+        "audioID": "audio-food_dining-word-049"
+      },
+      {
+        "id": "food_dining-word-052",
+        "thai": "ผัดกะเพรา",
+        "romanization": "phàt-kà-phrao",
+        "meaningZhHans": "打抛/九层塔炒肉",
+        "audioID": "audio-food_dining-word-052"
+      }
+    ]
+  }
+,
+  {
+    "id": "family-numbers-100",
+    "rootThai": "ตัวเลข",
+    "rootRomanization": "tua-lêek",
+    "rootMeaningZhHans": "数字 0–100",
+    "rootAudioID": "",
+    "usageNote": "0–10 需要逐个记忆。11–19 通常由 สิบ 加个位组成；个位 1 放在十位后使用 เอ็ด，例如 สิบเอ็ด。20 是特殊形式 ยี่สิบ。21–99 通常按‘十位 + สิบ + 个位’组合，个位 1 使用 เอ็ด。100 读作 หนึ่งร้อย。有规律的数字不逐个列出。",
+    "category": "basics",
+    "itemCount": 22,
+    "items": [
+      { "id": "number-0", "thai": "ศูนย์", "romanization": "sǔun", "meaningZhHans": "0", "audioID": "audio-numbers-word-001" },
+      { "id": "number-1", "thai": "หนึ่ง", "romanization": "nʉ̀ng", "meaningZhHans": "1", "audioID": "audio-numbers-word-002" },
+      { "id": "number-2", "thai": "สอง", "romanization": "sɔ̌ɔng", "meaningZhHans": "2", "audioID": "audio-numbers-word-003" },
+      { "id": "number-3", "thai": "สาม", "romanization": "sǎam", "meaningZhHans": "3", "audioID": "audio-numbers-word-004" },
+      { "id": "number-4", "thai": "สี่", "romanization": "sìi", "meaningZhHans": "4", "audioID": "audio-numbers-word-005" },
+      { "id": "number-5", "thai": "ห้า", "romanization": "hâa", "meaningZhHans": "5", "audioID": "audio-numbers-word-006" },
+      { "id": "number-6", "thai": "หก", "romanization": "hòk", "meaningZhHans": "6", "audioID": "audio-numbers-word-007" },
+      { "id": "number-7", "thai": "เจ็ด", "romanization": "jèt", "meaningZhHans": "7", "audioID": "audio-numbers-word-008" },
+      { "id": "number-8", "thai": "แปด", "romanization": "bpɛ̀ɛt", "meaningZhHans": "8", "audioID": "audio-numbers-word-009" },
+      { "id": "number-9", "thai": "เก้า", "romanization": "gâo", "meaningZhHans": "9", "audioID": "audio-numbers-word-010" },
+      { "id": "number-10", "thai": "สิบ", "romanization": "sìp", "meaningZhHans": "10", "audioID": "audio-numbers-word-011" },
+      { "id": "number-11", "thai": "สิบเอ็ด", "romanization": "sìp-èt", "meaningZhHans": "11", "audioID": "audio-numbers-chunk-001" },
+      { "id": "number-20", "thai": "ยี่สิบ", "romanization": "yîi-sìp", "meaningZhHans": "20", "audioID": "audio-numbers-chunk-002" },
+      { "id": "number-21", "thai": "ยี่สิบเอ็ด", "romanization": "yîi-sìp-èt", "meaningZhHans": "21", "audioID": "audio-number-21" },
+      { "id": "number-30", "thai": "สามสิบ", "romanization": "sǎam-sìp", "meaningZhHans": "30", "audioID": "audio-number-30" },
+      { "id": "number-40", "thai": "สี่สิบ", "romanization": "sìi-sìp", "meaningZhHans": "40", "audioID": "audio-number-40" },
+      { "id": "number-50", "thai": "ห้าสิบ", "romanization": "hâa-sìp", "meaningZhHans": "50", "audioID": "audio-number-50" },
+      { "id": "number-60", "thai": "หกสิบ", "romanization": "hòk-sìp", "meaningZhHans": "60", "audioID": "audio-number-60" },
+      { "id": "number-70", "thai": "เจ็ดสิบ", "romanization": "jèt-sìp", "meaningZhHans": "70", "audioID": "audio-number-70" },
+      { "id": "number-80", "thai": "แปดสิบ", "romanization": "bpɛ̀ɛt-sìp", "meaningZhHans": "80", "audioID": "audio-number-80" },
+      { "id": "number-90", "thai": "เก้าสิบ", "romanization": "gâo-sìp", "meaningZhHans": "90", "audioID": "audio-number-90" },
+      { "id": "number-100", "thai": "หนึ่งร้อย", "romanization": "nʉ̀ng-rɔ́ɔi", "meaningZhHans": "100", "audioID": "audio-numbers-chunk-003" }
+    ]
+  },
+  {
+    "id": "family-currency-thb",
+    "rootThai": "บาท",
+    "rootRomanization": "bàat",
+    "rootMeaningZhHans": "泰铢与萨当",
+    "rootAudioID": "",
+    "usageNote": "整数金额用‘数字 + บาท’。带小数的日常金额用‘整数 + บาท + 萨当数 + สตางค์’，例如 21.50 泰铢。只有小数部分时可以直接读萨当。强调数字本身的小数点时使用 จุด，并逐位读小数部分。有规律的金额不逐个列出。",
+    "category": "basics",
+    "itemCount": 8,
+    "items": [
+      { "id": "currency-1-baht", "thai": "หนึ่งบาท", "romanization": "nʉ̀ng bàat", "meaningZhHans": "1 泰铢", "audioID": "audio-currency-1-baht" },
+      { "id": "currency-21-baht", "thai": "ยี่สิบเอ็ดบาท", "romanization": "yîi-sìp-èt bàat", "meaningZhHans": "21 泰铢", "audioID": "audio-currency-21-baht" },
+      { "id": "currency-50-baht", "thai": "ห้าสิบบาท", "romanization": "hâa-sìp bàat", "meaningZhHans": "50 泰铢", "audioID": "audio-currency-50-baht" },
+      { "id": "currency-100-baht", "thai": "หนึ่งร้อยบาท", "romanization": "nʉ̀ng-rɔ́ɔi bàat", "meaningZhHans": "100 泰铢", "audioID": "audio-currency-100-baht" },
+      { "id": "currency-050-baht", "thai": "ห้าสิบสตางค์", "romanization": "hâa-sìp sà-taang", "meaningZhHans": "0.50 泰铢（50 萨当）", "audioID": "audio-currency-050-baht" },
+      { "id": "currency-2150-baht", "thai": "ยี่สิบเอ็ดบาทห้าสิบสตางค์", "romanization": "yîi-sìp-èt bàat hâa-sìp sà-taang", "meaningZhHans": "21.50 泰铢", "audioID": "audio-currency-2150-baht" },
+      { "id": "currency-325-baht", "thai": "สามบาทยี่สิบห้าสตางค์", "romanization": "sǎam bàat yîi-sìp-hâa sà-taang", "meaningZhHans": "3.25 泰铢", "audioID": "audio-currency-325-baht" },
+      { "id": "currency-2150-decimal", "thai": "ยี่สิบเอ็ดจุดห้าศูนย์", "romanization": "yîi-sìp-èt jùt hâa sǔun", "meaningZhHans": "21.50（按小数点读）", "audioID": "audio-currency-2150-decimal" }
+    ]
+  }
+]

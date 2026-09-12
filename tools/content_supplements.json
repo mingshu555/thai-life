@@ -1,0 +1,1141 @@
+{
+  "basics": [
+    {
+      "thai": "สวัสดีครับ",
+      "romanization": "S̄wạs̄dī khrạb",
+      "meaningZhHans": "你好（男）"
+    },
+    {
+      "thai": "สวัสดีค่ะ",
+      "romanization": "S̄wạs̄dī kh̀a",
+      "meaningZhHans": "你好（女）"
+    },
+    {
+      "thai": "วันนี้เป็นอย่างไรบ้าง",
+      "romanization": "Wạn nī̂ pĕn xỳāngrị b̂āng",
+      "meaningZhHans": "今天怎么样？"
+    },
+    {
+      "thai": "สบายดีไหม",
+      "romanization": "S̄bāy dī h̄ịm",
+      "meaningZhHans": "你好吗？"
+    },
+    {
+      "thai": "ขอโทษที่รบกวน",
+      "romanization": "K̄hxthos̄ʹ thī̀ rbkwn",
+      "meaningZhHans": "抱歉打扰了。"
+    },
+    {
+      "thai": "ขอบคุณสำหรับความช่วยเหลือ",
+      "romanization": "K̄hxbkhuṇ s̄ảh̄rạb khwām ch̀wy h̄elụ̄x",
+      "meaningZhHans": "谢谢你的帮助。"
+    },
+    {
+      "thai": "ไม่เป็นไรเลย",
+      "romanization": "Mị̀ pĕnrị ley",
+      "meaningZhHans": "完全没关系。"
+    },
+    {
+      "thai": "ยินดีครับ",
+      "romanization": "Yindī khrạb",
+      "meaningZhHans": "不客气（男）。"
+    },
+    {
+      "thai": "ยินดีค่ะ",
+      "romanization": "Yindī kh̀a",
+      "meaningZhHans": "不客气（女）。"
+    },
+    {
+      "thai": "ขอถามอะไรหน่อยได้ไหม",
+      "romanization": "K̄hx t̄hām xarị h̄ǹxy dị̂ h̄ịm",
+      "meaningZhHans": "可以问你一件事吗？"
+    },
+    {
+      "thai": "ช่วยพูดช้าลงหน่อยได้ไหม",
+      "romanization": "Ch̀wy phūd cĥā lng h̄ǹxy dị̂ h̄ịm",
+      "meaningZhHans": "可以说慢一点吗？"
+    },
+    {
+      "thai": "ช่วยพูดอีกครั้งได้ไหม",
+      "romanization": "Ch̀wy phūd xīk khrậng dị̂ h̄ịm",
+      "meaningZhHans": "可以再说一次吗？"
+    },
+    {
+      "thai": "ช่วยเขียนให้ดูได้ไหม",
+      "romanization": "Ch̀wy k̄heīyn h̄ı̂ dū dị̂ h̄ịm",
+      "meaningZhHans": "可以写给我看吗？"
+    },
+    {
+      "thai": "ผมฟังไม่ทันครับ",
+      "romanization": "P̄hm fạng mị̀thạn khrạb",
+      "meaningZhHans": "我没听清（男）。"
+    },
+    {
+      "thai": "ฉันฟังไม่ทันค่ะ",
+      "romanization": "C̄hạn fạng mị̀thạn kh̀a",
+      "meaningZhHans": "我没听清（女）。"
+    },
+    {
+      "thai": "ผมพูดไทยได้นิดหน่อย",
+      "romanization": "P̄hm phūd thịy dị̂ nid h̄ǹxy",
+      "meaningZhHans": "我会一点泰语（男）。"
+    },
+    {
+      "thai": "ฉันพูดไทยได้นิดหน่อย",
+      "romanization": "C̄hạn phūd thịy dị̂ nid h̄ǹxy",
+      "meaningZhHans": "我会一点泰语（女）。"
+    },
+    {
+      "thai": "ผมกำลังเรียนภาษาไทย",
+      "romanization": "P̄hm kảlạng reīyn p̣hās̄ʹā thịy",
+      "meaningZhHans": "我正在学泰语（男）。"
+    },
+    {
+      "thai": "ฉันกำลังเรียนภาษาไทย",
+      "romanization": "C̄hạn kảlạng reīyn p̣hās̄ʹā thịy",
+      "meaningZhHans": "我正在学泰语（女）。"
+    },
+    {
+      "thai": "คุณพูดภาษาอังกฤษได้ไหม",
+      "romanization": "Khuṇ phūd p̣hās̄ʹā xạngkvs̄ʹ dị̂ h̄ịm",
+      "meaningZhHans": "你会说英语吗？"
+    },
+    {
+      "thai": "คุณช่วยแปลให้หน่อยได้ไหม",
+      "romanization": "Khuṇ ch̀wy pæl h̄ı̂ h̄ǹxy dị̂ h̄ịm",
+      "meaningZhHans": "你可以帮我翻译吗？"
+    },
+    {
+      "thai": "ผมไม่เข้าใจคำนี้",
+      "romanization": "P̄hm mị̀ k̄hêācı khả nī̂",
+      "meaningZhHans": "我不懂这个词（男）。"
+    },
+    {
+      "thai": "ฉันไม่เข้าใจคำนี้",
+      "romanization": "C̄hạn mị̀ k̄hêācı khả nī̂",
+      "meaningZhHans": "我不懂这个词（女）。"
+    },
+    {
+      "thai": "คำนี้แปลว่าอะไร",
+      "romanization": "Khả nī̂ pæl ẁā xarị",
+      "meaningZhHans": "这个词是什么意思？"
+    },
+    {
+      "thai": "พูดว่าอย่างไรเป็นภาษาไทย",
+      "romanization": "Phūd ẁā xỳāngrị pĕn p̣hās̄ʹā thịy",
+      "meaningZhHans": "泰语怎么说？"
+    },
+    {
+      "thai": "กรุณารอสักครู่",
+      "romanization": "Kruṇā rx s̄ạk khrū̀",
+      "meaningZhHans": "请稍等。"
+    },
+    {
+      "thai": "เดี๋ยวกลับมานะ",
+      "romanization": "Deī̌yw klạb māna",
+      "meaningZhHans": "我马上回来。"
+    },
+    {
+      "thai": "วันนี้อากาศดี",
+      "romanization": "Wạn nī̂ xākāṣ̄ dī",
+      "meaningZhHans": "今天天气很好。"
+    },
+    {
+      "thai": "วันนี้อากาศร้อนมาก",
+      "romanization": "Wạn nī̂ xākāṣ̄ r̂xn māk",
+      "meaningZhHans": "今天很热。"
+    },
+    {
+      "thai": "ฝนกำลังจะตก",
+      "romanization": "F̄n kảlạng ca tk",
+      "meaningZhHans": "要下雨了。"
+    },
+    {
+      "thai": "ผมหิวแล้ว",
+      "romanization": "P̄hm h̄iw læ̂w",
+      "meaningZhHans": "我饿了（男）。"
+    },
+    {
+      "thai": "ฉันกระหายน้ำ",
+      "romanization": "C̄hạn krah̄āy n̂ả",
+      "meaningZhHans": "我口渴（女）。"
+    },
+    {
+      "thai": "ผมเหนื่อยนิดหน่อย",
+      "romanization": "P̄hm h̄enụ̄̀xy nid h̄ǹxy",
+      "meaningZhHans": "我有点累（男）。"
+    },
+    {
+      "thai": "ฉันอยากพัก",
+      "romanization": "C̄hạn xyāk phạk",
+      "meaningZhHans": "我想休息（女）。"
+    },
+    {
+      "thai": "ผมต้องไปแล้ว",
+      "romanization": "P̄hm t̂xng pị læ̂w",
+      "meaningZhHans": "我得走了（男）。"
+    },
+    {
+      "thai": "แล้วพบกันใหม่",
+      "romanization": "Læ̂w phb kạn h̄ım̀",
+      "meaningZhHans": "回头见。"
+    },
+    {
+      "thai": "ขอให้โชคดี",
+      "romanization": "K̄hx h̄ı̂ chokh dī",
+      "meaningZhHans": "祝你好运。"
+    },
+    {
+      "thai": "ระวังนะ",
+      "romanization": "Rawạng na",
+      "meaningZhHans": "小心。"
+    },
+    {
+      "thai": "ได้เลย",
+      "romanization": "Dị̂ ley",
+      "meaningZhHans": "当然可以。"
+    },
+    {
+      "thai": "ไม่เป็นปัญหา",
+      "romanization": "Mị̀ pĕn pạỵh̄ā",
+      "meaningZhHans": "没问题。"
+    },
+    {
+      "thai": "ขอโทษครับ รถติดมาก",
+      "romanization": "K̄hxthos̄ʹ khrạb rt̄h tid māk",
+      "meaningZhHans": "对不起，路上很堵（男）。"
+    },
+    {
+      "thai": "ขอโทษค่ะ ฉันมาสาย",
+      "romanization": "K̄hxthos̄ʹ kh̀a c̄hạn mā s̄āy",
+      "meaningZhHans": "对不起，我迟到了（女）。"
+    },
+    {
+      "thai": "ขอเวลาสักครู่",
+      "romanization": "K̄hx welā s̄ạk khrū̀",
+      "meaningZhHans": "给我一点时间。"
+    },
+    {
+      "thai": "ผมขอคิดดูก่อน",
+      "romanization": "P̄hm k̄hx khid dū k̀xn",
+      "meaningZhHans": "让我先想想（男）。"
+    },
+    {
+      "thai": "ฉันขอคิดดูก่อน",
+      "romanization": "C̄hạn k̄hx khid dū k̀xn",
+      "meaningZhHans": "让我先想想（女）。"
+    },
+    {
+      "thai": "คุณช่วยผมได้ไหม",
+      "romanization": "Khuṇ ch̀wy p̄hm dị̂ h̄ịm",
+      "meaningZhHans": "你可以帮我吗？（男）"
+    },
+    {
+      "thai": "คุณช่วยฉันได้ไหม",
+      "romanization": "Khuṇ ch̀wy c̄hạn dị̂ h̄ịm",
+      "meaningZhHans": "你可以帮我吗？（女）"
+    },
+    {
+      "thai": "ขอบคุณมากจริงๆ",
+      "romanization": "K̄hxbkhuṇ māk cring«",
+      "meaningZhHans": "真的非常感谢。"
+    },
+    {
+      "thai": "ยินดีที่ได้ช่วย",
+      "romanization": "Yindī thī̀ dị̂ ch̀wy",
+      "meaningZhHans": "很高兴能帮上忙。"
+    },
+    {
+      "thai": "ผมชื่อ...",
+      "romanization": "P̄hm chụ̄̀x...",
+      "meaningZhHans": "我叫……（男）。"
+    },
+    {
+      "thai": "ฉันชื่อ...",
+      "romanization": "C̄hạn chụ̄̀x...",
+      "meaningZhHans": "我叫……（女）。"
+    },
+    {
+      "thai": "คุณชื่ออะไร",
+      "romanization": "Khuṇ chụ̄̀x xarị",
+      "meaningZhHans": "你叫什么名字？"
+    },
+    {
+      "thai": "ผมมาจากจีน",
+      "romanization": "P̄hm mā cāk cīn",
+      "meaningZhHans": "我来自中国（男）。"
+    },
+    {
+      "thai": "ฉันมาจากจีน",
+      "romanization": "C̄hạn mā cāk cīn",
+      "meaningZhHans": "我来自中国（女）。"
+    },
+    {
+      "thai": "ผมอยู่ที่กรุงเทพฯ",
+      "romanization": "P̄hm xyū̀ thī̀ krungtheph‡",
+      "meaningZhHans": "我在曼谷（男）。"
+    },
+    {
+      "thai": "ฉันอยู่ที่กรุงเทพฯ",
+      "romanization": "C̄hạn xyū̀ thī̀ krungtheph‡",
+      "meaningZhHans": "我在曼谷（女）。"
+    },
+    {
+      "thai": "ผมมาเที่ยว",
+      "romanization": "P̄hm mā theī̀yw",
+      "meaningZhHans": "我是来旅游的（男）。"
+    },
+    {
+      "thai": "ฉันมาเที่ยว",
+      "romanization": "C̄hạn mā theī̀yw",
+      "meaningZhHans": "我是来旅游的（女）。"
+    },
+    {
+      "thai": "ผมอยู่ที่นี่ไม่กี่วัน",
+      "romanization": "P̄hm xyū̀ thī̀ nī̀ mị̀ kī̀ wạn",
+      "meaningZhHans": "我在这里待几天（男）。"
+    },
+    {
+      "thai": "ฉันอยู่ที่นี่ไม่กี่วัน",
+      "romanization": "C̄hạn xyū̀ thī̀ nī̀ mị̀ kī̀ wạn",
+      "meaningZhHans": "我在这里待几天（女）。"
+    },
+    {
+      "thai": "วันนี้วันอะไร",
+      "romanization": "Wạn nī̂ wạn xarị",
+      "meaningZhHans": "今天星期几？"
+    },
+    {
+      "thai": "ตอนนี้กี่โมง",
+      "romanization": "Txn nī̂ kī̀ mong",
+      "meaningZhHans": "现在几点？"
+    },
+    {
+      "thai": "คุณว่างไหม",
+      "romanization": "Khuṇ ẁāng h̄ịm",
+      "meaningZhHans": "你有空吗？"
+    },
+    {
+      "thai": "ผมว่างตอนเย็น",
+      "romanization": "P̄hm ẁāng txn yĕn",
+      "meaningZhHans": "我晚上有空（男）。"
+    },
+    {
+      "thai": "ฉันว่างตอนเย็น",
+      "romanization": "C̄hạn ẁāng txn yĕn",
+      "meaningZhHans": "我晚上有空（女）。"
+    },
+    {
+      "thai": "ไว้เจอกันพรุ่งนี้",
+      "romanization": "Wị̂ cex kạn phrùng nī̂",
+      "meaningZhHans": "明天见。"
+    },
+    {
+      "thai": "เจอกันที่นี่ได้ไหม",
+      "romanization": "Cex kạn thī̀ nī̀ dị̂ h̄ịm",
+      "meaningZhHans": "可以在这里见面吗？"
+    },
+    {
+      "thai": "โปรดบอกผมอีกครั้ง",
+      "romanization": "Pord bxk p̄hm xīk khrậng",
+      "meaningZhHans": "请再告诉我一次（男）。"
+    },
+    {
+      "thai": "โปรดบอกฉันอีกครั้ง",
+      "romanization": "Pord bxk c̄hạn xīk khrậng",
+      "meaningZhHans": "请再告诉我一次（女）。"
+    },
+    {
+      "thai": "ผมชอบอาหารไทย",
+      "romanization": "P̄hm chxb xāh̄ār thịy",
+      "meaningZhHans": "我喜欢泰国菜（男）。"
+    },
+    {
+      "thai": "ฉันชอบอาหารไทย",
+      "romanization": "C̄hạn chxb xāh̄ār thịy",
+      "meaningZhHans": "我喜欢泰国菜（女）。"
+    },
+    {
+      "thai": "ผมยังไม่พร้อม",
+      "romanization": "P̄hm yạng mị̀ phr̂xm",
+      "meaningZhHans": "我还没准备好（男）。"
+    },
+    {
+      "thai": "ฉันพร้อมแล้ว",
+      "romanization": "C̄hạn phr̂xm læ̂w",
+      "meaningZhHans": "我准备好了（女）。"
+    },
+    {
+      "thai": "ขอบคุณครับ แล้วพบกันใหม่",
+      "romanization": "K̄hxbkhuṇ khrạb læ̂w phb kạn h̄ım̀",
+      "meaningZhHans": "谢谢，再见（男）。"
+    },
+    {
+      "thai": "เดินทางปลอดภัยนะ",
+      "romanization": "Dein thāng plxdp̣hạy na",
+      "meaningZhHans": "一路平安。"
+    }
+  ],
+  "social": [
+    {
+      "thai": "คุณมีพี่น้องกี่คน",
+      "romanization": "Khuṇ mī phī̀ n̂xng kī̀ khn",
+      "meaningZhHans": "你有几个兄弟姐妹？"
+    },
+    {
+      "thai": "ฉันมีพี่ชายหนึ่งคน",
+      "romanization": "C̄hạn mī phī̀ chāy h̄nụ̀ng khn",
+      "meaningZhHans": "我有一个哥哥（女）。"
+    },
+    {
+      "thai": "นี่คือเพื่อนของฉัน",
+      "romanization": "Nī̀ khụ̄x pheụ̄̀xn k̄hxng c̄hạn",
+      "meaningZhHans": "这是我的朋友。"
+    },
+    {
+      "thai": "เราเป็นเพื่อนกัน",
+      "romanization": "Reā pĕn pheụ̄̀xn kạn",
+      "meaningZhHans": "我们是朋友。"
+    },
+    {
+      "thai": "คุณมาคนเดียวหรือเปล่า",
+      "romanization": "Khuṇ mā khn deīyw h̄rụ̄x pel̀ā",
+      "meaningZhHans": "你是一个人来的吗？"
+    },
+    {
+      "thai": "ฉันมากับครอบครัว",
+      "romanization": "C̄hạn mā kạb khrxbkhrạw",
+      "meaningZhHans": "我和家人一起来（女）。"
+    },
+    {
+      "thai": "เขาเป็นแฟนของฉัน",
+      "romanization": "K̄heā pĕn fæn k̄hxng c̄hạn",
+      "meaningZhHans": "他/她是我的恋人。"
+    },
+    {
+      "thai": "คุณแต่งงานแล้วหรือยัง",
+      "romanization": "Khuṇ tæ̀ngngān læ̂w h̄rụ̄x yạng",
+      "meaningZhHans": "你结婚了吗？"
+    },
+    {
+      "thai": "ฉันมีลูกสองคน",
+      "romanization": "C̄hạn mī lūk s̄xng khn",
+      "meaningZhHans": "我有两个孩子（女）。"
+    },
+    {
+      "thai": "พ่อแม่ของคุณสบายดีไหม",
+      "romanization": "Ph̀x mæ̀ k̄hxng khuṇ s̄bāy dī h̄ịm",
+      "meaningZhHans": "你的父母好吗？"
+    },
+    {
+      "thai": "ฝากสวัสดีพ่อแม่ด้วย",
+      "romanization": "F̄āk s̄wạs̄dī ph̀x mæ̀ d̂wy",
+      "meaningZhHans": "请代我向父母问好。"
+    },
+    {
+      "thai": "เรานัดกันกี่โมง",
+      "romanization": "Reā nạd kạn kī̀ mong",
+      "meaningZhHans": "我们约几点？"
+    },
+    {
+      "thai": "เจอกันหน้าร้านนะ",
+      "romanization": "Cex kạn h̄n̂ā r̂ān na",
+      "meaningZhHans": "在店门口见。"
+    },
+    {
+      "thai": "ฉันกำลังรอคุณอยู่",
+      "romanization": "C̄hạn kảlạng rx khuṇ xyū̀",
+      "meaningZhHans": "我在等你（女）。"
+    },
+    {
+      "thai": "ขอโทษที่ทำให้รอนาน",
+      "romanization": "K̄hxthos̄ʹ thī̀ thảh̄ı̂ rx nān",
+      "meaningZhHans": "抱歉让你久等了。"
+    },
+    {
+      "thai": "วันนี้สนุกมาก",
+      "romanization": "Wạn nī̂ s̄nuk māk",
+      "meaningZhHans": "今天很开心。"
+    },
+    {
+      "thai": "ยินดีด้วยนะ",
+      "romanization": "Yindī d̂wy na",
+      "meaningZhHans": "恭喜你。"
+    },
+    {
+      "thai": "ขอแสดงความเสียใจด้วย",
+      "romanization": "K̄hx s̄ædng khwām s̄eīycı d̂wy",
+      "meaningZhHans": "请节哀。"
+    },
+    {
+      "thai": "ไม่ต้องกังวลนะ",
+      "romanization": "Mị̀ t̂xng kạngwl na",
+      "meaningZhHans": "别担心。"
+    },
+    {
+      "thai": "ฉันคิดถึงคุณ",
+      "romanization": "C̄hạn khidt̄hụng khuṇ",
+      "meaningZhHans": "我想你。"
+    },
+    {
+      "thai": "ดูแลตัวเองด้วยนะ",
+      "romanization": "Dūlæ tạw xeng d̂wy na",
+      "meaningZhHans": "你要照顾好自己。"
+    },
+    {
+      "thai": "ช่วยถ่ายรูปให้หน่อยได้ไหม",
+      "romanization": "Ch̀wy t̄h̀āy rūp h̄ı̂ h̄ǹxy dị̂ h̄ịm",
+      "meaningZhHans": "可以帮我拍张照吗？"
+    },
+    {
+      "thai": "เราไปด้วยกันไหม",
+      "romanization": "Reā pị d̂wy kạn h̄ịm",
+      "meaningZhHans": "我们一起去吗？"
+    },
+    {
+      "thai": "คุณอยากไปไหนต่อ",
+      "romanization": "Khuṇ xyāk pị h̄ịn t̀x",
+      "meaningZhHans": "接下来你想去哪儿？"
+    },
+    {
+      "thai": "ฉันขอกลับก่อนนะ",
+      "romanization": "C̄hạn k̄hxk lạb k̀xn na",
+      "meaningZhHans": "我先回去了（女）。"
+    },
+    {
+      "thai": "ไว้คุยกันใหม่นะ",
+      "romanization": "Wị̂ khuy kạn h̄ım̀ na",
+      "meaningZhHans": "下次再聊。"
+    },
+    {
+      "thai": "ขอบคุณที่ชวนมา",
+      "romanization": "K̄hxbkhuṇ thī̀ chwn mā",
+      "meaningZhHans": "谢谢你邀请我。"
+    }
+  ],
+  "numbers": [
+    {
+      "thai": "ฉันต้องการหนึ่งอัน",
+      "romanization": "C̄hạn t̂xngkār h̄nụ̀ng xạn",
+      "meaningZhHans": "我想要一个。"
+    },
+    {
+      "thai": "ฉันต้องการสองอัน",
+      "romanization": "C̄hạn t̂xngkār s̄xng xạn",
+      "meaningZhHans": "我想要两个。"
+    },
+    {
+      "thai": "ฉันต้องการสามอัน",
+      "romanization": "C̄hạn t̂xngkār s̄ām xạn",
+      "meaningZhHans": "我想要三个。"
+    },
+    {
+      "thai": "ฉันต้องการสี่อัน",
+      "romanization": "C̄hạn t̂xngkār s̄ī̀ xạn",
+      "meaningZhHans": "我想要四个。"
+    },
+    {
+      "thai": "ฉันต้องการห้าอัน",
+      "romanization": "C̄hạn t̂xngkār h̄̂ā xạn",
+      "meaningZhHans": "我想要五个。"
+    },
+    {
+      "thai": "ฉันต้องการหกอัน",
+      "romanization": "C̄hạn t̂xngkār h̄k xạn",
+      "meaningZhHans": "我想要六个。"
+    },
+    {
+      "thai": "ฉันต้องการเจ็ดอัน",
+      "romanization": "C̄hạn t̂xngkār cĕd xạn",
+      "meaningZhHans": "我想要七个。"
+    },
+    {
+      "thai": "ฉันต้องการแปดอัน",
+      "romanization": "C̄hạn t̂xngkār pæd xạn",
+      "meaningZhHans": "我想要八个。"
+    },
+    {
+      "thai": "ฉันต้องการเก้าอัน",
+      "romanization": "C̄hạn t̂xngkār kêā xạn",
+      "meaningZhHans": "我想要九个。"
+    },
+    {
+      "thai": "ฉันต้องการสิบอัน",
+      "romanization": "C̄hạn t̂xngkār s̄ib xạn",
+      "meaningZhHans": "我想要十个。"
+    },
+    {
+      "thai": "ชุดนี้ราคาเท่าไหร่",
+      "romanization": "Chud nī̂ rākhā thèā h̄ịr̀",
+      "meaningZhHans": "这套多少钱？"
+    },
+    {
+      "thai": "ราคาแค่สิบบาท",
+      "romanization": "Rākhā khæ̀ s̄ib bāth",
+      "meaningZhHans": "只要十泰铢。"
+    },
+    {
+      "thai": "ราคาแค่ยี่สิบบาท",
+      "romanization": "Rākhā khæ̀ yī̀s̄ib bāth",
+      "meaningZhHans": "只要二十泰铢。"
+    },
+    {
+      "thai": "ราคาแค่ห้าสิบบาท",
+      "romanization": "Rākhā khæ̀ h̄̂ā s̄ib bāth",
+      "meaningZhHans": "只要五十泰铢。"
+    },
+    {
+      "thai": "ราคาแค่หนึ่งร้อยบาท",
+      "romanization": "Rākhā khæ̀ h̄nụ̀ng r̂xy bāth",
+      "meaningZhHans": "只要一百泰铢。"
+    },
+    {
+      "thai": "ฉันมีเงินสองร้อยบาท",
+      "romanization": "C̄hạn mī ngein s̄xng r̂xy bāth",
+      "meaningZhHans": "我有两百泰铢。"
+    },
+    {
+      "thai": "ฉันมีเงินห้าร้อยบาท",
+      "romanization": "C̄hạn mī ngein h̄̂ā r̂xy bāth",
+      "meaningZhHans": "我有五百泰铢。"
+    },
+    {
+      "thai": "ไม่มีเงินทอน",
+      "romanization": "Mị̀mī ngein thxn",
+      "meaningZhHans": "没有零钱。"
+    },
+    {
+      "thai": "ขอเงินทอนด้วย",
+      "romanization": "K̄hx ngein thxn d̂wy",
+      "meaningZhHans": "请找零。"
+    },
+    {
+      "thai": "จ่ายด้วยบัตรได้ไหม",
+      "romanization": "C̀āy d̂wy bạtr dị̂ h̄ịm",
+      "meaningZhHans": "可以刷卡吗？"
+    },
+    {
+      "thai": "ตอนนี้หนึ่งโมง",
+      "romanization": "Txn nī̂ h̄nụ̀ng mong",
+      "meaningZhHans": "现在一点。"
+    },
+    {
+      "thai": "ตอนนี้สองโมง",
+      "romanization": "Txn nī̂ s̄xng mong",
+      "meaningZhHans": "现在两点。"
+    },
+    {
+      "thai": "ตอนนี้สามโมง",
+      "romanization": "Txn nī̂ s̄ām mong",
+      "meaningZhHans": "现在三点。"
+    },
+    {
+      "thai": "ตอนนี้สี่โมง",
+      "romanization": "Txn nī̂ s̄ī̀ mong",
+      "meaningZhHans": "现在四点。"
+    },
+    {
+      "thai": "ตอนนี้ห้าโมง",
+      "romanization": "Txn nī̂ h̄̂ā mong",
+      "meaningZhHans": "现在五点。"
+    },
+    {
+      "thai": "ตอนนี้หกโมง",
+      "romanization": "Txn nī̂ h̄k mong",
+      "meaningZhHans": "现在六点。"
+    },
+    {
+      "thai": "ตอนนี้เจ็ดโมง",
+      "romanization": "Txn nī̂ cĕd mong",
+      "meaningZhHans": "现在七点。"
+    },
+    {
+      "thai": "ตอนนี้แปดโมง",
+      "romanization": "Txn nī̂ pæd mong",
+      "meaningZhHans": "现在八点。"
+    },
+    {
+      "thai": "ตอนนี้เก้าโมง",
+      "romanization": "Txn nī̂ kêā mong",
+      "meaningZhHans": "现在九点。"
+    },
+    {
+      "thai": "ตอนนี้สิบโมง",
+      "romanization": "Txn nī̂ s̄ib mong",
+      "meaningZhHans": "现在十点。"
+    },
+    {
+      "thai": "อีกห้านาที",
+      "romanization": "Xīk h̄̂ā nāthī",
+      "meaningZhHans": "再过五分钟。"
+    },
+    {
+      "thai": "รอสิบห้านาที",
+      "romanization": "Rx s̄ib h̄̂ā nāthī",
+      "meaningZhHans": "等十五分钟。"
+    },
+    {
+      "thai": "ใช้เวลาครึ่งชั่วโมง",
+      "romanization": "Chı̂ welā khrụ̀ng chạ̀wmong",
+      "meaningZhHans": "需要半小时。"
+    },
+    {
+      "thai": "ใช้เวลาหนึ่งชั่วโมง",
+      "romanization": "Chı̂ welā h̄nụ̀ng chạ̀wmong",
+      "meaningZhHans": "需要一小时。"
+    },
+    {
+      "thai": "วันนี้วันที่หนึ่ง",
+      "romanization": "Wạn nī̂ wạn thī̀ h̄nụ̀ng",
+      "meaningZhHans": "今天是一号。"
+    },
+    {
+      "thai": "วันนี้วันที่สิบ",
+      "romanization": "Wạn nī̂ wạn thī̀ s̄ib",
+      "meaningZhHans": "今天是十号。"
+    },
+    {
+      "thai": "พรุ่งนี้วันที่สิบห้า",
+      "romanization": "Phrùng nī̂ wạn thī̀ s̄ib h̄̂ā",
+      "meaningZhHans": "明天是十五号。"
+    },
+    {
+      "thai": "ฉันอยู่ที่นี่สามวัน",
+      "romanization": "C̄hạn xyū̀ thī̀ nī̀ s̄ām wạn",
+      "meaningZhHans": "我在这里待三天。"
+    },
+    {
+      "thai": "ฉันอยู่ที่นี่หนึ่งสัปดาห์",
+      "romanization": "C̄hạn xyū̀ thī̀ nī̀ h̄nụ̀ng s̄ạpdāh̄̒",
+      "meaningZhHans": "我在这里待一周。"
+    },
+    {
+      "thai": "เปิดทุกวัน",
+      "romanization": "Peid thuk wạn",
+      "meaningZhHans": "每天营业。"
+    },
+    {
+      "thai": "เปิดวันจันทร์ถึงวันศุกร์",
+      "romanization": "Peid wạn cạnthr̒ t̄hụng wạn ṣ̄ukr̒",
+      "meaningZhHans": "周一至周五营业。"
+    },
+    {
+      "thai": "ปิดวันเสาร์",
+      "romanization": "Pid wạn s̄eār̒",
+      "meaningZhHans": "周六休息。"
+    },
+    {
+      "thai": "วันนี้เป็นวันอาทิตย์",
+      "romanization": "Wạn nī̂ pĕn wạn xāthity̒",
+      "meaningZhHans": "今天是星期日。"
+    },
+    {
+      "thai": "เดือนนี้มีสามสิบเอ็ดวัน",
+      "romanization": "Deụ̄xn nī̂ mī s̄āms̄ib xĕd wạn",
+      "meaningZhHans": "这个月有三十一天。"
+    },
+    {
+      "thai": "ปีนี้สองพันยี่สิบหก",
+      "romanization": "Pī nī̂ s̄xng phạn yī̀s̄ib h̄k",
+      "meaningZhHans": "今年是2026年。"
+    }
+  ],
+  "food_dining": [
+    {
+      "thai": "ขอเมนูภาษาอังกฤษได้ไหม",
+      "romanization": "K̄hx menū p̣hās̄ʹā xạngkvs̄ʹ dị̂ h̄ịm",
+      "meaningZhHans": "可以给我英文菜单吗？"
+    },
+    {
+      "thai": "ขอน้ำเปล่าหนึ่งแก้ว",
+      "romanization": "K̄hx n̂ả pel̀ā h̄nụ̀ng kæ̂w",
+      "meaningZhHans": "请给我一杯白水。"
+    },
+    {
+      "thai": "ขอน้ำแข็งเพิ่มด้วย",
+      "romanization": "K̄hx n̂ả k̄hæ̆ng pheìm d̂wy",
+      "meaningZhHans": "请多给一点冰。"
+    },
+    {
+      "thai": "ไม่ใส่ผักชีได้ไหม",
+      "romanization": "Mị̀ s̄ı̀ p̄hạkchī dị̂ h̄ịm",
+      "meaningZhHans": "可以不放香菜吗？"
+    },
+    {
+      "thai": "ไม่เผ็ดเลยนะ",
+      "romanization": "Mị̀ p̄hĕd ley na",
+      "meaningZhHans": "完全不要辣。"
+    },
+    {
+      "thai": "เผ็ดน้อยๆก็พอ",
+      "romanization": "P̄hĕd n̂xy«k̆ phx",
+      "meaningZhHans": "微辣就好。"
+    },
+    {
+      "thai": "ขอหวานน้อย",
+      "romanization": "K̄hx h̄wān n̂xy",
+      "meaningZhHans": "少糖。"
+    },
+    {
+      "thai": "ขอใส่น้ำตาลน้อยๆ",
+      "romanization": "K̄hx s̄ı̀ n̂ả tā ln̂xy«",
+      "meaningZhHans": "请少放糖。"
+    },
+    {
+      "thai": "ขอแยกน้ำซุป",
+      "romanization": "K̄hx yæk n̂ả sup",
+      "meaningZhHans": "请把汤分开装。"
+    },
+    {
+      "thai": "เอากลับบ้านครับ",
+      "romanization": "Xeā klạb b̂ān khrạb",
+      "meaningZhHans": "我要打包（男）。"
+    },
+    {
+      "thai": "กินที่ร้านครับ",
+      "romanization": "Kin thī̀ r̂ān khrạb",
+      "meaningZhHans": "在店里吃（男）。"
+    },
+    {
+      "thai": "มีอาหารเจไหม",
+      "romanization": "Mī xāh̄ār ce h̄ịm",
+      "meaningZhHans": "有素食吗？"
+    },
+    {
+      "thai": "ฉันแพ้กุ้ง",
+      "romanization": "C̄hạn phæ̂ kûng",
+      "meaningZhHans": "我对虾过敏。"
+    },
+    {
+      "thai": "ฉันแพ้ถั่ว",
+      "romanization": "C̄hạn phæ̂ t̄hạ̀w",
+      "meaningZhHans": "我对花生过敏。"
+    },
+    {
+      "thai": "จานนี้มีหมูไหม",
+      "romanization": "Cān nī̂ mī h̄mū h̄ịm",
+      "meaningZhHans": "这道菜有猪肉吗？"
+    },
+    {
+      "thai": "จานนี้มีเนื้อวัวไหม",
+      "romanization": "Cān nī̂ mī neụ̄̂x wạw h̄ịm",
+      "meaningZhHans": "这道菜有牛肉吗？"
+    },
+    {
+      "thai": "ขอช้อนกับส้อมด้วย",
+      "romanization": "K̄hx cĥxn kạb s̄̂xm d̂wy",
+      "meaningZhHans": "请给我勺子和叉子。"
+    },
+    {
+      "thai": "ขอตะเกียบเพิ่มด้วย",
+      "romanization": "K̄hx takeīyb pheìm d̂wy",
+      "meaningZhHans": "请再给我一双筷子。"
+    },
+    {
+      "thai": "อาหารมาแล้วหรือยัง",
+      "romanization": "Xāh̄ār mā læ̂w h̄rụ̄x yạng",
+      "meaningZhHans": "菜上了吗？"
+    },
+    {
+      "thai": "ฉันสั่งไปแล้ว",
+      "romanization": "C̄hạn s̄ạ̀ng pị læ̂w",
+      "meaningZhHans": "我已经点了（女）。"
+    },
+    {
+      "thai": "ขอเพิ่มอีกหนึ่งจาน",
+      "romanization": "K̄hx pheìm xīk h̄nụ̀ng cān",
+      "meaningZhHans": "再加一盘。"
+    },
+    {
+      "thai": "อันนี้อร่อยมาก",
+      "romanization": "Xạn nī̂ xr̀xy māk",
+      "meaningZhHans": "这个很好吃。"
+    },
+    {
+      "thai": "อันนี้เค็มไป",
+      "romanization": "Xạn nī̂ khĕm pị",
+      "meaningZhHans": "这个太咸了。"
+    },
+    {
+      "thai": "อันนี้หวานไป",
+      "romanization": "Xạn nī̂ h̄wān pị",
+      "meaningZhHans": "这个太甜了。"
+    },
+    {
+      "thai": "อันนี้เผ็ดเกินไป",
+      "romanization": "Xạn nī̂ p̄hĕd kein pị",
+      "meaningZhHans": "这个太辣了。"
+    },
+    {
+      "thai": "ขอเช็คบิลด้วยครับ",
+      "romanization": "K̄hx chĕkh bil d̂wy khrạb",
+      "meaningZhHans": "请结账（男）。"
+    },
+    {
+      "thai": "คิดเงินด้วยค่ะ",
+      "romanization": "Khid ngein d̂wy kh̀a",
+      "meaningZhHans": "请结账（女）。"
+    },
+    {
+      "thai": "รับบัตรเครดิตไหม",
+      "romanization": "Rạb bạtr kherdit h̄ịm",
+      "meaningZhHans": "收信用卡吗？"
+    },
+    {
+      "thai": "แยกบิลได้ไหม",
+      "romanization": "Yæk bil dị̂ h̄ịm",
+      "meaningZhHans": "可以分开结账吗？"
+    },
+    {
+      "thai": "ทอนเงินให้ด้วย",
+      "romanization": "Thxn ngein h̄ı̂ d̂wy",
+      "meaningZhHans": "请找零。"
+    },
+    {
+      "thai": "ขอใบเสร็จด้วย",
+      "romanization": "K̄hx bı s̄er̆c d̂wy",
+      "meaningZhHans": "请给我收据。"
+    },
+    {
+      "thai": "ร้านปิดกี่โมง",
+      "romanization": "R̂ān pid kī̀ mong",
+      "meaningZhHans": "餐厅几点关门？"
+    },
+    {
+      "thai": "โต๊ะสำหรับสองคน",
+      "romanization": "Tóa s̄ảh̄rạb s̄xng khn",
+      "meaningZhHans": "两个人的桌位。"
+    }
+  ],
+  "shopping": [
+    {
+      "thai": "ขอลองอันนี้ได้ไหม",
+      "romanization": "K̄hx lxng xạn nī̂ dị̂ h̄ịm",
+      "meaningZhHans": "可以试一下这个吗？"
+    },
+    {
+      "thai": "มีสีอื่นไหม",
+      "romanization": "Mī s̄ī xụ̄̀n h̄ịm",
+      "meaningZhHans": "有别的颜色吗？"
+    },
+    {
+      "thai": "มีขนาดใหญ่กว่านี้ไหม",
+      "romanization": "Mī k̄hnād h̄ıỵ̀ kẁā nī̂ h̄ịm",
+      "meaningZhHans": "有更大的吗？"
+    },
+    {
+      "thai": "มีขนาดเล็กกว่านี้ไหม",
+      "romanization": "Mī k̄hnād lĕk kẁā nī̂ h̄ịm",
+      "meaningZhHans": "有更小的吗？"
+    },
+    {
+      "thai": "ลดราคาได้ไหม",
+      "romanization": "Ld rākhā dị̂ h̄ịm",
+      "meaningZhHans": "可以便宜一点吗？"
+    },
+    {
+      "thai": "อันนี้แพงเกินไป",
+      "romanization": "Xạn nī̂ phæng kein pị",
+      "meaningZhHans": "这个太贵了。"
+    },
+    {
+      "thai": "ฉันเอาอันนี้",
+      "romanization": "C̄hạn xeā xạn nī̂",
+      "meaningZhHans": "我要这个（女）。"
+    },
+    {
+      "thai": "ฉันไม่เอาแล้ว",
+      "romanization": "C̄hạn mị̀ xeā læ̂w",
+      "meaningZhHans": "我不要了（女）。"
+    },
+    {
+      "thai": "รับเงินสดไหม",
+      "romanization": "Rạb ngeins̄d h̄ịm",
+      "meaningZhHans": "收现金吗？"
+    },
+    {
+      "thai": "ขอถุงด้วย",
+      "romanization": "K̄hx t̄hung d̂wy",
+      "meaningZhHans": "请给我一个袋子。"
+    }
+  ],
+  "home_living": [
+    {
+      "thai": "ห้องนี้มีเฟอร์นิเจอร์ไหม",
+      "romanization": "H̄̂xng nī̂ mī fexr̒nicexr̒ h̄ịm",
+      "meaningZhHans": "这个房间有家具吗？"
+    },
+    {
+      "thai": "ขอรหัสไวไฟหน่อย",
+      "romanization": "K̄hx rh̄ạs̄ wịfị h̄ǹxy",
+      "meaningZhHans": "请给我Wi‑Fi密码。"
+    },
+    {
+      "thai": "ไฟในห้องไม่ติด",
+      "romanization": "Fị nı h̄̂xng mị̀ tid",
+      "meaningZhHans": "房间里的灯不亮。"
+    },
+    {
+      "thai": "น้ำประปาไม่ไหล",
+      "romanization": "N̂ả prapā mị̀ h̄ịl",
+      "meaningZhHans": "自来水停了。"
+    },
+    {
+      "thai": "น้ำอุ่นไม่ทำงาน",
+      "romanization": "N̂ả xùn mị̀ thảngān",
+      "meaningZhHans": "热水器坏了。"
+    },
+    {
+      "thai": "แอร์เสียงดังมาก",
+      "romanization": "Xær̒ s̄eīyng dạng māk",
+      "meaningZhHans": "空调声音很大。"
+    },
+    {
+      "thai": "เครื่องปรับอากาศไม่เย็น",
+      "romanization": "Kherụ̄̀xng prạb xākāṣ̄ mị̀ yĕn",
+      "meaningZhHans": "空调不制冷。"
+    },
+    {
+      "thai": "ห้องนี้สะอาดดี",
+      "romanization": "H̄̂xng nī̂ s̄axād dī",
+      "meaningZhHans": "这个房间很干净。"
+    },
+    {
+      "thai": "ช่วยเปลี่ยนผ้าเช็ดตัวให้หน่อย",
+      "romanization": "Ch̀wy pelī̀yn p̄ĥāchĕdtạw h̄ı̂ h̄ǹxy",
+      "meaningZhHans": "请帮我换毛巾。"
+    },
+    {
+      "thai": "ขอผ้าห่มเพิ่ม",
+      "romanization": "K̄hx p̄ĥāh̄̀m pheìm",
+      "meaningZhHans": "请多给一条毯子。"
+    },
+    {
+      "thai": "กุญแจห้องหาย",
+      "romanization": "Kuỵcæ h̄̂xng h̄āy",
+      "meaningZhHans": "房间钥匙丢了。"
+    },
+    {
+      "thai": "ประตูล็อกไม่ได้",
+      "romanization": "Pratū l̆xk mị̀ dị̂",
+      "meaningZhHans": "门锁不上。"
+    },
+    {
+      "thai": "เพื่อนจะมาเยี่ยม",
+      "romanization": "Pheụ̄̀xn ca mā yeī̀ym",
+      "meaningZhHans": "朋友要来拜访。"
+    },
+    {
+      "thai": "ฉันจะอยู่ต่ออีกหนึ่งเดือน",
+      "romanization": "C̄hạn ca xyū̀ t̀x xīk h̄nụ̀ng deụ̄xn",
+      "meaningZhHans": "我还要再住一个月。"
+    },
+    {
+      "thai": "ขอนัดช่างมาซ่อม",
+      "romanization": "K̄hx nạd ch̀āng mā s̀xm",
+      "meaningZhHans": "请安排维修人员来修。"
+    }
+  ],
+  "transport": [
+    {
+      "thai": "ไปสถานีรถไฟฟ้าครับ",
+      "romanization": "Pị s̄t̄hānī rt̄hfịf̂ā khrạb",
+      "meaningZhHans": "去轻轨站（男）。"
+    },
+    {
+      "thai": "ไปโรงแรมนี้ครับ",
+      "romanization": "Pị rongræm nī̂ khrạb",
+      "meaningZhHans": "去这家酒店（男）。"
+    },
+    {
+      "thai": "ช่วยจอดข้างหน้าได้ไหม",
+      "romanization": "Ch̀wy cxd k̄ĥāng h̄n̂ā dị̂ h̄ịm",
+      "meaningZhHans": "可以在前面停车吗？"
+    },
+    {
+      "thai": "ขอลงตรงป้ายหน้า",
+      "romanization": "K̄hx lng trng p̂āy h̄n̂ā",
+      "meaningZhHans": "请在下一站让我下车。"
+    },
+    {
+      "thai": "รถเมล์คันนี้ไปไหน",
+      "romanization": "Rt̄hmel̒ khạn nī̂ pị h̄ịn",
+      "meaningZhHans": "这辆公交车去哪里？"
+    },
+    {
+      "thai": "ต้องเปลี่ยนรถไหม",
+      "romanization": "T̂xng pelī̀yn rt̄h h̄ịm",
+      "meaningZhHans": "需要换车吗？"
+    },
+    {
+      "thai": "สถานีถัดไปคืออะไร",
+      "romanization": "S̄t̄hānī t̄hạd pị khụ̄x xarị",
+      "meaningZhHans": "下一站是什么？"
+    },
+    {
+      "thai": "ช่วยบอกตอนถึงด้วย",
+      "romanization": "Ch̀wy bxk txn t̄hụng d̂wy",
+      "meaningZhHans": "到了请告诉我。"
+    },
+    {
+      "thai": "ฉันหลงทาง",
+      "romanization": "C̄hạn h̄lng thāng",
+      "meaningZhHans": "我迷路了（女）。"
+    },
+    {
+      "thai": "ช่วยดูแผนที่ให้หน่อย",
+      "romanization": "Ch̀wy dū p̄hænthī̀ h̄ı̂ h̄ǹxy",
+      "meaningZhHans": "请帮我看一下地图。"
+    },
+    {
+      "thai": "เดินไปไกลไหม",
+      "romanization": "Dein pị kịl h̄ịm",
+      "meaningZhHans": "走过去远吗？"
+    },
+    {
+      "thai": "ข้ามถนนตรงไหน",
+      "romanization": "K̄ĥām t̄hnn trng h̄ịn",
+      "meaningZhHans": "在哪里过马路？"
+    },
+    {
+      "thai": "เรียกแท็กซี่ให้หน่อย",
+      "romanization": "Reīyk thæ̆ksī̀ h̄ı̂ h̄ǹxy",
+      "meaningZhHans": "请帮我叫出租车。"
+    },
+    {
+      "thai": "ฉันจองรถไว้แล้ว",
+      "romanization": "C̄hạn cxng rt̄h wị̂ læ̂w",
+      "meaningZhHans": "我已经叫车了（女）。"
+    },
+    {
+      "thai": "หมายเลขทะเบียนอะไร",
+      "romanization": "H̄māylek̄h thabeīyn xarị",
+      "meaningZhHans": "车牌号是多少？"
+    },
+    {
+      "thai": "รถจะมาถึงกี่โมง",
+      "romanization": "Rt̄h ca mā t̄hụng kī̀ mong",
+      "meaningZhHans": "车几点到？"
+    },
+    {
+      "thai": "ขอไปทางด่วน",
+      "romanization": "K̄hx pị thāngd̀wn",
+      "meaningZhHans": "请走高速。"
+    },
+    {
+      "thai": "ไม่ต้องใช้ทางด่วน",
+      "romanization": "Mị̀ t̂xng chı̂ thāngd̀wn",
+      "meaningZhHans": "不用走高速。"
+    },
+    {
+      "thai": "ค่าทางด่วนฉันจ่ายเอง",
+      "romanization": "Kh̀ā thāngd̀wn c̄hạn c̀āy xeng",
+      "meaningZhHans": "高速费我自己付。"
+    },
+    {
+      "thai": "ช่วยลดความเร็วหน่อย",
+      "romanization": "Ch̀wy ld khwāmrĕw h̄ǹxy",
+      "meaningZhHans": "请开慢一点。"
+    }
+  ]
+}

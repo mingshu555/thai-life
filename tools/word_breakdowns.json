@@ -1,0 +1,6979 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-Hans",
+  "recordCount": 288,
+  "items": [
+    {
+      "id": "airport-word-001",
+      "combinations": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-002",
+      "combinations": [
+        {
+          "thai": "ตั๋ว",
+          "gloss": "票"
+        },
+        {
+          "thai": "เครื่องบิน",
+          "gloss": "飞机"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตั๋ว",
+          "gloss": "票"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-004",
+      "combinations": [
+        {
+          "thai": "โหลด",
+          "gloss": "托运；装"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โหลด",
+          "gloss": "托运；装"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-005",
+      "combinations": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "ถือ",
+          "gloss": "手提"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "ถือ",
+          "gloss": "手提"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-006",
+      "combinations": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "เดินทาง",
+          "gloss": "旅行"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-007",
+      "combinations": [
+        {
+          "thai": "น้ำหนัก",
+          "gloss": "重量"
+        },
+        {
+          "thai": "เกิน",
+          "gloss": "超过"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำหนัก",
+          "gloss": "重量"
+        },
+        {
+          "thai": "เกิน",
+          "gloss": "超过"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-008",
+      "combinations": [
+        {
+          "thai": "ขึ้น",
+          "gloss": "上"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขึ้น",
+          "gloss": "上"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-009",
+      "combinations": [
+        {
+          "thai": "ลง",
+          "gloss": "下"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ลง",
+          "gloss": "下"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-010",
+      "combinations": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        },
+        {
+          "thai": "ลง",
+          "gloss": "降落"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        },
+        {
+          "thai": "ลง",
+          "gloss": "降落"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-013",
+      "combinations": [
+        {
+          "thai": "ประตู",
+          "gloss": "门"
+        },
+        {
+          "thai": "ขึ้นเครื่อง",
+          "gloss": "登机"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ประตู",
+          "gloss": "门"
+        },
+        {
+          "thai": "ขึ้น",
+          "gloss": "上"
+        },
+        {
+          "thai": "เครื่อง",
+          "gloss": "飞机"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-014",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "搭乘"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "搭乘"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-015",
+      "combinations": [
+        {
+          "thai": "เที่ยว",
+          "gloss": "班次"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เที่ยว",
+          "gloss": "班次"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-016",
+      "combinations": [
+        {
+          "thai": "หมายเลข",
+          "gloss": "号码"
+        },
+        {
+          "thai": "เที่ยวบิน",
+          "gloss": "航班"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หมาย",
+          "gloss": "标记"
+        },
+        {
+          "thai": "เลข",
+          "gloss": "数字"
+        },
+        {
+          "thai": "เที่ยว",
+          "gloss": "趟；班次"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-017",
+      "combinations": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "证件；书"
+        },
+        {
+          "thai": "เดินทาง",
+          "gloss": "旅行"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "证件；书"
+        },
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-019",
+      "combinations": [
+        {
+          "thai": "ตรวจ",
+          "gloss": "检查"
+        },
+        {
+          "thai": "คนเข้าเมือง",
+          "gloss": "入境"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตรวจ",
+          "gloss": "检查"
+        },
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        },
+        {
+          "thai": "เมือง",
+          "gloss": "城；国家"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-022",
+      "combinations": [
+        {
+          "thai": "ของ",
+          "gloss": "物品"
+        },
+        {
+          "thai": "ต้องห้าม",
+          "gloss": "违禁"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ของ",
+          "gloss": "物品"
+        },
+        {
+          "thai": "ต้อง",
+          "gloss": "必须"
+        },
+        {
+          "thai": "ห้าม",
+          "gloss": "禁止"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-024",
+      "combinations": [
+        {
+          "thai": "ปลอด",
+          "gloss": "免除"
+        },
+        {
+          "thai": "ภาษี",
+          "gloss": "税"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปลอด",
+          "gloss": "免除"
+        },
+        {
+          "thai": "ภาษี",
+          "gloss": "税"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-026",
+      "combinations": [
+        {
+          "thai": "แลก",
+          "gloss": "换"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แลก",
+          "gloss": "换"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-027",
+      "combinations": [
+        {
+          "thai": "อัตรา",
+          "gloss": "比率"
+        },
+        {
+          "thai": "แลกเปลี่ยน",
+          "gloss": "兑换"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อัตรา",
+          "gloss": "比率"
+        },
+        {
+          "thai": "แลก",
+          "gloss": "换"
+        },
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "变换"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-028",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "价值"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "价值"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-029",
+      "combinations": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "铢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "铢"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-030",
+      "combinations": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ดอลลาร์",
+          "gloss": "美元"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ดอลลาร์",
+          "gloss": "美元"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-031",
+      "combinations": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "หยวน",
+          "gloss": "人民币"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "หยวน",
+          "gloss": "人民币"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-032",
+      "combinations": [
+        {
+          "thai": "แลกเงิน",
+          "gloss": "换钱"
+        },
+        {
+          "thai": "ที่ไหน",
+          "gloss": "在哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แลก",
+          "gloss": "换"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-033",
+      "combinations": [
+        {
+          "thai": "เรท",
+          "gloss": "汇率"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เรท",
+          "gloss": "汇率"
+        },
+        {
+          "thai": "เท่า",
+          "gloss": "等于"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "多少"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-034",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เข็น",
+          "gloss": "推"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เข็น",
+          "gloss": "推"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-035",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-036",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-040",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-041",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "สูบบุหรี่",
+          "gloss": "吸烟"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "สูบ",
+          "gloss": "吸"
+        },
+        {
+          "thai": "บุหรี่",
+          "gloss": "烟"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-042",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ]
+    },
+    {
+      "id": "airport-word-046",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "รับ",
+          "gloss": "取"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "รับ",
+          "gloss": "取"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-004",
+      "combinations": [
+        {
+          "thai": "ขอบ",
+          "gloss": "感谢"
+        },
+        {
+          "thai": "คุณ",
+          "gloss": "你；恩惠"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอบ",
+          "gloss": "感谢"
+        },
+        {
+          "thai": "คุณ",
+          "gloss": "你；恩惠"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-005",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求"
+        },
+        {
+          "thai": "โทษ",
+          "gloss": "过错；抱歉"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求"
+        },
+        {
+          "thai": "โทษ",
+          "gloss": "过错；抱歉"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-006",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เป็นไร",
+          "gloss": "要紧"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是；成为"
+        },
+        {
+          "thai": "ไร",
+          "gloss": "什么；要紧"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-008",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ใช่",
+          "gloss": "是"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ใช่",
+          "gloss": "是"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-010",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；成"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；成"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-012",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-014",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "มี",
+          "gloss": "有"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "มี",
+          "gloss": "有"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-016",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是；会"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是；会"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-024",
+      "combinations": [
+        {
+          "thai": "อาบ",
+          "gloss": "淋；洗"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อาบ",
+          "gloss": "淋；洗"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-032",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "รู้",
+          "gloss": "知道"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "รู้",
+          "gloss": "知道"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-033",
+      "combinations": [
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-034",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เข้าใจ",
+          "gloss": "理解"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心"
+        }
+      ]
+    },
+    {
+      "id": "basics-word-036",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-018",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "อร่อย",
+          "gloss": "好吃"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "อร่อย",
+          "gloss": "好吃"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-019",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-030",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "แข็ง",
+          "gloss": "硬；冰"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "แข็ง",
+          "gloss": "硬；冰"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-031",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "เปล่า",
+          "gloss": "空；纯"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "เปล่า",
+          "gloss": "空；纯"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-035",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ผลไม้",
+          "gloss": "水果"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ผล",
+          "gloss": "果实"
+        },
+        {
+          "thai": "ไม้",
+          "gloss": "植物"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-036",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ตาล",
+          "gloss": "糖棕；糖"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ตาล",
+          "gloss": "糖棕；糖"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-039",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ปลา",
+          "gloss": "鱼"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ปลา",
+          "gloss": "鱼"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-048",
+      "combinations": [
+        {
+          "thai": "ต้มยำ",
+          "gloss": "冬阴功"
+        },
+        {
+          "thai": "กุ้ง",
+          "gloss": "虾"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ต้ม",
+          "gloss": "煮"
+        },
+        {
+          "thai": "ยำ",
+          "gloss": "酸辣拌"
+        },
+        {
+          "thai": "กุ้ง",
+          "gloss": "虾"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-049",
+      "combinations": [
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-050",
+      "combinations": [
+        {
+          "thai": "ข้าว",
+          "gloss": "饭"
+        },
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ข้าว",
+          "gloss": "饭"
+        },
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-051",
+      "combinations": [
+        {
+          "thai": "แกง",
+          "gloss": "咖喱"
+        },
+        {
+          "thai": "เขียวหวาน",
+          "gloss": "绿甜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แกง",
+          "gloss": "咖喱"
+        },
+        {
+          "thai": "เขียว",
+          "gloss": "绿"
+        },
+        {
+          "thai": "หวาน",
+          "gloss": "甜"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-052",
+      "combinations": [
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        },
+        {
+          "thai": "กะเพรา",
+          "gloss": "九层塔"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผัด",
+          "gloss": "炒"
+        },
+        {
+          "thai": "กะเพรา",
+          "gloss": "九层塔"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-054",
+      "combinations": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "หวาน",
+          "gloss": "甜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "หวาน",
+          "gloss": "甜"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-056",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "汁；水"
+        },
+        {
+          "thai": "จิ้ม",
+          "gloss": "蘸"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "汁；水"
+        },
+        {
+          "thai": "จิ้ม",
+          "gloss": "蘸"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-058",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ใส่",
+          "gloss": "放"
+        },
+        {
+          "thai": "ผงชูรส",
+          "gloss": "味精"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ใส่",
+          "gloss": "放"
+        },
+        {
+          "thai": "ผง",
+          "gloss": "粉"
+        },
+        {
+          "thai": "ชูรส",
+          "gloss": "提味"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-070",
+      "combinations": [
+        {
+          "thai": "ชา",
+          "gloss": "茶"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ชา",
+          "gloss": "茶"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-071",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "มะพร้าว",
+          "gloss": "椰子"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "มะพร้าว",
+          "gloss": "椰子"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-072",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "อัดลม",
+          "gloss": "汽水；碳酸"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "อัด",
+          "gloss": "压"
+        },
+        {
+          "thai": "ลม",
+          "gloss": "气"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-073",
+      "combinations": [
+        {
+          "thai": "นม",
+          "gloss": "奶"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冰；冷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นม",
+          "gloss": "奶"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冰；冷"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-075",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ชา",
+          "gloss": "茶"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ชา",
+          "gloss": "茶"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-076",
+      "combinations": [
+        {
+          "thai": "ข้าวเหนียว",
+          "gloss": "糯米饭"
+        },
+        {
+          "thai": "มะม่วง",
+          "gloss": "芒果"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ข้าว",
+          "gloss": "米；饭"
+        },
+        {
+          "thai": "เหนียว",
+          "gloss": "黏"
+        },
+        {
+          "thai": "มะม่วง",
+          "gloss": "芒果"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-word-077",
+      "combinations": [
+        {
+          "thai": "ต้มข่า",
+          "gloss": "咖喱椰奶汤"
+        },
+        {
+          "thai": "ไก่",
+          "gloss": "鸡"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ต้ม",
+          "gloss": "煮"
+        },
+        {
+          "thai": "ข่า",
+          "gloss": "高良姜"
+        },
+        {
+          "thai": "ไก่",
+          "gloss": "鸡"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-004",
+      "combinations": [
+        {
+          "thai": "สี่",
+          "gloss": "四"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "路口"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สี่",
+          "gloss": "四"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "路口"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-005",
+      "combinations": [
+        {
+          "thai": "สาม",
+          "gloss": "三"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "路口"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สาม",
+          "gloss": "三"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "路口"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-006",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "分岔"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "แยก",
+          "gloss": "分岔"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-009",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-010",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "คู่ขนาน",
+          "gloss": "平行"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "คู่",
+          "gloss": "双"
+        },
+        {
+          "thai": "ขนาน",
+          "gloss": "平行"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-011",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-012",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-014",
+      "combinations": [
+        {
+          "thai": "สะพาน",
+          "gloss": "桥"
+        },
+        {
+          "thai": "ลอย",
+          "gloss": "高架"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สะพาน",
+          "gloss": "桥"
+        },
+        {
+          "thai": "ลอย",
+          "gloss": "高架"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-015",
+      "combinations": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "กลับรถ",
+          "gloss": "掉头"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "กลับ",
+          "gloss": "转"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-016",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ตัน",
+          "gloss": "尽头"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ตัน",
+          "gloss": "尽头"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-019",
+      "combinations": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "นัด",
+          "gloss": "集会"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "นัด",
+          "gloss": "集会"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-020",
+      "combinations": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-023",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "สะดวกซื้อ",
+          "gloss": "便利购买"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "สะดวก",
+          "gloss": "方便"
+        },
+        {
+          "thai": "ซื้อ",
+          "gloss": "买"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-024",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ขายยา",
+          "gloss": "卖药"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ขาย",
+          "gloss": "卖"
+        },
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-025",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；餐"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-026",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "กาแฟ",
+          "gloss": "咖啡"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "กาแฟ",
+          "gloss": "咖啡"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-027",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-028",
+      "combinations": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "แรม",
+          "gloss": "宿"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "แรม",
+          "gloss": "宿"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-029",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-030",
+      "combinations": [
+        {
+          "thai": "ปั๊ม",
+          "gloss": "泵"
+        },
+        {
+          "thai": "น้ำมัน",
+          "gloss": "油"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปั๊ม",
+          "gloss": "泵"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "液体"
+        },
+        {
+          "thai": "มัน",
+          "gloss": "油"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-032",
+      "combinations": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "รถไฟ",
+          "gloss": "火车"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "火；电"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-033",
+      "combinations": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "ขนส่ง",
+          "gloss": "运输"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "ขนส่ง",
+          "gloss": "运输"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-034",
+      "combinations": [
+        {
+          "thai": "ท่า",
+          "gloss": "码头"
+        },
+        {
+          "thai": "เรือ",
+          "gloss": "船"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ท่า",
+          "gloss": "码头"
+        },
+        {
+          "thai": "เรือ",
+          "gloss": "船"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-035",
+      "combinations": [
+        {
+          "thai": "ป้าย",
+          "gloss": "牌子"
+        },
+        {
+          "thai": "รถเมล์",
+          "gloss": "公交"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ป้าย",
+          "gloss": "牌子"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เมล์",
+          "gloss": "公交"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-036",
+      "combinations": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "ชมวิว",
+          "gloss": "观景"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "ชม",
+          "gloss": "看"
+        },
+        {
+          "thai": "วิว",
+          "gloss": "景色"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-037",
+      "combinations": [
+        {
+          "thai": "สวน",
+          "gloss": "园"
+        },
+        {
+          "thai": "สาธารณะ",
+          "gloss": "公共"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สวน",
+          "gloss": "园"
+        },
+        {
+          "thai": "สาธารณะ",
+          "gloss": "公共"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-038",
+      "combinations": [
+        {
+          "thai": "ชาย",
+          "gloss": "岸"
+        },
+        {
+          "thai": "หาด",
+          "gloss": "沙滩"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ชาย",
+          "gloss": "岸"
+        },
+        {
+          "thai": "หาด",
+          "gloss": "沙滩"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-039",
+      "combinations": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-040",
+      "combinations": [
+        {
+          "thai": "สถาน",
+          "gloss": "场所"
+        },
+        {
+          "thai": "ทูต",
+          "gloss": "使节"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สถาน",
+          "gloss": "场所"
+        },
+        {
+          "thai": "ทูต",
+          "gloss": "使节"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-042",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "จอดรถ",
+          "gloss": "停车"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "จอด",
+          "gloss": "停"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-043",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-044",
+      "combinations": [
+        {
+          "thai": "ปิด",
+          "gloss": "关"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปิด",
+          "gloss": "关"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-045",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "24",
+          "gloss": "24"
+        },
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "24",
+          "gloss": "24"
+        },
+        {
+          "thai": "ชั่ว",
+          "gloss": "时段"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "小时"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-046",
+      "combinations": [
+        {
+          "thai": "แผน",
+          "gloss": "图"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แผน",
+          "gloss": "图"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-048",
+      "combinations": [
+        {
+          "thai": "เส้น",
+          "gloss": "线"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เส้น",
+          "gloss": "线"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-049",
+      "combinations": [
+        {
+          "thai": "ตำแหน่ง",
+          "gloss": "位置"
+        },
+        {
+          "thai": "ปัจจุบัน",
+          "gloss": "当前"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตำแหน่ง",
+          "gloss": "位置"
+        },
+        {
+          "thai": "ปัจจุบัน",
+          "gloss": "当前"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-050",
+      "combinations": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "หมาย",
+          "gloss": "目标"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จุด",
+          "gloss": "点"
+        },
+        {
+          "thai": "หมาย",
+          "gloss": "目标"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-054",
+      "combinations": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "พระแก้ว",
+          "gloss": "玉佛"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "พระแก้ว",
+          "gloss": "玉佛"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-055",
+      "combinations": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "อรุณ",
+          "gloss": "黎明"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "อรุณ",
+          "gloss": "黎明"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-056",
+      "combinations": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "โพธิ์",
+          "gloss": "菩提"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัด",
+          "gloss": "寺庙"
+        },
+        {
+          "thai": "โพธิ์",
+          "gloss": "菩提"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-057",
+      "combinations": [
+        {
+          "thai": "ถนน",
+          "gloss": "道路"
+        },
+        {
+          "thai": "ข้าวสาร",
+          "gloss": "白米"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ถนน",
+          "gloss": "道路"
+        },
+        {
+          "thai": "ข้าวสาร",
+          "gloss": "白米"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-058",
+      "combinations": [
+        {
+          "thai": "ตลาดนัด",
+          "gloss": "市集"
+        },
+        {
+          "thai": "จตุจักร",
+          "gloss": "乍都乍"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "นัด",
+          "gloss": "集会"
+        },
+        {
+          "thai": "จตุจักร",
+          "gloss": "乍都乍"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-060",
+      "combinations": [
+        {
+          "thai": "ไอคอน",
+          "gloss": "Icon"
+        },
+        {
+          "thai": "สยาม",
+          "gloss": "暹罗"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไอคอน",
+          "gloss": "Icon"
+        },
+        {
+          "thai": "สยาม",
+          "gloss": "暹罗"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-061",
+      "combinations": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "หลวง",
+          "gloss": "皇家"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "หลวง",
+          "gloss": "皇家"
+        }
+      ]
+    },
+    {
+      "id": "google_maps-word-062",
+      "combinations": [
+        {
+          "thai": "ศาล",
+          "gloss": "神坛"
+        },
+        {
+          "thai": "ท้าวมหาพรหม",
+          "gloss": "大梵天神"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ศาล",
+          "gloss": "神坛"
+        },
+        {
+          "thai": "ท้าวมหาพรหม",
+          "gloss": "大梵天神"
+        }
+      ]
+    },
+    {
+      "id": "health-word-003",
+      "combinations": [
+        {
+          "thai": "โรง",
+          "gloss": "院；场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โรง",
+          "gloss": "院；场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理"
+        }
+      ]
+    },
+    {
+      "id": "health-word-045",
+      "combinations": [
+        {
+          "thai": "ผ้า",
+          "gloss": "布"
+        },
+        {
+          "thai": "พันแผล",
+          "gloss": "包扎"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผ้า",
+          "gloss": "布"
+        },
+        {
+          "thai": "พัน",
+          "gloss": "缠"
+        },
+        {
+          "thai": "แผล",
+          "gloss": "伤口"
+        }
+      ]
+    },
+    {
+      "id": "health-word-047",
+      "combinations": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        },
+        {
+          "thai": "เสริม",
+          "gloss": "补充"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        },
+        {
+          "thai": "เสริม",
+          "gloss": "补充"
+        }
+      ]
+    },
+    {
+      "id": "health-word-048",
+      "combinations": [
+        {
+          "thai": "ครีม",
+          "gloss": "乳霜"
+        },
+        {
+          "thai": "กันแดด",
+          "gloss": "防晒"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ครีม",
+          "gloss": "乳霜"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "防"
+        },
+        {
+          "thai": "แดด",
+          "gloss": "阳光"
+        }
+      ]
+    },
+    {
+      "id": "health-word-049",
+      "combinations": [
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        },
+        {
+          "thai": "กันยุง",
+          "gloss": "驱蚊"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "防"
+        },
+        {
+          "thai": "ยุง",
+          "gloss": "蚊子"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-003",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "นอน",
+          "gloss": "睡"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "นอน",
+          "gloss": "睡"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-004",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-005",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ครัว",
+          "gloss": "厨"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ครัว",
+          "gloss": "厨"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-006",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "นั่งเล่น",
+          "gloss": "起居"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "นั่ง",
+          "gloss": "坐"
+        },
+        {
+          "thai": "เล่น",
+          "gloss": "休闲"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-008",
+      "combinations": [
+        {
+          "thai": "หน้า",
+          "gloss": "面"
+        },
+        {
+          "thai": "ต่าง",
+          "gloss": "窗"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หน้า",
+          "gloss": "面"
+        },
+        {
+          "thai": "ต่าง",
+          "gloss": "窗"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-013",
+      "combinations": [
+        {
+          "thai": "ตู้",
+          "gloss": "柜"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตู้",
+          "gloss": "柜"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冷"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-018",
+      "combinations": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "ซักผ้า",
+          "gloss": "洗衣"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "ซัก",
+          "gloss": "洗"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "布；衣"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-022",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ไม่ไหล",
+          "gloss": "不流"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ไหล",
+          "gloss": "流"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-025",
+      "combinations": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ความสะอาด",
+          "gloss": "清洁"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "状态"
+        },
+        {
+          "thai": "สะอาด",
+          "gloss": "干净"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-026",
+      "combinations": [
+        {
+          "thai": "ซัก",
+          "gloss": "洗"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "衣"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซัก",
+          "gloss": "洗"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "衣"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-027",
+      "combinations": [
+        {
+          "thai": "รีด",
+          "gloss": "熨"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "衣"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รีด",
+          "gloss": "熨"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "衣"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-028",
+      "combinations": [
+        {
+          "thai": "ล้าง",
+          "gloss": "洗"
+        },
+        {
+          "thai": "จาน",
+          "gloss": "盘"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ล้าง",
+          "gloss": "洗"
+        },
+        {
+          "thai": "จาน",
+          "gloss": "盘"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-032",
+      "combinations": [
+        {
+          "thai": "ทิ้ง",
+          "gloss": "扔"
+        },
+        {
+          "thai": "ขยะ",
+          "gloss": "垃圾"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทิ้ง",
+          "gloss": "扔"
+        },
+        {
+          "thai": "ขยะ",
+          "gloss": "垃圾"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-033",
+      "combinations": [
+        {
+          "thai": "เพื่อน",
+          "gloss": "朋友"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "家"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เพื่อน",
+          "gloss": "朋友"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "家"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-035",
+      "combinations": [
+        {
+          "thai": "ซื้อ",
+          "gloss": "买"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "房"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซื้อ",
+          "gloss": "买"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "房"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-036",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "เช่า",
+          "gloss": "租"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "เช่า",
+          "gloss": "租"
+        }
+      ]
+    },
+    {
+      "id": "home_living-word-038",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-001",
+      "combinations": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "แรม",
+          "gloss": "宿"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โรง",
+          "gloss": "场所"
+        },
+        {
+          "thai": "แรม",
+          "gloss": "宿"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-002",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-007",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ว่าง",
+          "gloss": "空"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ว่าง",
+          "gloss": "空"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-008",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เต็ม",
+          "gloss": "满"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เต็ม",
+          "gloss": "满"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-009",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เตียงเดี่ยว",
+          "gloss": "单人床"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เตียง",
+          "gloss": "床"
+        },
+        {
+          "thai": "เดี่ยว",
+          "gloss": "单"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-010",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เตียงคู่",
+          "gloss": "双人床"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "เตียง",
+          "gloss": "床"
+        },
+        {
+          "thai": "คู่",
+          "gloss": "双"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-011",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "สวีท",
+          "gloss": "套房"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "สวีท",
+          "gloss": "套房"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-012",
+      "combinations": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-013",
+      "combinations": [
+        {
+          "thai": "รวม",
+          "gloss": "包含"
+        },
+        {
+          "thai": "อาหารเช้า",
+          "gloss": "早餐"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รวม",
+          "gloss": "包含"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-014",
+      "combinations": [
+        {
+          "thai": "สระ",
+          "gloss": "池"
+        },
+        {
+          "thai": "ว่ายน้ำ",
+          "gloss": "游泳"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สระ",
+          "gloss": "池"
+        },
+        {
+          "thai": "ว่าย",
+          "gloss": "游"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-016",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "จอดรถ",
+          "gloss": "停车"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "จอด",
+          "gloss": "停"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-018",
+      "combinations": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "ปรับอากาศ",
+          "gloss": "调空气"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "ปรับ",
+          "gloss": "调节"
+        },
+        {
+          "thai": "อากาศ",
+          "gloss": "空气"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-020",
+      "combinations": [
+        {
+          "thai": "ตู้",
+          "gloss": "柜"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตู้",
+          "gloss": "柜"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冷"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-021",
+      "combinations": [
+        {
+          "thai": "ผ้า",
+          "gloss": "布"
+        },
+        {
+          "thai": "เช็ดตัว",
+          "gloss": "擦身"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผ้า",
+          "gloss": "布"
+        },
+        {
+          "thai": "เช็ด",
+          "gloss": "擦"
+        },
+        {
+          "thai": "ตัว",
+          "gloss": "身体"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-024",
+      "combinations": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-025",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-026",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ไม่ร้อน",
+          "gloss": "不热"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-027",
+      "combinations": [
+        {
+          "thai": "ไฟ",
+          "gloss": "灯"
+        },
+        {
+          "thai": "ไม่ติด",
+          "gloss": "不亮"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไฟ",
+          "gloss": "灯"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ติด",
+          "gloss": "亮"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-028",
+      "combinations": [
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "ไม่เย็น",
+          "gloss": "不冷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "冷"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-029",
+      "combinations": [
+        {
+          "thai": "กุญแจ",
+          "gloss": "钥匙"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กุญแจ",
+          "gloss": "钥匙"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-031",
+      "combinations": [
+        {
+          "thai": "ฝาก",
+          "gloss": "寄存"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝาก",
+          "gloss": "寄存"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-033",
+      "combinations": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ความสะอาด",
+          "gloss": "清洁"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "状态"
+        },
+        {
+          "thai": "สะอาด",
+          "gloss": "干净"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-034",
+      "combinations": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "换"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "床单"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "换"
+        },
+        {
+          "thai": "ผ้า",
+          "gloss": "床单"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-035",
+      "combinations": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成；收据"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成；收据"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-036",
+      "combinations": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-038",
+      "combinations": [
+        {
+          "thai": "คืน",
+          "gloss": "退"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คืน",
+          "gloss": "退"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-040",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-041",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "บริการ",
+          "gloss": "服务"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "บริการ",
+          "gloss": "服务"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-043",
+      "combinations": [
+        {
+          "thai": "แผนก",
+          "gloss": "部门"
+        },
+        {
+          "thai": "ต้อนรับ",
+          "gloss": "接待"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แผนก",
+          "gloss": "部门"
+        },
+        {
+          "thai": "ต้อนรับ",
+          "gloss": "接待"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-045",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "จัดการ",
+          "gloss": "管理"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "จัดการ",
+          "gloss": "管理"
+        }
+      ]
+    },
+    {
+      "id": "hotel-word-048",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "พัก",
+          "gloss": "住"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-003",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ตัดผม",
+          "gloss": "理发"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ตัด",
+          "gloss": "剪"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "头发"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-004",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ซักรีด",
+          "gloss": "洗衣熨"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "ซัก",
+          "gloss": "洗"
+        },
+        {
+          "thai": "รีด",
+          "gloss": "熨"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-005",
+      "combinations": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "สะดวกซื้อ",
+          "gloss": "便利购买"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้าน",
+          "gloss": "店"
+        },
+        {
+          "thai": "สะดวก",
+          "gloss": "方便"
+        },
+        {
+          "thai": "ซื้อ",
+          "gloss": "买"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-008",
+      "combinations": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "เครดิต",
+          "gloss": "信用"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "เครดิต",
+          "gloss": "信用"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-009",
+      "combinations": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "เดบิต",
+          "gloss": "借记"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "เดบิต",
+          "gloss": "借记"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-011",
+      "combinations": [
+        {
+          "thai": "กด",
+          "gloss": "按"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กด",
+          "gloss": "按"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-012",
+      "combinations": [
+        {
+          "thai": "ฝาก",
+          "gloss": "存"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝาก",
+          "gloss": "存"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-013",
+      "combinations": [
+        {
+          "thai": "โอน",
+          "gloss": "转"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โอน",
+          "gloss": "转"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-015",
+      "combinations": [
+        {
+          "thai": "สมุด",
+          "gloss": "本"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สมุด",
+          "gloss": "本"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-017",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ธรรมเนียม",
+          "gloss": "手续"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ธรรมเนียม",
+          "gloss": "手续"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-018",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "开"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-019",
+      "combinations": [
+        {
+          "thai": "ปิด",
+          "gloss": "关"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปิด",
+          "gloss": "关"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-024",
+      "combinations": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "文件"
+        },
+        {
+          "thai": "รับรอง",
+          "gloss": "证明"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "文件"
+        },
+        {
+          "thai": "รับรอง",
+          "gloss": "证明"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-025",
+      "combinations": [
+        {
+          "thai": "ทะเบียน",
+          "gloss": "登记"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "户籍"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทะเบียน",
+          "gloss": "登记"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "户籍"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-026",
+      "combinations": [
+        {
+          "thai": "ใบ",
+          "gloss": "证"
+        },
+        {
+          "thai": "ขับขี่",
+          "gloss": "驾驶"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใบ",
+          "gloss": "证"
+        },
+        {
+          "thai": "ขับ",
+          "gloss": "驾"
+        },
+        {
+          "thai": "ขี่",
+          "gloss": "骑"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-033",
+      "combinations": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-036",
+      "combinations": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "电"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "电"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-037",
+      "combinations": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "ประปา",
+          "gloss": "水管"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "ประปา",
+          "gloss": "水管"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-038",
+      "combinations": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ช่าง",
+          "gloss": "师傅"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-042",
+      "combinations": [
+        {
+          "thai": "ใช้",
+          "gloss": "用"
+        },
+        {
+          "thai": "ไม่ได้",
+          "gloss": "不成"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใช้",
+          "gloss": "用"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "成"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-043",
+      "combinations": [
+        {
+          "thai": "ยัง",
+          "gloss": "还"
+        },
+        {
+          "thai": "ไม่เสร็จ",
+          "gloss": "没好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ยัง",
+          "gloss": "还"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-044",
+      "combinations": [
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-045",
+      "combinations": [
+        {
+          "thai": "อีกนาน",
+          "gloss": "还久"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อีก",
+          "gloss": "还"
+        },
+        {
+          "thai": "นาน",
+          "gloss": "久"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-046",
+      "combinations": [
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成"
+        },
+        {
+          "thai": "เมื่อไหร่",
+          "gloss": "什么时候"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成"
+        },
+        {
+          "thai": "เมื่อ",
+          "gloss": "当"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何时"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-word-047",
+      "combinations": [
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        },
+        {
+          "thai": "เท่า",
+          "gloss": "等于"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "多少"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-020",
+      "combinations": [
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-021",
+      "combinations": [
+        {
+          "thai": "พรุ่ง",
+          "gloss": "明；下一"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "พรุ่ง",
+          "gloss": "明；下一"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-022",
+      "combinations": [
+        {
+          "thai": "เมื่อ",
+          "gloss": "当；在"
+        },
+        {
+          "thai": "วาน",
+          "gloss": "昨天"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เมื่อ",
+          "gloss": "当；在"
+        },
+        {
+          "thai": "วาน",
+          "gloss": "昨天"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-023",
+      "combinations": [
+        {
+          "thai": "มะรืน",
+          "gloss": "后天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มะรืน",
+          "gloss": "后天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-027",
+      "combinations": [
+        {
+          "thai": "กลาง",
+          "gloss": "中间"
+        },
+        {
+          "thai": "คืน",
+          "gloss": "夜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กลาง",
+          "gloss": "中间"
+        },
+        {
+          "thai": "คืน",
+          "gloss": "夜"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-028",
+      "combinations": [
+        {
+          "thai": "ชั่ว",
+          "gloss": "时段"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "小时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ชั่ว",
+          "gloss": "时段"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "小时"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-030",
+      "combinations": [
+        {
+          "thai": "ตอน",
+          "gloss": "时候"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตอน",
+          "gloss": "时候"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-031",
+      "combinations": [
+        {
+          "thai": "เมื่อ",
+          "gloss": "当"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เมื่อ",
+          "gloss": "当"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何时"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-032",
+      "combinations": [
+        {
+          "thai": "กี่",
+          "gloss": "几"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "点；小时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กี่",
+          "gloss": "几"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "点；小时"
+        }
+      ]
+    },
+    {
+      "id": "numbers-word-039",
+      "combinations": [
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        },
+        {
+          "thai": "เท่า",
+          "gloss": "等于"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "多少"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-001",
+      "combinations": [
+        {
+          "thai": "โทร",
+          "gloss": "打"
+        },
+        {
+          "thai": "ศัพท์",
+          "gloss": "词语；话"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โทร",
+          "gloss": "打"
+        },
+        {
+          "thai": "ศัพท์",
+          "gloss": "词语；话"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-002",
+      "combinations": [
+        {
+          "thai": "มือ",
+          "gloss": "手"
+        },
+        {
+          "thai": "ถือ",
+          "gloss": "持"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มือ",
+          "gloss": "手"
+        },
+        {
+          "thai": "ถือ",
+          "gloss": "持"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-008",
+      "combinations": [
+        {
+          "thai": "ข้อ",
+          "gloss": "条"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "内容"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ข้อ",
+          "gloss": "条"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "内容"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-016",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "用来"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "用来"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-018",
+      "combinations": [
+        {
+          "thai": "สาย",
+          "gloss": "线"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สาย",
+          "gloss": "线"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-021",
+      "combinations": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ช้า",
+          "gloss": "慢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ช้า",
+          "gloss": "慢"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-022",
+      "combinations": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "หลุด",
+          "gloss": "掉；断"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "หลุด",
+          "gloss": "掉；断"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-023",
+      "combinations": [
+        {
+          "thai": "เติม",
+          "gloss": "充"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เติม",
+          "gloss": "充"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-038",
+      "combinations": [
+        {
+          "thai": "คิว",
+          "gloss": "号"
+        },
+        {
+          "thai": "ต่อไป",
+          "gloss": "下一个"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คิว",
+          "gloss": "号"
+        },
+        {
+          "thai": "ต่อ",
+          "gloss": "接"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-039",
+      "combinations": [
+        {
+          "thai": "อีก",
+          "gloss": "还"
+        },
+        {
+          "thai": "กี่คิว",
+          "gloss": "几个号"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อีก",
+          "gloss": "还"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-word-040",
+      "combinations": [
+        {
+          "thai": "ฝาก",
+          "gloss": "留"
+        },
+        {
+          "thai": "ข้อความ",
+          "gloss": "消息"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝาก",
+          "gloss": "留"
+        },
+        {
+          "thai": "ข้อ",
+          "gloss": "条"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "内容"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-002",
+      "combinations": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "ตำรวจ",
+          "gloss": "警察"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สถานี",
+          "gloss": "站"
+        },
+        {
+          "thai": "ตำรวจ",
+          "gloss": "警察"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-003",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "救护"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "救护"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-004",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ดับเพลิง",
+          "gloss": "消防"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ดับ",
+          "gloss": "灭"
+        },
+        {
+          "thai": "เพลิง",
+          "gloss": "火"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-005",
+      "combinations": [
+        {
+          "thai": "ช่วย",
+          "gloss": "救"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "语气：请求"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ช่วย",
+          "gloss": "救"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "语气：请求"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-008",
+      "combinations": [
+        {
+          "thai": "ไฟ",
+          "gloss": "火"
+        },
+        {
+          "thai": "ไหม้",
+          "gloss": "燃烧"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไฟ",
+          "gloss": "火"
+        },
+        {
+          "thai": "ไหม้",
+          "gloss": "燃烧"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-009",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ท่วม",
+          "gloss": "淹"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ท่วม",
+          "gloss": "淹"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-010",
+      "combinations": [
+        {
+          "thai": "แผ่นดิน",
+          "gloss": "大地"
+        },
+        {
+          "thai": "ไหว",
+          "gloss": "震"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แผ่น",
+          "gloss": "片"
+        },
+        {
+          "thai": "ดิน",
+          "gloss": "地"
+        },
+        {
+          "thai": "ไหว",
+          "gloss": "震"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-014",
+      "combinations": [
+        {
+          "thai": "หลง",
+          "gloss": "迷"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หลง",
+          "gloss": "迷"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-016",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求"
+        },
+        {
+          "thai": "ความช่วยเหลือ",
+          "gloss": "帮助"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "事"
+        },
+        {
+          "thai": "ช่วยเหลือ",
+          "gloss": "援助"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-018",
+      "combinations": [
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "ฉุกเฉิน",
+          "gloss": "紧急"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "ฉุกเฉิน",
+          "gloss": "紧急"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-019",
+      "combinations": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "证件；书"
+        },
+        {
+          "thai": "เดินทาง",
+          "gloss": "旅行"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "证件；书"
+        },
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-020",
+      "combinations": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "ประชาชน",
+          "gloss": "公民"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        },
+        {
+          "thai": "ประชาชน",
+          "gloss": "公民"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-021",
+      "combinations": [
+        {
+          "thai": "สถาน",
+          "gloss": "场所"
+        },
+        {
+          "thai": "ทูต",
+          "gloss": "使节"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สถาน",
+          "gloss": "场所"
+        },
+        {
+          "thai": "ทูต",
+          "gloss": "使节"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-024",
+      "combinations": [
+        {
+          "thai": "ประกัน",
+          "gloss": "保险"
+        },
+        {
+          "thai": "ภัย",
+          "gloss": "灾险"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ประกัน",
+          "gloss": "保险"
+        },
+        {
+          "thai": "ภัย",
+          "gloss": "灾险"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-026",
+      "combinations": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-027",
+      "combinations": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-028",
+      "combinations": [
+        {
+          "thai": "มือถือ",
+          "gloss": "手机"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มือ",
+          "gloss": "手"
+        },
+        {
+          "thai": "ถือ",
+          "gloss": "持"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-032",
+      "combinations": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "แจ้งความ",
+          "gloss": "报案"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใบ",
+          "gloss": "单"
+        },
+        {
+          "thai": "แจ้ง",
+          "gloss": "报"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "案"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-033",
+      "combinations": [
+        {
+          "thai": "แจ้ง",
+          "gloss": "报"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "案"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แจ้ง",
+          "gloss": "报"
+        },
+        {
+          "thai": "ความ",
+          "gloss": "案"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-036",
+      "combinations": [
+        {
+          "thai": "กล้อง",
+          "gloss": "摄像头"
+        },
+        {
+          "thai": "วงจรปิด",
+          "gloss": "闭路"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กล้อง",
+          "gloss": "摄像头"
+        },
+        {
+          "thai": "วงจร",
+          "gloss": "回路"
+        },
+        {
+          "thai": "ปิด",
+          "gloss": "关闭"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-041",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-042",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-043",
+      "combinations": [
+        {
+          "thai": "บันได",
+          "gloss": "楼梯"
+        },
+        {
+          "thai": "หนีไฟ",
+          "gloss": "逃生"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "บันได",
+          "gloss": "楼梯"
+        },
+        {
+          "thai": "หนี",
+          "gloss": "逃"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "火"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-045",
+      "combinations": [
+        {
+          "thai": "ห้าม",
+          "gloss": "禁止"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้าม",
+          "gloss": "禁止"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-046",
+      "combinations": [
+        {
+          "thai": "ห้าม",
+          "gloss": "禁止"
+        },
+        {
+          "thai": "สูบบุหรี่",
+          "gloss": "吸烟"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้าม",
+          "gloss": "禁止"
+        },
+        {
+          "thai": "สูบ",
+          "gloss": "吸"
+        },
+        {
+          "thai": "บุหรี่",
+          "gloss": "烟"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-047",
+      "combinations": [
+        {
+          "thai": "อันตราย",
+          "gloss": "危险"
+        },
+        {
+          "thai": "สูง",
+          "gloss": "高"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อันตราย",
+          "gloss": "危险"
+        },
+        {
+          "thai": "สูง",
+          "gloss": "高"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-048",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ลัด",
+          "gloss": "近；捷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ลัด",
+          "gloss": "近；捷"
+        }
+      ]
+    },
+    {
+      "id": "safety-word-050",
+      "combinations": [
+        {
+          "thai": "อย่า",
+          "gloss": "不要"
+        },
+        {
+          "thai": "เข้าไป",
+          "gloss": "进去"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อย่า",
+          "gloss": "不要"
+        },
+        {
+          "thai": "เข้า",
+          "gloss": "进"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-007",
+      "combinations": [
+        {
+          "thai": "รอง",
+          "gloss": "承托"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รอง",
+          "gloss": "承托"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-008",
+      "combinations": [
+        {
+          "thai": "ถุง",
+          "gloss": "袋"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ถุง",
+          "gloss": "袋"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-011",
+      "combinations": [
+        {
+          "thai": "แว่น",
+          "gloss": "镜"
+        },
+        {
+          "thai": "ตา",
+          "gloss": "眼"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แว่น",
+          "gloss": "镜"
+        },
+        {
+          "thai": "ตา",
+          "gloss": "眼"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-015",
+      "combinations": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "เขียว",
+          "gloss": "绿"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "เขียว",
+          "gloss": "绿"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-019",
+      "combinations": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "เหลือง",
+          "gloss": "黄"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "เหลือง",
+          "gloss": "黄"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-020",
+      "combinations": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "ชมพู",
+          "gloss": "粉"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สี",
+          "gloss": "颜色"
+        },
+        {
+          "thai": "ชมพู",
+          "gloss": "粉"
+        }
+      ]
+    },
+    {
+      "id": "shopping-word-039",
+      "combinations": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "ฝาก",
+          "gloss": "托带；赠"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ของ",
+          "gloss": "东西"
+        },
+        {
+          "thai": "ฝาก",
+          "gloss": "托带；赠"
+        }
+      ]
+    },
+    {
+      "id": "social-word-012",
+      "combinations": [
+        {
+          "thai": "นาม",
+          "gloss": "名"
+        },
+        {
+          "thai": "สกุล",
+          "gloss": "家族；姓"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นาม",
+          "gloss": "名"
+        },
+        {
+          "thai": "สกุล",
+          "gloss": "家族；姓"
+        }
+      ]
+    },
+    {
+      "id": "social-word-016",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "ชาย",
+          "gloss": "男"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "ชาย",
+          "gloss": "男"
+        }
+      ]
+    },
+    {
+      "id": "social-word-017",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "หญิง",
+          "gloss": "女"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "หญิง",
+          "gloss": "女"
+        }
+      ]
+    },
+    {
+      "id": "social-word-019",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        }
+      ]
+    },
+    {
+      "id": "social-word-020",
+      "combinations": [
+        {
+          "thai": "สบาย",
+          "gloss": "舒服"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สบาย",
+          "gloss": "舒服"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "id": "social-word-022",
+      "combinations": [
+        {
+          "thai": "เสีย",
+          "gloss": "损失；难受"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เสีย",
+          "gloss": "损失；难受"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心"
+        }
+      ]
+    },
+    {
+      "id": "social-word-029",
+      "combinations": [
+        {
+          "thai": "น่า",
+          "gloss": "值得"
+        },
+        {
+          "thai": "รัก",
+          "gloss": "爱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น่า",
+          "gloss": "值得"
+        },
+        {
+          "thai": "รัก",
+          "gloss": "爱"
+        }
+      ]
+    },
+    {
+      "id": "social-word-031",
+      "combinations": [
+        {
+          "thai": "ขี้",
+          "gloss": "爱；容易"
+        },
+        {
+          "thai": "เกียจ",
+          "gloss": "懒"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขี้",
+          "gloss": "爱；容易"
+        },
+        {
+          "thai": "เกียจ",
+          "gloss": "懒"
+        }
+      ]
+    },
+    {
+      "id": "social-word-037",
+      "combinations": [
+        {
+          "thai": "ถ่าย",
+          "gloss": "拍"
+        },
+        {
+          "thai": "รูป",
+          "gloss": "照片"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ถ่าย",
+          "gloss": "拍"
+        },
+        {
+          "thai": "รูป",
+          "gloss": "照片"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-002",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟฟ้า",
+          "gloss": "电"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "电"
+        },
+        {
+          "thai": "ฟ้า",
+          "gloss": "天；电"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-003",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "火；电"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "火；电"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-004",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เมล์",
+          "gloss": "公交"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เมล์",
+          "gloss": "公交"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-005",
+      "combinations": [
+        {
+          "thai": "รถไฟฟ้า",
+          "gloss": "轻轨"
+        },
+        {
+          "thai": "ใต้ดิน",
+          "gloss": "地下"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไฟฟ้า",
+          "gloss": "电"
+        },
+        {
+          "thai": "ใต้",
+          "gloss": "下"
+        },
+        {
+          "thai": "ดิน",
+          "gloss": "地"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-011",
+      "combinations": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เครื่อง",
+          "gloss": "机器"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-018",
+      "combinations": [
+        {
+          "thai": "ข้าง",
+          "gloss": "边"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "前"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ข้าง",
+          "gloss": "边"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "前"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-019",
+      "combinations": [
+        {
+          "thai": "ข้าง",
+          "gloss": "边"
+        },
+        {
+          "thai": "หลัง",
+          "gloss": "后"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ข้าง",
+          "gloss": "边"
+        },
+        {
+          "thai": "หลัง",
+          "gloss": "后"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-033",
+      "combinations": [
+        {
+          "thai": "ป้าย",
+          "gloss": "牌子"
+        },
+        {
+          "thai": "รถเมล์",
+          "gloss": "公交"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ป้าย",
+          "gloss": "牌子"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เมล์",
+          "gloss": "公交"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-035",
+      "combinations": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สนาม",
+          "gloss": "场地"
+        },
+        {
+          "thai": "บิน",
+          "gloss": "飞"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-036",
+      "combinations": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-039",
+      "combinations": [
+        {
+          "thai": "ไฟ",
+          "gloss": "灯"
+        },
+        {
+          "thai": "เขียว",
+          "gloss": "绿"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไฟ",
+          "gloss": "灯"
+        },
+        {
+          "thai": "เขียว",
+          "gloss": "绿"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-040",
+      "combinations": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ติด",
+          "gloss": "堵"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ติด",
+          "gloss": "堵"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-042",
+      "combinations": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "搭乘"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "搭乘"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-044",
+      "combinations": [
+        {
+          "thai": "แผน",
+          "gloss": "图"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แผน",
+          "gloss": "图"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-047",
+      "combinations": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "นั่ง",
+          "gloss": "坐"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ที่",
+          "gloss": "地方"
+        },
+        {
+          "thai": "นั่ง",
+          "gloss": "坐"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-049",
+      "combinations": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "乘客；搭乘"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ผู้",
+          "gloss": "人；者"
+        },
+        {
+          "thai": "โดยสาร",
+          "gloss": "乘客；搭乘"
+        }
+      ]
+    },
+    {
+      "id": "transport-word-050",
+      "combinations": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "เดินทาง",
+          "gloss": "旅行"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包"
+        },
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-010",
+      "combinations": [
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-011",
+      "combinations": [
+        {
+          "thai": "หนาว",
+          "gloss": "冷"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนาว",
+          "gloss": "冷"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-013",
+      "combinations": [
+        {
+          "thai": "แว่น",
+          "gloss": "镜"
+        },
+        {
+          "thai": "กันแดด",
+          "gloss": "防晒"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แว่น",
+          "gloss": "镜"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "防"
+        },
+        {
+          "thai": "แดด",
+          "gloss": "阳光"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-016",
+      "combinations": [
+        {
+          "thai": "ว่าย",
+          "gloss": "游"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ว่าย",
+          "gloss": "游"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-017",
+      "combinations": [
+        {
+          "thai": "ปีน",
+          "gloss": "爬"
+        },
+        {
+          "thai": "เขา",
+          "gloss": "山"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปีน",
+          "gloss": "爬"
+        },
+        {
+          "thai": "เขา",
+          "gloss": "山"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-021",
+      "combinations": [
+        {
+          "thai": "มวย",
+          "gloss": "拳"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มวย",
+          "gloss": "拳"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-026",
+      "combinations": [
+        {
+          "thai": "ชาย",
+          "gloss": "边；岸"
+        },
+        {
+          "thai": "หาด",
+          "gloss": "沙滩"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ชาย",
+          "gloss": "边；岸"
+        },
+        {
+          "thai": "หาด",
+          "gloss": "沙滩"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-028",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ตก",
+          "gloss": "落"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ตก",
+          "gloss": "落"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-031",
+      "combinations": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "นัด",
+          "gloss": "集会"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตลาด",
+          "gloss": "市场"
+        },
+        {
+          "thai": "นัด",
+          "gloss": "集会"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-035",
+      "combinations": [
+        {
+          "thai": "ใส่",
+          "gloss": "放"
+        },
+        {
+          "thai": "บาตร",
+          "gloss": "钵"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใส่",
+          "gloss": "放"
+        },
+        {
+          "thai": "บาตร",
+          "gloss": "钵"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-037",
+      "combinations": [
+        {
+          "thai": "วัน",
+          "gloss": "日"
+        },
+        {
+          "thai": "หยุด",
+          "gloss": "休息"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัน",
+          "gloss": "日"
+        },
+        {
+          "thai": "หยุด",
+          "gloss": "休息"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-041",
+      "combinations": [
+        {
+          "thai": "ลอย",
+          "gloss": "漂"
+        },
+        {
+          "thai": "กระทง",
+          "gloss": "水灯"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ลอย",
+          "gloss": "漂"
+        },
+        {
+          "thai": "กระทง",
+          "gloss": "水灯"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-042",
+      "combinations": [
+        {
+          "thai": "ปี",
+          "gloss": "年"
+        },
+        {
+          "thai": "ใหม่",
+          "gloss": "新"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปี",
+          "gloss": "年"
+        },
+        {
+          "thai": "ใหม่",
+          "gloss": "新"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-043",
+      "combinations": [
+        {
+          "thai": "ตรุษ",
+          "gloss": "节"
+        },
+        {
+          "thai": "จีน",
+          "gloss": "中国"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตรุษ",
+          "gloss": "节"
+        },
+        {
+          "thai": "จีน",
+          "gloss": "中国"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-049",
+      "combinations": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "书"
+        },
+        {
+          "thai": "พิมพ์",
+          "gloss": "印刷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนังสือ",
+          "gloss": "书"
+        },
+        {
+          "thai": "พิมพ์",
+          "gloss": "印刷"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-word-050",
+      "combinations": [
+        {
+          "thai": "สัตว์",
+          "gloss": "动物"
+        },
+        {
+          "thai": "เลี้ยง",
+          "gloss": "养"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สัตว์",
+          "gloss": "动物"
+        },
+        {
+          "thai": "เลี้ยง",
+          "gloss": "养"
+        }
+      ]
+    }
+  ]
+}

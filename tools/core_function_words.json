@@ -1,0 +1,3564 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-Hans",
+  "source": "core_function_handbook.md",
+  "recordCount": 124,
+  "items": [
+    {
+      "thai": "เป็น",
+      "romanization": "pen",
+      "meaningZhHans": "是 / 会 / 充当",
+      "usageNote": "เป็น 表示身份、职业、属性，或表示“具备某种能力（会）”，亦可作“活着/生”的状态。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 1,
+      "example": "เขาเป็นเพื่อนผม",
+      "exampleMeaning": "他是我的朋友。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "เพื่อน",
+          "gloss": "朋友"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "我-男性自称"
+        }
+      ]
+    },
+    {
+      "thai": "คือ",
+      "romanization": "khʉʉ",
+      "meaningZhHans": "是 / 即是 / 定义",
+      "usageNote": "คือ 侧重“定义、等同、即是”（A 就是 B，相当于等号）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 2,
+      "example": "นี่คืออะไร",
+      "exampleMeaning": "这是什么？。",
+      "segments": [
+        {
+          "thai": "นี่",
+          "gloss": "这个"
+        },
+        {
+          "thai": "คือ",
+          "gloss": "是/就是"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "thai": "มี",
+      "romanization": "mii",
+      "meaningZhHans": "有 / 存在",
+      "usageNote": "มี 表示“拥有、存在”（有）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 3,
+      "example": "มีเงินไหม",
+      "exampleMeaning": "有钱吗？。",
+      "segments": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "อยู่",
+      "romanization": "yùu",
+      "meaningZhHans": "在 / 居住 / 进行体",
+      "usageNote": "อยู่ 作实义动词为“在/居住”，作体态助词为“正在进行”或“状态持续”。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 4,
+      "example": "ทำอะไรอยู่",
+      "exampleMeaning": "你正在做什么呢？。",
+      "segments": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着/处于进行中"
+        }
+      ]
+    },
+    {
+      "thai": "นี่",
+      "romanization": "nîi",
+      "meaningZhHans": "这（独立指示）",
+      "usageNote": "用于独立充当主语或宾语的独立指示代词（这 / 那 / 远处那）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 5,
+      "example": "นี่ของใคร",
+      "exampleMeaning": "这是谁的？。",
+      "segments": [
+        {
+          "thai": "นี่",
+          "gloss": "这个"
+        },
+        {
+          "thai": "ของ",
+          "gloss": "...的"
+        },
+        {
+          "thai": "ใคร",
+          "gloss": "谁"
+        }
+      ]
+    },
+    {
+      "thai": "นั่น",
+      "romanization": "nân",
+      "meaningZhHans": "那（独立指示）",
+      "usageNote": "用于独立充当主语或宾语的独立指示代词（这 / 那 / 远处那）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 5,
+      "example": "นั่นอะไร",
+      "exampleMeaning": "那是什么？。",
+      "segments": [
+        {
+          "thai": "นั่น",
+          "gloss": "那个"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "thai": "โน่น",
+      "romanization": "nôon",
+      "meaningZhHans": "远处那（独立指示）",
+      "usageNote": "用于独立充当主语或宾语的独立指示代词（这 / 那 / 远处那）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 5,
+      "example": "โน่นอะไร",
+      "exampleMeaning": "那（远处）是什么？",
+      "segments": [
+        {
+          "thai": "โน่น",
+          "gloss": "远处那"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "thai": "นี้",
+      "romanization": "níi",
+      "meaningZhHans": "这个（后置修饰）",
+      "usageNote": "置于名词或量词之后充当后置修饰限定的指示词（这个 / 那个 / 远处那个）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 6,
+      "example": "คนนี้เป็นใคร",
+      "exampleMeaning": "这个人是谁？。",
+      "segments": [
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "ใคร",
+          "gloss": "谁"
+        }
+      ]
+    },
+    {
+      "thai": "นั้น",
+      "romanization": "nán",
+      "meaningZhHans": "那个（后置修饰）",
+      "usageNote": "置于名词或量词之后充当后置修饰限定的指示词（这个 / 那个 / 远处那个）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 6,
+      "example": "อันนั้นเท่าไหร่",
+      "exampleMeaning": "那个多少钱？。",
+      "segments": [
+        {
+          "thai": "อัน",
+          "gloss": "个"
+        },
+        {
+          "thai": "นั้น",
+          "gloss": "那"
+        },
+        {
+          "thai": "เท่า",
+          "gloss": "等量"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何"
+        }
+      ]
+    },
+    {
+      "thai": "โน้น",
+      "romanization": "nóon",
+      "meaningZhHans": "远处那个（后置修饰）",
+      "usageNote": "置于名词或量词之后充当后置修饰限定的指示词（这个 / 那个 / 远处那个）。",
+      "tags": [
+        "core_function",
+        "layer1",
+        "口语骨架"
+      ],
+      "entryNumber": 6,
+      "example": "คนโน้นเป็นใคร",
+      "exampleMeaning": "远处那个人是谁？",
+      "segments": [
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "โน้น",
+          "gloss": "远处那个"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "ใคร",
+          "gloss": "谁"
+        }
+      ]
+    },
+    {
+      "thai": "อะไร",
+      "romanization": "à-rai",
+      "meaningZhHans": "什么",
+      "usageNote": "อะไร 是日常提问使用频率最高的疑问代词（什么）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 7,
+      "example": "กินอะไรดี",
+      "exampleMeaning": "吃什么好呢？。",
+      "segments": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "thai": "ที่ไหน",
+      "romanization": "thîi-nǎi",
+      "meaningZhHans": "在哪里",
+      "usageNote": "用于提问地点与具体方位（在哪里 / 在哪个位置）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 8,
+      "example": "ห้องน้ำอยู่ที่ไหน",
+      "exampleMeaning": "洗手间在哪里？。",
+      "segments": [
+        {
+          "thai": "ห้องน้ำ",
+          "gloss": "洗手间"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "在"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在/的"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪"
+        }
+      ]
+    },
+    {
+      "thai": "ตรงไหน",
+      "romanization": "trong-nǎi",
+      "meaningZhHans": "哪个位置",
+      "usageNote": "用于提问地点与具体方位（在哪里 / 在哪个位置）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 8,
+      "example": "เจ็บตรงไหน",
+      "exampleMeaning": "哪里疼？/ 伤在哪个部位？。",
+      "segments": [
+        {
+          "thai": "เจ็บ",
+          "gloss": "疼/痛"
+        },
+        {
+          "thai": "ตรง",
+          "gloss": "位置"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪"
+        }
+      ]
+    },
+    {
+      "thai": "เมื่อไหร่",
+      "romanization": "mʉ̂a-rài",
+      "meaningZhHans": "什么时候",
+      "usageNote": "提问时间与钟点（什么时候 / 几点）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 9,
+      "example": "จะไปเมื่อไหร่",
+      "exampleMeaning": "什么时候出发/去？。",
+      "segments": [
+        {
+          "thai": "จะ",
+          "gloss": "将要"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เมื่อ",
+          "gloss": "当/时"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何"
+        }
+      ]
+    },
+    {
+      "thai": "กี่โมง",
+      "romanization": "kìi-mooŋ",
+      "meaningZhHans": "几点",
+      "usageNote": "提问时间与钟点（什么时候 / 几点）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 9,
+      "example": "ตอนนี้กี่โมงแล้ว",
+      "exampleMeaning": "现在几点钟了？。",
+      "segments": [
+        {
+          "thai": "ตอนนี้",
+          "gloss": "现在"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "多少"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "点钟"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "thai": "ใคร",
+      "romanization": "khrai",
+      "meaningZhHans": "谁",
+      "usageNote": "疑问代词：谁。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 10,
+      "example": "เขาเป็นใคร",
+      "exampleMeaning": "他是谁？。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "ใคร",
+          "gloss": "谁"
+        }
+      ]
+    },
+    {
+      "thai": "ทำไม",
+      "romanization": "tham-mai",
+      "meaningZhHans": "为什么",
+      "usageNote": "疑问代词：为什么。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 11,
+      "example": "ทำไมไม่มา",
+      "exampleMeaning": "为什么没来？。",
+      "segments": [
+        {
+          "thai": "ทำไม",
+          "gloss": "为什么"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "มา",
+          "gloss": "来"
+        }
+      ]
+    },
+    {
+      "thai": "ยังไง",
+      "romanization": "yaŋ-ŋai",
+      "meaningZhHans": "怎么 / 怎么样",
+      "usageNote": "口语中最常用的“怎么、如何”（书面语写作 อย่างไร）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 12,
+      "example": "อันนี้ทำยังไง",
+      "exampleMeaning": "这个怎么做？。",
+      "segments": [
+        {
+          "thai": "อันนี้",
+          "gloss": "这个"
+        },
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ยังไง",
+          "gloss": "怎么/如何"
+        }
+      ]
+    },
+    {
+      "thai": "เท่าไหร่",
+      "romanization": "thâo-rài",
+      "meaningZhHans": "多少钱 / 多少",
+      "usageNote": "询问价格或数量（多少钱 / 多少个）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 13,
+      "example": "ทั้งหมดเท่าไหร่",
+      "exampleMeaning": "一共多少钱？。",
+      "segments": [
+        {
+          "thai": "ทั้งหมด",
+          "gloss": "全部/总共"
+        },
+        {
+          "thai": "เท่า",
+          "gloss": "等量"
+        },
+        {
+          "thai": "ไหร่",
+          "gloss": "何"
+        }
+      ]
+    },
+    {
+      "thai": "กี่",
+      "romanization": "kìi",
+      "meaningZhHans": "多少个",
+      "usageNote": "询问价格或数量（多少钱 / 多少个）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 13,
+      "example": "มีกี่คน",
+      "exampleMeaning": "有几位？。",
+      "segments": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几"
+        },
+        {
+          "thai": "คน",
+          "gloss": "人/位"
+        }
+      ]
+    },
+    {
+      "thai": "อันไหน",
+      "romanization": "an-nǎi",
+      "meaningZhHans": "哪一个",
+      "usageNote": "选择疑问词（哪一个 / 哪个人）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 14,
+      "example": "ชอบอันไหน",
+      "exampleMeaning": "喜欢哪一个？。",
+      "segments": [
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        },
+        {
+          "thai": "อัน",
+          "gloss": "个"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪"
+        }
+      ]
+    },
+    {
+      "thai": "คนไหน",
+      "romanization": "khon-nǎi",
+      "meaningZhHans": "哪个人",
+      "usageNote": "选择疑问词（哪一个 / 哪个人）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 14,
+      "example": "คนไหนเป็นแฟนคุณ",
+      "exampleMeaning": "哪一位是你的对象？。",
+      "segments": [
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "แฟน",
+          "gloss": "男女朋友/对象"
+        },
+        {
+          "thai": "คุณ",
+          "gloss": "你"
+        }
+      ]
+    },
+    {
+      "thai": "ไหม",
+      "romanization": "mǎi",
+      "meaningZhHans": "吗",
+      "usageNote": "句末疑问助词：吗？（口语中极高频读作高平调 มั้ย）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 15,
+      "example": "เผ็ดไหม",
+      "exampleMeaning": "辣吗？。",
+      "segments": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "มั้ย",
+      "romanization": "mái",
+      "meaningZhHans": "吗（口语）",
+      "usageNote": "句末疑问助词：吗？（口语中极高频读作高平调 มั้ย）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 15,
+      "example": "ชอบมั้ย",
+      "exampleMeaning": "喜欢吗？。",
+      "segments": [
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        },
+        {
+          "thai": "มั้ย",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "หรือยัง",
+      "romanization": "rʉ̌ʉ-yaŋ",
+      "meaningZhHans": "……了吗",
+      "usageNote": "句末时态疑问助词：...了吗？/ 还没吗？",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 16,
+      "example": "กินข้าวหรือยัง",
+      "exampleMeaning": "吃饭了吗？。",
+      "segments": [
+        {
+          "thai": "กินข้าว",
+          "gloss": "吃饭"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "还是"
+        },
+        {
+          "thai": "ยัง",
+          "gloss": "还"
+        }
+      ]
+    },
+    {
+      "thai": "ยัง",
+      "romanization": "yaŋ",
+      "meaningZhHans": "还 / 还没",
+      "usageNote": "句末时态疑问助词：...了吗？/ 还没吗？",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 16,
+      "example": "กินข้าวหรือยัง",
+      "exampleMeaning": "吃饭了吗？。",
+      "segments": [
+        {
+          "thai": "กินข้าว",
+          "gloss": "吃饭"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "还是"
+        },
+        {
+          "thai": "ยัง",
+          "gloss": "还"
+        }
+      ]
+    },
+    {
+      "thai": "ใช่ไหม",
+      "romanization": "châi-mǎi",
+      "meaningZhHans": "对吧 / 是不是",
+      "usageNote": "句末确认疑问助词：对吧？/ 是不是？",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 17,
+      "example": "คุณเป็นคนจีนใช่ไหม",
+      "exampleMeaning": "你是中国人对吧？。",
+      "segments": [
+        {
+          "thai": "คุณ",
+          "gloss": "你"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "คนจีน",
+          "gloss": "中国人"
+        },
+        {
+          "thai": "ใช่",
+          "gloss": "是"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "ใช่มั้ย",
+      "romanization": "châi-mái",
+      "meaningZhHans": "对吧（口语）",
+      "usageNote": "句末确认疑问助词：对吧？/ 是不是？",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 17,
+      "example": "คุณเป็นคนจีนใช่มั้ย",
+      "exampleMeaning": "你是中国人对吧？",
+      "segments": [
+        {
+          "thai": "คุณ",
+          "gloss": "你"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "คนจีน",
+          "gloss": "中国人"
+        },
+        {
+          "thai": "ใช่",
+          "gloss": "是"
+        },
+        {
+          "thai": "มั้ย",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "หรือเปล่า",
+      "romanization": "rʉ̌ʉ-plàao",
+      "meaningZhHans": "是不是 / 有没有",
+      "usageNote": "句末选择疑问助词：是不是？/ 没有吗？（口语极常弱读为 ป่าว）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 18,
+      "example": "โกรธหรือเปล่า",
+      "exampleMeaning": "生气了吗？。",
+      "segments": [
+        {
+          "thai": "โกรธ",
+          "gloss": "生气"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "还是"
+        },
+        {
+          "thai": "เปล่า",
+          "gloss": "空/否"
+        }
+      ]
+    },
+    {
+      "thai": "ป่าว",
+      "romanization": "pàao",
+      "meaningZhHans": "吗 / 没有吗（口语）",
+      "usageNote": "句末选择疑问助词：是不是？/ 没有吗？（口语极常弱读为 ป่าว）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 18,
+      "example": "จริงป่าว",
+      "exampleMeaning": "真的假的？/ 是真的吗？。",
+      "segments": [
+        {
+          "thai": "จริง",
+          "gloss": "真/确实"
+        },
+        {
+          "thai": "ป่าว",
+          "gloss": "吗/是不是"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่",
+      "romanization": "mâi",
+      "meaningZhHans": "不",
+      "usageNote": "基本否定副词：不、没（直接置于动词或形容词前）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 19,
+      "example": "ไม่กิน",
+      "exampleMeaning": "不吃。",
+      "segments": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่ได้",
+      "romanization": "mâi-dâi",
+      "meaningZhHans": "没有 / 没做 / 不能",
+      "usageNote": "过去未发生否定（没有做）或能力许可否定（不能）。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 20,
+      "example": "เมื่อวานไม่ได้ไป",
+      "exampleMeaning": "昨天没有去。",
+      "segments": [
+        {
+          "thai": "เมื่อวาน",
+          "gloss": "昨天"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "能/得"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        }
+      ]
+    },
+    {
+      "thai": "อย่า",
+      "romanization": "yàa",
+      "meaningZhHans": "别 / 不要",
+      "usageNote": "祈使句劝阻：别、不要。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 21,
+      "example": "อย่าคิดมาก",
+      "exampleMeaning": "别想太多了。",
+      "segments": [
+        {
+          "thai": "อย่า",
+          "gloss": "别"
+        },
+        {
+          "thai": "คิดมาก",
+          "gloss": "想太多"
+        }
+      ]
+    },
+    {
+      "thai": "ห้าม",
+      "romanization": "hâam",
+      "meaningZhHans": "严禁 / 禁止",
+      "usageNote": "硬性禁止命令：严禁、禁止。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 22,
+      "example": "ห้ามสูบบุหรี่",
+      "exampleMeaning": "禁止吸烟。",
+      "segments": [
+        {
+          "thai": "ห้าม",
+          "gloss": "严禁"
+        },
+        {
+          "thai": "สูบบุหรี่",
+          "gloss": "吸烟"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่ต้อง",
+      "romanization": "mâi-tɔ̂ŋ",
+      "meaningZhHans": "不用 / 不必",
+      "usageNote": "情态否定词：不用、不必。",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 23,
+      "example": "ไม่ต้องรีบ",
+      "exampleMeaning": "不用着急。",
+      "segments": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ต้อง",
+          "gloss": "必须"
+        },
+        {
+          "thai": "รีบ",
+          "gloss": "赶/着急"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่ค่อย",
+      "romanization": "mâi-khɔ̂i",
+      "meaningZhHans": "不太 / 不怎么",
+      "usageNote": "程度否定副词：不太...、不怎么...",
+      "tags": [
+        "core_function",
+        "layer2",
+        "疑问否定"
+      ],
+      "entryNumber": 24,
+      "example": "วันนี้ไม่ค่อยสบาย",
+      "exampleMeaning": "今天身体不太舒服。",
+      "segments": [
+        {
+          "thai": "วันนี้",
+          "gloss": "今天"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ค่อย",
+          "gloss": "怎么/再"
+        },
+        {
+          "thai": "สบาย",
+          "gloss": "舒服/健康"
+        }
+      ]
+    },
+    {
+      "thai": "จะ",
+      "romanization": "cà",
+      "meaningZhHans": "将要 / 打算 / 会",
+      "usageNote": "จะ 置于动词前，表示说话人的计划、意图与将来时态（将要、打算、会）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 25,
+      "example": "พรุ่งนี้จะไปเที่ยว",
+      "exampleMeaning": "明天打算去玩。",
+      "segments": [
+        {
+          "thai": "พรุ่งนี้",
+          "gloss": "明天"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "打算/将要"
+        },
+        {
+          "thai": "ไปเที่ยว",
+          "gloss": "去玩/旅游"
+        }
+      ]
+    },
+    {
+      "thai": "กำลัง",
+      "romanization": "kam-laŋ",
+      "meaningZhHans": "正在",
+      "usageNote": "正在进行时体态框架（正在...着）。口语中可单用 กำลัง，或单用句末 อยู่。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 26,
+      "example": "เขากำลังกินข้าวอยู่",
+      "exampleMeaning": "他正在吃饭呢。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "กำลัง",
+          "gloss": "正"
+        },
+        {
+          "thai": "กินข้าว",
+          "gloss": "吃饭"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        }
+      ]
+    },
+    {
+      "thai": "แล้ว",
+      "romanization": "lɛ́ɛo",
+      "meaningZhHans": "已经 / 了 / 然后",
+      "usageNote": "แล้ว 是时态标记与承接连词，日常口语中表达动作完毕、顺接或话题转换。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 27,
+      "example": "เข้าใจแล้ว",
+      "exampleMeaning": "已经明白了。",
+      "segments": [
+        {
+          "thai": "เข้าใจ",
+          "gloss": "理解/明白"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "已经/了"
+        }
+      ]
+    },
+    {
+      "thai": "เคย",
+      "romanization": "kəəi",
+      "meaningZhHans": "曾经 / 过",
+      "usageNote": "经验时态助动词：曾经、做过某事（过）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 28,
+      "example": "เคยไปเมืองไทยไหม",
+      "exampleMeaning": "你去过泰国吗？。",
+      "segments": [
+        {
+          "thai": "เคย",
+          "gloss": "曾经/过"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เมืองไทย",
+          "gloss": "泰国"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "เพิ่ง",
+      "romanization": "phə̂ŋ",
+      "meaningZhHans": "刚刚 / 才",
+      "usageNote": "时间副词：刚、刚刚（动作刚发生不久）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 29,
+      "example": "ผมเพิ่งมาถึง",
+      "exampleMeaning": "我刚到。",
+      "segments": [
+        {
+          "thai": "ผม",
+          "gloss": "我"
+        },
+        {
+          "thai": "เพิ่ง",
+          "gloss": "刚刚"
+        },
+        {
+          "thai": "มาถึง",
+          "gloss": "到达"
+        }
+      ]
+    },
+    {
+      "thai": "เพิ่งจะ",
+      "romanization": "phə̂ŋ-cà",
+      "meaningZhHans": "刚刚才",
+      "usageNote": "时间副词：刚、刚刚（动作刚发生不久）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 29,
+      "example": "เพิ่งจะรู้เรื่อง",
+      "exampleMeaning": "刚刚才得知这件事。",
+      "segments": [
+        {
+          "thai": "เพิ่ง",
+          "gloss": "刚刚"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "才"
+        },
+        {
+          "thai": "รู้",
+          "gloss": "知道"
+        },
+        {
+          "thai": "เรื่อง",
+          "gloss": "事情"
+        }
+      ]
+    },
+    {
+      "thai": "ไว้",
+      "romanization": "wái",
+      "meaningZhHans": "预先准备 / 留着",
+      "usageNote": "ไว้ 核心语义为“放置/留存”，作补语时表示“预先准备”或“状态保持”。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 30,
+      "example": "จองโต๊ะไว้แล้ว",
+      "exampleMeaning": "已经提前订好位子了。",
+      "segments": [
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        },
+        {
+          "thai": "โต๊ะ",
+          "gloss": "桌子"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "预先留存"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "已经"
+        }
+      ]
+    },
+    {
+      "thai": "ซะ",
+      "romanization": "sá",
+      "meaningZhHans": "彻底做掉 / 催促",
+      "usageNote": "ซะ（口语）/ เสีย（书面）表示动作彻底完成，带催促或惋惜语气。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 31,
+      "example": "รีบกินซะ",
+      "exampleMeaning": "赶紧吃吧！。",
+      "segments": [
+        {
+          "thai": "รีบ",
+          "gloss": "赶紧/赶快"
+        },
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "ซะ",
+          "gloss": "赶紧...吧"
+        }
+      ]
+    },
+    {
+      "thai": "เสีย",
+      "romanization": "sǐa",
+      "meaningZhHans": "完成 / 惋惜",
+      "usageNote": "ซะ（口语）/ เสีย（书面）表示动作彻底完成，带催促或惋惜语气。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 31,
+      "example": "ทำโทรศัพท์หายเสียแล้ว",
+      "exampleMeaning": "把手机弄丢了。",
+      "segments": [
+        {
+          "thai": "ทำ",
+          "gloss": "做/弄"
+        },
+        {
+          "thai": "โทรศัพท์",
+          "gloss": "手机"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "丢失"
+        },
+        {
+          "thai": "เสียแล้ว",
+          "gloss": "掉了/遗憾完成"
+        }
+      ]
+    },
+    {
+      "thai": "ได้",
+      "romanization": "dâi",
+      "meaningZhHans": "能 / 可以 / 得到",
+      "usageNote": "ได้ 是多功能超级动词，位置不同，含义完全不同。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 32,
+      "example": "พูดภาษาไทยได้",
+      "exampleMeaning": "会说泰语 / 能说泰语。",
+      "segments": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "ภาษาไทย",
+          "gloss": "泰语"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "能/会"
+        }
+      ]
+    },
+    {
+      "thai": "ต้อง",
+      "romanization": "tɔ̂ŋ",
+      "meaningZhHans": "必须 / 得",
+      "usageNote": "强情态动词：必须、得（做某事）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 33,
+      "example": "ต้องรีบไป",
+      "exampleMeaning": "必须得快点去了。",
+      "segments": [
+        {
+          "thai": "ต้อง",
+          "gloss": "必须/得"
+        },
+        {
+          "thai": "รีบ",
+          "gloss": "赶快"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        }
+      ]
+    },
+    {
+      "thai": "น่า",
+      "romanization": "nâa",
+      "meaningZhHans": "应该 / 令人……",
+      "usageNote": "推测助动词或形容词前缀：应该、大概会 / 令人...、值得...",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 34,
+      "example": "น่ารักมาก",
+      "exampleMeaning": "非常可爱。",
+      "segments": [
+        {
+          "thai": "น่า",
+          "gloss": "令人/生出..."
+        },
+        {
+          "thai": "รัก",
+          "gloss": "爱"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        }
+      ]
+    },
+    {
+      "thai": "น่าจะ",
+      "romanization": "nâa-cà",
+      "meaningZhHans": "大概会 / 应该会",
+      "usageNote": "推测助动词或形容词前缀：应该、大概会 / 令人...、值得...",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 34,
+      "example": "เขาน่าจะมา",
+      "exampleMeaning": "他大概会来。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "น่า",
+          "gloss": "应该"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "会"
+        },
+        {
+          "thai": "มา",
+          "gloss": "来"
+        }
+      ]
+    },
+    {
+      "thai": "อยาก",
+      "romanization": "yàak",
+      "meaningZhHans": "想做",
+      "usageNote": "意愿动词：想（后接动词）/ 想要（后接名词）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 35,
+      "example": "อยากไปเที่ยว",
+      "exampleMeaning": "想去旅游。",
+      "segments": [
+        {
+          "thai": "อยาก",
+          "gloss": "想"
+        },
+        {
+          "thai": "ไปเที่ยว",
+          "gloss": "去旅游"
+        }
+      ]
+    },
+    {
+      "thai": "อยากได้",
+      "romanization": "yàak-dâi",
+      "meaningZhHans": "想要",
+      "usageNote": "意愿动词：想（后接动词）/ 想要（后接名词）。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 35,
+      "example": "อยากได้อันนี้",
+      "exampleMeaning": "我想要这个。",
+      "segments": [
+        {
+          "thai": "อยาก",
+          "gloss": "想"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "得到"
+        },
+        {
+          "thai": "อันนี้",
+          "gloss": "这个"
+        }
+      ]
+    },
+    {
+      "thai": "ขอ",
+      "romanization": "khɔ̌ɔ",
+      "meaningZhHans": "请求 / 请给我",
+      "usageNote": "礼貌索取动词：请给我... / 允许我...",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 36,
+      "example": "ขอน้ำเปล่าหนึ่งแก้ว",
+      "exampleMeaning": "麻烦给一杯清水。",
+      "segments": [
+        {
+          "thai": "ขอ",
+          "gloss": "请给我/要"
+        },
+        {
+          "thai": "น้ำเปล่า",
+          "gloss": "白水"
+        },
+        {
+          "thai": "หนึ่งแก้ว",
+          "gloss": "一杯"
+        }
+      ]
+    },
+    {
+      "thai": "ช่วย",
+      "romanization": "chûai",
+      "meaningZhHans": "帮助 / 麻烦 / 请协助",
+      "usageNote": "礼貌求助动词：请帮忙、协助。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 37,
+      "example": "ช่วยปิดประตูหน่อย",
+      "exampleMeaning": "麻烦帮忙关一下门。",
+      "segments": [
+        {
+          "thai": "ช่วย",
+          "gloss": "请/帮忙"
+        },
+        {
+          "thai": "ปิด",
+          "gloss": "关"
+        },
+        {
+          "thai": "ประตู",
+          "gloss": "门"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "一下"
+        }
+      ]
+    },
+    {
+      "thai": "ลอง",
+      "romanization": "lɔɔŋ",
+      "meaningZhHans": "尝试 / 试试看",
+      "usageNote": "尝试动词：试一试、尝试做某事。",
+      "tags": [
+        "core_function",
+        "layer3",
+        "时态助动词"
+      ],
+      "entryNumber": 38,
+      "example": "ลองดูสิ",
+      "exampleMeaning": "试试看呀！。",
+      "segments": [
+        {
+          "thai": "ลอง",
+          "gloss": "尝试"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "สิ",
+          "gloss": "呀/吧"
+        }
+      ]
+    },
+    {
+      "thai": "ที่",
+      "romanization": "thîi",
+      "meaningZhHans": "在…… / ……的 / 第",
+      "usageNote": "ที่ 是泰语中使用最广的词，涵盖定语关系代词（...的）、地点介词（在）与序数词前缀（第）。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 39,
+      "example": "คนที่ยืนอยู่ตรงนั้น",
+      "exampleMeaning": "站在那里的那个人。",
+      "segments": [
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "...的"
+        },
+        {
+          "thai": "ยืน",
+          "gloss": "站"
+        },
+        {
+          "thai": "อยู่",
+          "gloss": "着"
+        },
+        {
+          "thai": "ตรงนั้น",
+          "gloss": "那儿"
+        }
+      ]
+    },
+    {
+      "thai": "ของ",
+      "romanization": "khɔ̌ɔŋ",
+      "meaningZhHans": "的 / 东西",
+      "usageNote": "ของ 表示定语所属关系（...的），亦可作为名词“东西/物品”。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 40,
+      "example": "กระเป๋าของฉัน",
+      "exampleMeaning": "我的包。",
+      "segments": [
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包/皮包"
+        },
+        {
+          "thai": "ของ",
+          "gloss": "...的"
+        },
+        {
+          "thai": "ฉัน",
+          "gloss": "我"
+        }
+      ]
+    },
+    {
+      "thai": "ให้",
+      "romanization": "hâi",
+      "meaningZhHans": "给 / 让 / 替",
+      "usageNote": "ให้ 原义为“给予”，是句法中最重要的使役、受益及补语标记。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 41,
+      "example": "แม่ให้ผมไปซื้อของ",
+      "exampleMeaning": "妈妈让我去买东西。",
+      "segments": [
+        {
+          "thai": "แม่",
+          "gloss": "妈妈"
+        },
+        {
+          "thai": "ให้",
+          "gloss": "让/叫"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "我"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ซื้อของ",
+          "gloss": "买东西"
+        }
+      ]
+    },
+    {
+      "thai": "ว่า",
+      "romanization": "wâa",
+      "meaningZhHans": "说 / 以为 / that",
+      "usageNote": "ว่า 是日常转述从句的核心连接词（类似英语 that），亦可作动词“责怪”。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 42,
+      "example": "ฉันคิดว่าเขาเป็นคนดี",
+      "exampleMeaning": "我觉得他是个好人。",
+      "segments": [
+        {
+          "thai": "ฉัน",
+          "gloss": "我"
+        },
+        {
+          "thai": "คิด",
+          "gloss": "想/认为"
+        },
+        {
+          "thai": "ว่า",
+          "gloss": "即..."
+        },
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是"
+        },
+        {
+          "thai": "คนดี",
+          "gloss": "好人"
+        }
+      ]
+    },
+    {
+      "thai": "โดน",
+      "romanization": "doon",
+      "meaningZhHans": "被 / 挨",
+      "usageNote": "泰语中的被动标记。口语中 โดน 极高频，多带“遭受不利/挨...”的感情色彩。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 43,
+      "example": "โดนด่า",
+      "exampleMeaning": "挨骂 / 被骂了。",
+      "segments": [
+        {
+          "thai": "โดน",
+          "gloss": "挨/被"
+        },
+        {
+          "thai": "ด่า",
+          "gloss": "骂"
+        }
+      ]
+    },
+    {
+      "thai": "ถูก",
+      "romanization": "thùuk",
+      "meaningZhHans": "被 / 正确 / 便宜",
+      "usageNote": "泰语中的被动标记。口语中 โดน 极高频，多带“遭受不利/挨...”的感情色彩。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 43,
+      "example": "เขาถูกตำรวจจับ",
+      "exampleMeaning": "他被警察抓了。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "ถูก",
+          "gloss": "被"
+        },
+        {
+          "thai": "ตำรวจ",
+          "gloss": "警察"
+        },
+        {
+          "thai": "จับ",
+          "gloss": "抓捕"
+        }
+      ]
+    },
+    {
+      "thai": "กับ",
+      "romanization": "kàp",
+      "meaningZhHans": "和 / 跟 / 对……",
+      "usageNote": "伴随介词：和、跟、与、对...",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 44,
+      "example": "ไปกับใคร",
+      "exampleMeaning": "跟谁一起去？。",
+      "segments": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "กับ",
+          "gloss": "跟/和"
+        },
+        {
+          "thai": "ใคร",
+          "gloss": "谁"
+        }
+      ]
+    },
+    {
+      "thai": "จาก",
+      "romanization": "càak",
+      "meaningZhHans": "从 / 离",
+      "usageNote": "起点介词：从、离。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 45,
+      "example": "มาจากไหน",
+      "exampleMeaning": "你来自哪里？。",
+      "segments": [
+        {
+          "thai": "มา",
+          "gloss": "来"
+        },
+        {
+          "thai": "จาก",
+          "gloss": "从"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "thai": "ถึง",
+      "romanization": "thʉ̌ŋ",
+      "meaningZhHans": "到 / 到达 / 提到",
+      "usageNote": "终点介词或动词：到、到达、提及。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 46,
+      "example": "ถึงแล้ว",
+      "exampleMeaning": "已经到了。",
+      "segments": [
+        {
+          "thai": "ถึง",
+          "gloss": "到达"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "thai": "ใน",
+      "romanization": "nai",
+      "meaningZhHans": "在……里",
+      "usageNote": "空间方位核心介词。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 47,
+      "example": "อยู่ในห้อง",
+      "exampleMeaning": "在房间里。",
+      "segments": [
+        {
+          "thai": "อยู่",
+          "gloss": "在"
+        },
+        {
+          "thai": "ใน",
+          "gloss": "在...里面"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ]
+    },
+    {
+      "thai": "บน",
+      "romanization": "bon",
+      "meaningZhHans": "在……上",
+      "usageNote": "空间方位核心介词。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 47,
+      "example": "วางบนโต๊ะ",
+      "exampleMeaning": "放在桌上。",
+      "segments": [
+        {
+          "thai": "วาง",
+          "gloss": "放/搁"
+        },
+        {
+          "thai": "บน",
+          "gloss": "在...上面"
+        },
+        {
+          "thai": "โต๊ะ",
+          "gloss": "桌子"
+        }
+      ]
+    },
+    {
+      "thai": "ใต้",
+      "romanization": "tâi",
+      "meaningZhHans": "在……下",
+      "usageNote": "空间方位核心介词。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 47,
+      "example": "อยู่ใต้โต๊ะ",
+      "exampleMeaning": "在桌子下面。",
+      "segments": [
+        {
+          "thai": "อยู่",
+          "gloss": "在"
+        },
+        {
+          "thai": "ใต้",
+          "gloss": "下面"
+        },
+        {
+          "thai": "โต๊ะ",
+          "gloss": "桌子"
+        }
+      ]
+    },
+    {
+      "thai": "นอก",
+      "romanization": "nɔ̂ɔk",
+      "meaningZhHans": "在……外",
+      "usageNote": "空间方位核心介词。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 47,
+      "example": "อยู่นอกบ้าน",
+      "exampleMeaning": "在房子外面。",
+      "segments": [
+        {
+          "thai": "อยู่",
+          "gloss": "在"
+        },
+        {
+          "thai": "นอก",
+          "gloss": "外面"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "房子"
+        }
+      ]
+    },
+    {
+      "thai": "ด้วย",
+      "romanization": "dûai",
+      "meaningZhHans": "也 / 一起 / 用",
+      "usageNote": "ด้วย 是泰语中极高频的多功能词，主要用作副词、介词和语气助词。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 48,
+      "example": "ไปด้วย",
+      "exampleMeaning": "我也去 / 一起去。",
+      "segments": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也/一起"
+        }
+      ]
+    },
+    {
+      "thai": "ตาม",
+      "romanization": "taam",
+      "meaningZhHans": "顺着 / 按照 / 跟着",
+      "usageNote": "介词或动词：顺着、按照、跟着。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 49,
+      "example": "เดินตามผมมา",
+      "exampleMeaning": "跟着我走过来。",
+      "segments": [
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "ตาม",
+          "gloss": "跟着"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "我"
+        },
+        {
+          "thai": "มา",
+          "gloss": "来"
+        }
+      ]
+    },
+    {
+      "thai": "เกี่ยวกับ",
+      "romanization": "kìao-kàp",
+      "meaningZhHans": "关于 / 有关",
+      "usageNote": "介词短语：关于、有关...",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 50,
+      "example": "เกี่ยวกับเรื่องอะไร",
+      "exampleMeaning": "是关于什么事情的？。",
+      "segments": [
+        {
+          "thai": "เกี่ยว",
+          "gloss": "关联"
+        },
+        {
+          "thai": "กับ",
+          "gloss": "和/对"
+        },
+        {
+          "thai": "เรื่อง",
+          "gloss": "事情/话题"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "thai": "อัน",
+      "romanization": "an",
+      "meaningZhHans": "个 / 这个 / 所……的",
+      "usageNote": "通用量词（个/件）、指示代词（这个 อันนี้）或定语关系词（所...的）。",
+      "tags": [
+        "core_function",
+        "layer4",
+        "介词从句"
+      ],
+      "entryNumber": 51,
+      "example": "เอาอันนี้",
+      "exampleMeaning": "要这个。",
+      "segments": [
+        {
+          "thai": "เอา",
+          "gloss": "要"
+        },
+        {
+          "thai": "อัน",
+          "gloss": "个"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这"
+        }
+      ]
+    },
+    {
+      "thai": "และ",
+      "romanization": "lɛ́",
+      "meaningZhHans": "和 / 并且",
+      "usageNote": "并列连词：和、并且、与（口语连接人与物极常用 กับ）。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 52,
+      "example": "ผมและเพื่อน",
+      "exampleMeaning": "我和朋友。",
+      "segments": [
+        {
+          "thai": "ผม",
+          "gloss": "我"
+        },
+        {
+          "thai": "และ",
+          "gloss": "和/并且"
+        },
+        {
+          "thai": "เพื่อน",
+          "gloss": "朋友"
+        }
+      ]
+    },
+    {
+      "thai": "หรือ",
+      "romanization": "rʉ̌ʉ",
+      "meaningZhHans": "或者 / 还是",
+      "usageNote": "选择连词：或者、还是。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 53,
+      "example": "กินข้าวหรือก๋วยเตี๋ยว",
+      "exampleMeaning": "吃米饭还是吃粿条？。",
+      "segments": [
+        {
+          "thai": "กินข้าว",
+          "gloss": "吃米饭"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "或者/还是"
+        },
+        {
+          "thai": "ก๋วยเตี๋ยว",
+          "gloss": "粿条/粉面"
+        }
+      ]
+    },
+    {
+      "thai": "แต่",
+      "romanization": "tɛ̀ɛ",
+      "meaningZhHans": "但是 / 不过",
+      "usageNote": "转折连词：但是、不过。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 54,
+      "example": "อยากไปแต่ไม่มีเวลา",
+      "exampleMeaning": "想去但是没时间。",
+      "segments": [
+        {
+          "thai": "อยากไป",
+          "gloss": "想去"
+        },
+        {
+          "thai": "แต่",
+          "gloss": "但是"
+        },
+        {
+          "thai": "ไม่มีเวลา",
+          "gloss": "没有时间"
+        }
+      ]
+    },
+    {
+      "thai": "แต่ว่า",
+      "romanization": "tɛ̀ɛ-wâa",
+      "meaningZhHans": "但是说 / 不过",
+      "usageNote": "转折连词：但是、不过。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 54,
+      "example": "อยากไปแต่ว่าไม่มีเวลา",
+      "exampleMeaning": "想去但是没时间。",
+      "segments": [
+        {
+          "thai": "อยากไป",
+          "gloss": "想去"
+        },
+        {
+          "thai": "แต่",
+          "gloss": "但是"
+        },
+        {
+          "thai": "ว่า",
+          "gloss": "说"
+        },
+        {
+          "thai": "ไม่มีเวลา",
+          "gloss": "没有时间"
+        }
+      ]
+    },
+    {
+      "thai": "เพราะ",
+      "romanization": "phrɔ́",
+      "meaningZhHans": "因为",
+      "usageNote": "口语最地道的因果关联句式。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 55,
+      "example": "เพราะฝนตก ก็เลยมาสาย",
+      "exampleMeaning": "因为下雨，所以就迟到了。",
+      "segments": [
+        {
+          "thai": "เพราะ",
+          "gloss": "因为"
+        },
+        {
+          "thai": "ฝนตก",
+          "gloss": "下雨"
+        },
+        {
+          "thai": "ก็",
+          "gloss": "就"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "便"
+        },
+        {
+          "thai": "มาสาย",
+          "gloss": "迟到"
+        }
+      ]
+    },
+    {
+      "thai": "ก็เลย",
+      "romanization": "kɔ̂-ləəi",
+      "meaningZhHans": "所以就",
+      "usageNote": "口语最地道的因果关联句式。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 55,
+      "example": "เพราะฝนตก ก็เลยมาสาย",
+      "exampleMeaning": "因为下雨，所以就迟到了。",
+      "segments": [
+        {
+          "thai": "เพราะ",
+          "gloss": "因为"
+        },
+        {
+          "thai": "ฝนตก",
+          "gloss": "下雨"
+        },
+        {
+          "thai": "ก็",
+          "gloss": "就"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "便"
+        },
+        {
+          "thai": "มาสาย",
+          "gloss": "迟到"
+        }
+      ]
+    },
+    {
+      "thai": "แล้วก็",
+      "romanization": "lɛ́ɛo-kɔ̂",
+      "meaningZhHans": "然后 / 还有",
+      "usageNote": "口语承接词：然后、还有。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 56,
+      "example": "เอาต้มยำกุ้ง แล้วก็น้ำเปล่า",
+      "exampleMeaning": "要一份冬阴功虾汤，然后再来一瓶纯水。",
+      "segments": [
+        {
+          "thai": "เอา",
+          "gloss": "要"
+        },
+        {
+          "thai": "ต้มยำกุ้ง",
+          "gloss": "冬阴功虾汤"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "然后"
+        },
+        {
+          "thai": "ก็",
+          "gloss": "就"
+        },
+        {
+          "thai": "น้ำเปล่า",
+          "gloss": "纯净水"
+        }
+      ]
+    },
+    {
+      "thai": "พอ",
+      "romanization": "phɔɔ",
+      "meaningZhHans": "一……就……",
+      "usageNote": "时间顺承句式：刚...就... / 一...就...",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 57,
+      "example": "พอกินเสร็จก็กลับบ้าน",
+      "exampleMeaning": "刚一吃完就回家了。",
+      "segments": [
+        {
+          "thai": "พอ",
+          "gloss": "一/刚..."
+        },
+        {
+          "thai": "กินเสร็จ",
+          "gloss": "吃完"
+        },
+        {
+          "thai": "ก็",
+          "gloss": "就"
+        },
+        {
+          "thai": "กลับบ้าน",
+          "gloss": "回家"
+        }
+      ]
+    },
+    {
+      "thai": "ถ้า",
+      "romanization": "thâa",
+      "meaningZhHans": "如果……就……",
+      "usageNote": "条件假设句式：如果...就...",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 58,
+      "example": "ถ้าชอบก็ซื้อเลย",
+      "exampleMeaning": "喜欢的话就直接买吧！。",
+      "segments": [
+        {
+          "thai": "ถ้า",
+          "gloss": "如果"
+        },
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        },
+        {
+          "thai": "ก็",
+          "gloss": "就"
+        },
+        {
+          "thai": "ซื้อ",
+          "gloss": "买"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "直接/立刻"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่งั้น",
+      "romanization": "mâi-ŋán",
+      "meaningZhHans": "不然的话",
+      "usageNote": "反向假设连词：不然的话、否则（口语极常说 ไม่งั้น）。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 59,
+      "example": "รีบไป ไม่งั้นสายนะ",
+      "exampleMeaning": "快点去，不然要迟到了哦。",
+      "segments": [
+        {
+          "thai": "รีบไป",
+          "gloss": "快点去"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "งั้น",
+          "gloss": "那样"
+        },
+        {
+          "thai": "สาย",
+          "gloss": "迟到"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "语气词"
+        }
+      ]
+    },
+    {
+      "thai": "ไม่อย่างนั้น",
+      "romanization": "mâi-yàaŋ-nán",
+      "meaningZhHans": "否则",
+      "usageNote": "反向假设连词：不然的话、否则（口语极常说 ไม่งั้น）。",
+      "tags": [
+        "core_function",
+        "layer5",
+        "连词关联"
+      ],
+      "entryNumber": 59,
+      "example": "รีบไปไม่อย่างนั้นสายนะ",
+      "exampleMeaning": "快点去，否则要迟到了哦。",
+      "segments": [
+        {
+          "thai": "รีบไป",
+          "gloss": "快点去"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "อย่าง",
+          "gloss": "样"
+        },
+        {
+          "thai": "นั้น",
+          "gloss": "那样"
+        },
+        {
+          "thai": "สาย",
+          "gloss": "迟到"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "语气词"
+        }
+      ]
+    },
+    {
+      "thai": "มาก",
+      "romanization": "mâak",
+      "meaningZhHans": "很 / 非常",
+      "usageNote": "基本程度副词：很、非常、很多。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 60,
+      "example": "อร่อยมาก",
+      "exampleMeaning": "非常好吃。",
+      "segments": [
+        {
+          "thai": "อร่อย",
+          "gloss": "好吃"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常/很"
+        }
+      ]
+    },
+    {
+      "thai": "โคตร",
+      "romanization": "khôot",
+      "meaningZhHans": "超级 / 极度",
+      "usageNote": "年轻人口语俚语程度词：极其、巨、超级、贼...（情绪强烈）。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 61,
+      "example": "โคตรแพง",
+      "exampleMeaning": "巨贵！/ 超级贵！。",
+      "segments": [
+        {
+          "thai": "โคตร",
+          "gloss": "巨/极其"
+        },
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        }
+      ]
+    },
+    {
+      "thai": "หน่อย",
+      "romanization": "nɔ̀i",
+      "meaningZhHans": "一点点 / 请……一下",
+      "usageNote": "หน่อย 本义为微量，日常口语最核心的功能是软化祈使语气，表达礼貌客气。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 62,
+      "example": "ขอดูหน่อย",
+      "exampleMeaning": "请让我看一下。",
+      "segments": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求/要"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "一下"
+        }
+      ]
+    },
+    {
+      "thai": "นิดหน่อย",
+      "romanization": "nít-nɔ̀i",
+      "meaningZhHans": "一点点",
+      "usageNote": "หน่อย 本义为微量，日常口语最核心的功能是软化祈使语气，表达礼貌客气。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 62,
+      "example": "เผ็ดนิดหน่อย",
+      "exampleMeaning": "微辣 / 有一点点辣。",
+      "segments": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "นิด",
+          "gloss": "一点"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "一下"
+        }
+      ]
+    },
+    {
+      "thai": "เกินไป",
+      "romanization": "kəən-pai",
+      "meaningZhHans": "太……了",
+      "usageNote": "程度过甚副词：太...了、过于...",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 63,
+      "example": "แพงเกินไป",
+      "exampleMeaning": "太贵了。",
+      "segments": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "เกิน",
+          "gloss": "超过"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        }
+      ]
+    },
+    {
+      "thai": "ค่อนข้าง",
+      "romanization": "khɔ̂n-khâaŋ",
+      "meaningZhHans": "比较 / 相当",
+      "usageNote": "副词：比较、相当。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 64,
+      "example": "ค่อนข้างยาก",
+      "exampleMeaning": "比较难。",
+      "segments": [
+        {
+          "thai": "ค่อนข้าง",
+          "gloss": "比较/相当"
+        },
+        {
+          "thai": "ยาก",
+          "gloss": "难"
+        }
+      ]
+    },
+    {
+      "thai": "เกือบ",
+      "romanization": "kʉ̀ap",
+      "meaningZhHans": "几乎 / 差点",
+      "usageNote": "副词：几乎、差点。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 65,
+      "example": "เกือบสายแล้ว",
+      "exampleMeaning": "差点就迟到了。",
+      "segments": [
+        {
+          "thai": "เกือบ",
+          "gloss": "差点/几乎"
+        },
+        {
+          "thai": "สาย",
+          "gloss": "迟到"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "thai": "แทบ",
+      "romanization": "thɛ́ɛp",
+      "meaningZhHans": "几乎 / 简直",
+      "usageNote": "副词：几乎、差点。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 65,
+      "example": "แทบสายแล้ว",
+      "exampleMeaning": "差点就迟到了。",
+      "segments": [
+        {
+          "thai": "แทบ",
+          "gloss": "几乎"
+        },
+        {
+          "thai": "สาย",
+          "gloss": "迟到"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了"
+        }
+      ]
+    },
+    {
+      "thai": "อีก",
+      "romanization": "ìik",
+      "meaningZhHans": "再 / 又 / 另外",
+      "usageNote": "อีก 表示动作的重复、数量的追加或时间的顺延。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 66,
+      "example": "พูดอีกครั้ง",
+      "exampleMeaning": "再说一次。",
+      "segments": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "อีก",
+          "gloss": "再/又"
+        },
+        {
+          "thai": "ครั้ง",
+          "gloss": "次/遍"
+        }
+      ]
+    },
+    {
+      "thai": "เดียว",
+      "romanization": "diao",
+      "meaningZhHans": "单一 / 仅仅",
+      "usageNote": "เดียว 本义为“单一”，与其变体构成了极高频的数量与时间系统。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 67,
+      "example": "มาคนเดียว",
+      "exampleMeaning": "一个人来 / 独自前来。",
+      "segments": [
+        {
+          "thai": "มา",
+          "gloss": "来"
+        },
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "เดียว",
+          "gloss": "单/独"
+        }
+      ]
+    },
+    {
+      "thai": "เดียวกัน",
+      "romanization": "diao-kan",
+      "meaningZhHans": "相同 / 同一个",
+      "usageNote": "เดียว 本义为“单一”，与其变体构成了极高频的数量与时间系统。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 67,
+      "example": "อยู่บ้านหลังเดียวกัน",
+      "exampleMeaning": "住在同一栋房子里。",
+      "segments": [
+        {
+          "thai": "อยู่",
+          "gloss": "住/在"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "房子"
+        },
+        {
+          "thai": "หลัง",
+          "gloss": "栋/座"
+        },
+        {
+          "thai": "เดียว",
+          "gloss": "同一"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "互相"
+        }
+      ]
+    },
+    {
+      "thai": "เดี๋ยว",
+      "romanization": "dǐao",
+      "meaningZhHans": "马上 / 待会儿",
+      "usageNote": "เดียว 本义为“单一”，与其变体构成了极高频的数量与时间系统。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 67,
+      "example": "เดี๋ยวเจอกัน",
+      "exampleMeaning": "待会儿见。",
+      "segments": [
+        {
+          "thai": "เดี๋ยว",
+          "gloss": "待会儿/马上"
+        },
+        {
+          "thai": "เจอ",
+          "gloss": "见"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "彼此"
+        }
+      ]
+    },
+    {
+      "thai": "แป๊บเดียว",
+      "romanization": "páɛp-diao",
+      "meaningZhHans": "一小会儿",
+      "usageNote": "เดียว 本义为“单一”，与其变体构成了极高频的数量与时间系统。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 67,
+      "example": "รอแป๊บเดียว",
+      "exampleMeaning": "稍等一下下。",
+      "segments": [
+        {
+          "thai": "รอ",
+          "gloss": "等"
+        },
+        {
+          "thai": "แป๊บ",
+          "gloss": "片刻"
+        },
+        {
+          "thai": "เดียว",
+          "gloss": "仅仅"
+        }
+      ]
+    },
+    {
+      "thai": "เอง",
+      "romanization": "eeŋ",
+      "meaningZhHans": "自己 / 亲自 / 而已",
+      "usageNote": "เอง 强调主体独立性（亲自），或作为限定语气词表达“而已”。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 68,
+      "example": "ทำเอง",
+      "exampleMeaning": "自己做 / 亲自动手。",
+      "segments": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "เอง",
+          "gloss": "自己/亲自"
+        }
+      ]
+    },
+    {
+      "thai": "กัน",
+      "romanization": "kan",
+      "meaningZhHans": "互相 / 一起",
+      "usageNote": "กัน 表示动作的双向互动、共同协同或阻挡防备。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 69,
+      "example": "คุยกัน",
+      "exampleMeaning": "互相聊天 / 交谈。",
+      "segments": [
+        {
+          "thai": "คุย",
+          "gloss": "聊/谈"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "彼此"
+        }
+      ]
+    },
+    {
+      "thai": "ค่อย",
+      "romanization": "khɔ̂i",
+      "meaningZhHans": "稍后再 / 慢慢",
+      "usageNote": "副词：慢慢来、稍后再... / 否定中表程度不深（不怎么）。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 70,
+      "example": "พรุ่งนี้ค่อยคุยกัน",
+      "exampleMeaning": "明天再聊吧。",
+      "segments": [
+        {
+          "thai": "พรุ่งนี้",
+          "gloss": "明天"
+        },
+        {
+          "thai": "ค่อย",
+          "gloss": "稍后/再"
+        },
+        {
+          "thai": "คุย",
+          "gloss": "聊"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "互相"
+        }
+      ]
+    },
+    {
+      "thai": "เลย",
+      "romanization": "ləəi",
+      "meaningZhHans": "完全 / 直接 / 就",
+      "usageNote": "เลย 是表达极致语气、直接承接与物理越界的万能口语词。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 71,
+      "example": "ไม่ชอบเลย",
+      "exampleMeaning": "一点也不喜欢 / 根本不喜欢。",
+      "segments": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ชอบ",
+          "gloss": "喜欢"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "根本/完全"
+        }
+      ]
+    },
+    {
+      "thai": "บ่อยๆ",
+      "romanization": "bɔ̀i-bɔ̀i",
+      "meaningZhHans": "经常",
+      "usageNote": "频率副词：经常、常常 / 总是。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 72,
+      "example": "มาที่นี่บ่อยๆ ไหม",
+      "exampleMeaning": "你经常来这里吗？。",
+      "segments": [
+        {
+          "thai": "มา",
+          "gloss": "来"
+        },
+        {
+          "thai": "ที่นี่",
+          "gloss": "这里"
+        },
+        {
+          "thai": "บ่อยๆ",
+          "gloss": "经常/常常"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "เสมอ",
+      "romanization": "sà-məə",
+      "meaningZhHans": "常常 / 总是",
+      "usageNote": "频率副词：经常、常常 / 总是。",
+      "tags": [
+        "core_function",
+        "layer6",
+        "程度副词"
+      ],
+      "entryNumber": 72,
+      "example": "มาที่นี่เสมอไหม",
+      "exampleMeaning": "你总是来这里吗？",
+      "segments": [
+        {
+          "thai": "มา",
+          "gloss": "来"
+        },
+        {
+          "thai": "ที่นี่",
+          "gloss": "这里"
+        },
+        {
+          "thai": "เสมอ",
+          "gloss": "总是"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗"
+        }
+      ]
+    },
+    {
+      "thai": "ขึ้น",
+      "romanization": "khʉ̂n",
+      "meaningZhHans": "上 / 增多 / 变好",
+      "usageNote": "ขึ้น 作方向补语，表示“上升、增加、变好”。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 73,
+      "example": "เก่งขึ้นมาก",
+      "exampleMeaning": "变得厉害多了 / 进步非常大。",
+      "segments": [
+        {
+          "thai": "เก่ง",
+          "gloss": "厉害/棒"
+        },
+        {
+          "thai": "ขึ้น",
+          "gloss": "变得更.../上升"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        }
+      ]
+    },
+    {
+      "thai": "ลง",
+      "romanization": "loŋ",
+      "meaningZhHans": "下 / 减少 / 记下",
+      "usageNote": "ลง 作方向补语，表示“下降、减少、变弱、记录”。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 74,
+      "example": "ผอมลง",
+      "exampleMeaning": "瘦下来了。",
+      "segments": [
+        {
+          "thai": "ผอม",
+          "gloss": "瘦"
+        },
+        {
+          "thai": "ลง",
+          "gloss": "变得更.../下降"
+        }
+      ]
+    },
+    {
+      "thai": "เข้า",
+      "romanization": "khâo",
+      "meaningZhHans": "进 / 靠近",
+      "usageNote": "趋向动词或补语：进入、穿上、融入。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 75,
+      "example": "เข้ามาสิ",
+      "exampleMeaning": "快请进呀！。",
+      "segments": [
+        {
+          "thai": "เข้ามา",
+          "gloss": "进来"
+        },
+        {
+          "thai": "สิ",
+          "gloss": "呀/吧"
+        }
+      ]
+    },
+    {
+      "thai": "ออก",
+      "romanization": "ɔ̀ɔk",
+      "meaningZhHans": "出 / 向外 / 想出",
+      "usageNote": "ออก 作补语，表示“向外脱离”或“认出、想出、看透”。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 76,
+      "example": "คิดออกแล้ว",
+      "exampleMeaning": "想出来了 / 想通了。",
+      "segments": [
+        {
+          "thai": "คิด",
+          "gloss": "想"
+        },
+        {
+          "thai": "ออก",
+          "gloss": "出/想通"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "已经"
+        }
+      ]
+    },
+    {
+      "thai": "ไป",
+      "romanization": "pai",
+      "meaningZhHans": "去 / 离开",
+      "usageNote": "基本方向趋向补语（去：远离说话人 / 来：接近说话人）。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 77,
+      "example": "เดินกลับไป",
+      "exampleMeaning": "走回去。",
+      "segments": [
+        {
+          "thai": "เดิน",
+          "gloss": "走"
+        },
+        {
+          "thai": "กลับไป",
+          "gloss": "走回去"
+        }
+      ]
+    },
+    {
+      "thai": "มา",
+      "romanization": "maa",
+      "meaningZhHans": "来 / 靠近",
+      "usageNote": "基本方向趋向补语（去：远离说话人 / 来：接近说话人）。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 77,
+      "example": "เอามาให้ดูหน่อย",
+      "exampleMeaning": "拿过来给我看一下。",
+      "segments": [
+        {
+          "thai": "เอามา",
+          "gloss": "拿过来"
+        },
+        {
+          "thai": "ให้",
+          "gloss": "给/让"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "一下"
+        }
+      ]
+    },
+    {
+      "thai": "ทัน",
+      "romanization": "than",
+      "meaningZhHans": "赶得上 / 来得及",
+      "usageNote": "口语结果补语：赶得上、来得及。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 78,
+      "example": "ไปไม่ทัน",
+      "exampleMeaning": "赶不上了 / 来不及去了。",
+      "segments": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ไม่ทัน",
+          "gloss": "来不及/赶不上"
+        }
+      ]
+    },
+    {
+      "thai": "ติด",
+      "romanization": "tìt",
+      "meaningZhHans": "卡住 / 堵车 / 迷上",
+      "usageNote": "口语状态结果：卡住、接通、沉迷、堵车。",
+      "tags": [
+        "core_function",
+        "layer7",
+        "趋向补语"
+      ],
+      "entryNumber": 79,
+      "example": "รถติดมาก",
+      "exampleMeaning": "堵车非常严重。",
+      "segments": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ติด",
+          "gloss": "卡住/堵塞"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        }
+      ]
+    },
+    {
+      "thai": "นะ",
+      "romanization": "ná",
+      "meaningZhHans": "提醒 / 叮嘱 / 亲近",
+      "usageNote": "功能与情绪：提醒、叮嘱、撒娇、拉近距离（“哦”、“哈”、“呀”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 80,
+      "example": "ไปก่อนนะ",
+      "exampleMeaning": "我先走啦哦！。",
+      "segments": [
+        {
+          "thai": "ไป",
+          "gloss": "走"
+        },
+        {
+          "thai": "ก่อน",
+          "gloss": "先"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "哦/呀"
+        }
+      ]
+    },
+    {
+      "thai": "สิ",
+      "romanization": "sì",
+      "meaningZhHans": "催促 / 确认",
+      "usageNote": "功能与情绪：催促、确认事实、强调理所当然（“啊”、“呀”、“呗”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 81,
+      "example": "กินสิ",
+      "exampleMeaning": "快吃呀！。",
+      "segments": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "สิ",
+          "gloss": "呀/快吃吧"
+        }
+      ]
+    },
+    {
+      "thai": "ดิ",
+      "romanization": "dì",
+      "meaningZhHans": "催促（口语）",
+      "usageNote": "功能与情绪：催促、确认事实、强调理所当然（“啊”、“呀”、“呗”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 81,
+      "example": "ใช่ดิ",
+      "exampleMeaning": "那当然啦！/ 就是啊！。",
+      "segments": [
+        {
+          "thai": "ใช่",
+          "gloss": "对/是"
+        },
+        {
+          "thai": "ดิ",
+          "gloss": "那可不是嘛/就是啊"
+        }
+      ]
+    },
+    {
+      "thai": "หรอก",
+      "romanization": "rɔ̂ɔk",
+      "meaningZhHans": "才不呢 / 安慰反驳",
+      "usageNote": "功能与情绪：否定句专属：反驳、安慰、消除顾虑（“才没有...呢”、“才不...”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 82,
+      "example": "ไม่แพงหรอก",
+      "exampleMeaning": "才不贵呢 / 不贵的啦！。",
+      "segments": [
+        {
+          "thai": "ไม่แพง",
+          "gloss": "不贵"
+        },
+        {
+          "thai": "หรอก",
+          "gloss": "才不...呢"
+        }
+      ]
+    },
+    {
+      "thai": "มั้ง",
+      "romanization": "máŋ",
+      "meaningZhHans": "大概吧 / 吧",
+      "usageNote": "功能与情绪：不确定、猜测、大概推断（“吧”、“大概吧”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 83,
+      "example": "เขาไม่มามั้ง",
+      "exampleMeaning": "他大概不来了吧。",
+      "segments": [
+        {
+          "thai": "เขา",
+          "gloss": "他"
+        },
+        {
+          "thai": "ไม่มา",
+          "gloss": "不来"
+        },
+        {
+          "thai": "มั้ง",
+          "gloss": "大概...吧"
+        }
+      ]
+    },
+    {
+      "thai": "เถอะ",
+      "romanization": "thə̀ə",
+      "meaningZhHans": "吧 / 干脆……吧",
+      "usageNote": "功能与情绪：劝说、妥协、建议（干脆做某事，“...吧”、“得了吧”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 84,
+      "example": "ไปเถอะ",
+      "exampleMeaning": "走吧走吧！。",
+      "segments": [
+        {
+          "thai": "ไป",
+          "gloss": "走/去"
+        },
+        {
+          "thai": "เถอะ",
+          "gloss": "...吧"
+        }
+      ]
+    },
+    {
+      "thai": "เหอะ",
+      "romanization": "hə̀ə",
+      "meaningZhHans": "吧（口语）",
+      "usageNote": "功能与情绪：劝说、妥协、建议（干脆做某事，“...吧”、“得了吧”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 84,
+      "example": "พอเหอะ",
+      "exampleMeaning": "算了吧！/ 得了吧！。",
+      "segments": [
+        {
+          "thai": "พอ",
+          "gloss": "够了/停"
+        },
+        {
+          "thai": "เหอะ",
+          "gloss": "算了吧/得了吧"
+        }
+      ]
+    },
+    {
+      "thai": "เนี่ย",
+      "romanization": "nîa",
+      "meaningZhHans": "强调 / 到底……",
+      "usageNote": "功能与情绪：强调当前焦点、略带抱怨或强调（“这个...呀”、“到底...”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 85,
+      "example": "อะไรเนี่ย",
+      "exampleMeaning": "搞什么呀！/ 这是什么鬼呀！。",
+      "segments": [
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        },
+        {
+          "thai": "เนี่ย",
+          "gloss": "搞什么呀/这是啥呀"
+        }
+      ]
+    },
+    {
+      "thai": "ไง",
+      "romanization": "ŋai",
+      "meaningZhHans": "看吧 / 就是嘛",
+      "usageNote": "功能与情绪：提醒对方早已知道的事实、反问（“就是...嘛”、“看吧”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 86,
+      "example": "บอกแล้วไง",
+      "exampleMeaning": "我早就跟你说过了嘛！。",
+      "segments": [
+        {
+          "thai": "บอก",
+          "gloss": "说"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "已经"
+        },
+        {
+          "thai": "ไง",
+          "gloss": "早就...了嘛"
+        }
+      ]
+    },
+    {
+      "thai": "ไงล่ะ",
+      "romanization": "ŋai-là",
+      "meaningZhHans": "看吧 / 就是这样",
+      "usageNote": "功能与情绪：提醒对方早已知道的事实、反问（“就是...嘛”、“看吧”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 86,
+      "example": "บอกแล้วไงล่ะ",
+      "exampleMeaning": "我早就跟你说过了嘛！",
+      "segments": [
+        {
+          "thai": "บอก",
+          "gloss": "说"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "已经"
+        },
+        {
+          "thai": "ไง",
+          "gloss": "看吧"
+        },
+        {
+          "thai": "ล่ะ",
+          "gloss": "语气"
+        }
+      ]
+    },
+    {
+      "thai": "อ่ะ",
+      "romanization": "à",
+      "meaningZhHans": "停顿 / 撒娇",
+      "usageNote": "功能与情绪：引起注意、停顿、撒娇略带委屈（“嘛”、“啊”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 87,
+      "example": "ทำไมอ่ะ",
+      "exampleMeaning": "干嘛啦？/ 为什么呀？。",
+      "segments": [
+        {
+          "thai": "ทำไม",
+          "gloss": "为什么"
+        },
+        {
+          "thai": "อ่ะ",
+          "gloss": "干嘛啦/为什么呀"
+        }
+      ]
+    },
+    {
+      "thai": "เหรอ",
+      "romanization": "rɔ̌ɔ",
+      "meaningZhHans": "吗（反问 / 意外）",
+      "usageNote": "功能与情绪：疑问反问（听到新信息感到意外，“是吗？”、“真的吗？”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 88,
+      "example": "จริงเหรอ",
+      "exampleMeaning": "真的吗？！。",
+      "segments": [
+        {
+          "thai": "จริง",
+          "gloss": "真的"
+        },
+        {
+          "thai": "เหรอ",
+          "gloss": "真的吗？"
+        }
+      ]
+    },
+    {
+      "thai": "หรอ",
+      "romanization": "rɔɔ",
+      "meaningZhHans": "吗（口语反问）",
+      "usageNote": "功能与情绪：疑问反问（听到新信息感到意外，“是吗？”、“真的吗？”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 88,
+      "example": "จริงเหรอ",
+      "exampleMeaning": "真的吗？！。",
+      "segments": [
+        {
+          "thai": "จริง",
+          "gloss": "真的"
+        },
+        {
+          "thai": "เหรอ",
+          "gloss": "真的吗？"
+        }
+      ]
+    },
+    {
+      "thai": "จ้า",
+      "romanization": "câa",
+      "meaningZhHans": "亲切答应",
+      "usageNote": "功能与情绪：亲切答应、礼貌回应（长辈对晚辈、店家对熟客、女性对朋友，“好嘞”、“收到啦”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 89,
+      "example": "ขอบคุณจ้า",
+      "exampleMeaning": "谢谢啦！。",
+      "segments": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "谢谢"
+        },
+        {
+          "thai": "จ้า",
+          "gloss": "亲切语气词"
+        }
+      ]
+    },
+    {
+      "thai": "จ้ะ",
+      "romanization": "câ",
+      "meaningZhHans": "亲切语气（短）",
+      "usageNote": "功能与情绪：亲切答应、礼貌回应（长辈对晚辈、店家对熟客、女性对朋友，“好嘞”、“收到啦”）。",
+      "tags": [
+        "core_function",
+        "layer8",
+        "句末语气"
+      ],
+      "entryNumber": 89,
+      "example": "ขอบคุณจ้ะ",
+      "exampleMeaning": "谢谢啦！",
+      "segments": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "谢谢"
+        },
+        {
+          "thai": "จ้ะ",
+          "gloss": "亲切语气词"
+        }
+      ]
+    }
+  ]
+}

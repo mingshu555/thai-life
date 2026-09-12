@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode / Swift build output
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# Python local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local agent / generated analysis state
+.superpowers/
+graphify-out/
+
+# Local logs and environment overrides
+*.log
+.env
+.env.*
+!.env.example
+
+# Accidental codesign / codesign requirement dumps
+/:-
+
+# Editor swap
+*.swp
+*~

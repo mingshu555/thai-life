@@ -1,0 +1,973 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		014B468C662328BE51ECF79E /* FSRSTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9335288D7E971041C9C19FA5 /* FSRSTypes.swift */; };
+		05D3AC7405147C4345A64354 /* ThaiText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3CC39A8446E81CDE87EE1B /* ThaiText.swift */; };
+		0C7821F739C7B89E4F76C152 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB972DF51BE6291C4C8359B8 /* ProgressView.swift */; };
+		13DB519F4DE6BC56A3A52EDC /* ProgressViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F56BFB49F82FCA74B313D31 /* ProgressViewModel.swift */; };
+		143E0AEFC85B32B800E4BDAC /* items.json in Resources */ = {isa = PBXBuildFile; fileRef = BF3438DE40D6ABBBFA86C12D /* items.json */; };
+		1701272AA75C2FBC28499DAA /* ContentAcceptanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08BB4397355C52203031130A /* ContentAcceptanceTests.swift */; };
+		180837AD622376ECE1B4CEC4 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 616D6E52A32CB217627E12B4 /* AppState.swift */; };
+		19B9219F6E00E1C57474AF77 /* WordFamilyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F6466419C82821CF0606DD /* WordFamilyTests.swift */; };
+		1CDF8450714D9111CB4FB9E5 /* Attributions in Resources */ = {isa = PBXBuildFile; fileRef = 5DDB09CD7AFF31BCCF5391AF /* Attributions */; };
+		1D1E2DDA3939B248C65C5915 /* kho_khai_icon_flat_green.png in Resources */ = {isa = PBXBuildFile; fileRef = B8A09A3922E8A95F0559011E /* kho_khai_icon_flat_green.png */; };
+		2797AEA8CD995191C33F0639 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51FFD7D3979BF443E4CE0FE1 /* TodayView.swift */; };
+		27FD0AFAFD4E218DB7CF01D3 /* LooplessSignageReferenceViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B4D3FF7B53B3F017BB5A8E /* LooplessSignageReferenceViewTests.swift */; };
+		2851C59CE3F293CFBF924BE1 /* ContentModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38530FEAF0C449FD638C3B43 /* ContentModels.swift */; };
+		29161D1DB40989375574503B /* FSRSSchedulerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 325F276470F786B26B4E9617 /* FSRSSchedulerTests.swift */; };
+		2976F50078B62F668A3B5DF6 /* AudioAssetManifestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5938C3C5F1EB4CA472521193 /* AudioAssetManifestTests.swift */; };
+		2A1D1271A00BFEF699DAE3E9 /* FSRSSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCED5BDBB18C33BDE9FDE8CD /* FSRSSteps.swift */; };
+		2B60F6D1F0227821456C7B4D /* ThaiLifeTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4F04D2C025B9F472B607E0 /* ThaiLifeTheme.swift */; };
+		2C19BF3AF1F3CEBCA5921106 /* ThaiMenuListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FD11044C47CF7F65B07238B /* ThaiMenuListView.swift */; };
+		2C6F7E6F73C10743D8CC0BAA /* kho_khai_icon_clay.png in Resources */ = {isa = PBXBuildFile; fileRef = C3A72204A940A6D58F86D336 /* kho_khai_icon_clay.png */; };
+		2EA4F2A38A260AC618F89538 /* ChunkBreakdownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE574A15EE80C47C397AB51 /* ChunkBreakdownView.swift */; };
+		2F80C339E754FBC2BEF94C9C /* ContentValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C3C89A3280A807E9AE3164 /* ContentValidatorTests.swift */; };
+		34AADD877CECF8235F91FF90 /* FlipCardInteractionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B2A0E1B57F32475F4F0A746 /* FlipCardInteractionTests.swift */; };
+		35355A2FF1F112A07ABDDCD9 /* ThaiMenuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4013B69C75C6F7B975B6B0B4 /* ThaiMenuTests.swift */; };
+		37A859B3AC7191F9CA095D20 /* FavoriteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97C217E290F3594BB8E1EEC1 /* FavoriteListView.swift */; };
+		3AA51BD25A976DCC6089619C /* LooplessSignageModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = E103E01E784FEAD136229098 /* LooplessSignageModels.swift */; };
+		3C3ED55BB11A781870AC9236 /* FSRSAlea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86FC9F82E1F3B40BBEF791BB /* FSRSAlea.swift */; };
+		4109AB4650F1791DA98C0A1D /* ThaiLifeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E697838FD6A05D4B0F52D9A7 /* ThaiLifeApp.swift */; };
+		47B104551451AA6619C8EBB7 /* kho_khai_icon_neon.png in Resources */ = {isa = PBXBuildFile; fileRef = C82854D7716CF67D3BD23892 /* kho_khai_icon_neon.png */; };
+		4B18CEAD53A01C1784D344E4 /* AbstractScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AFC862FD5D5FFF3EE60B79 /* AbstractScheduler.swift */; };
+		4E34B3E26A6DC9380D699393 /* FSRSHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4338C7E809BA46FDE9D73887 /* FSRSHelper.swift */; };
+		5153EC55341BEE07312DB427 /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = 881F35087D36325490867DF7 /* Fonts */; };
+		53DB063564FC9833B098E6EA /* word_families.json in Resources */ = {isa = PBXBuildFile; fileRef = 7AA63F55A31C74AF03BADDE3 /* word_families.json */; };
+		55186D5E0650D0DD30782B83 /* LooplessSignageResourceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF071C980F2311E1F2DC660 /* LooplessSignageResourceTests.swift */; };
+		5913C3D969E1473C0FF17D7F /* ReviewSessionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9012D90B11743B7836100B93 /* ReviewSessionViewModel.swift */; };
+		5C12B55DDCC6F7CEB652C00A /* ReviewSessionViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E127B6D5BF08FAAC172A462E /* ReviewSessionViewModelTests.swift */; };
+		5C595B012364180140A49EC3 /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5CC41812DC0EA7377890D06 /* RootTabView.swift */; };
+		5D50ACD5A620983466ED8D2F /* FlipCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52C53A505D9B459A5AC63AC /* FlipCardView.swift */; };
+		5DCC4F789F0880CA06230E8C /* UnitDetailViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E52C44AF44F5E4165A51A6 /* UnitDetailViewTests.swift */; };
+		60380F95BBD9EA3A6022D58F /* ThaiMenuBrowserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F8D8222473099330014CC0 /* ThaiMenuBrowserView.swift */; };
+		65898F8EF529D77C27D8C28D /* DialogueBreakdownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70279AEF10661A02B978624E /* DialogueBreakdownView.swift */; };
+		6A5A9863DD70BF567F52ADD0 /* LooplessSignage in Resources */ = {isa = PBXBuildFile; fileRef = 52927B2C37085493574114AA /* LooplessSignage */; };
+		6A85F6CE3BE2CDF1EFF03E9F /* AppContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2A9A7B2A3F60F19843F0116 /* AppContainer.swift */; };
+		6FE14D6947E1C7E8A53EA654 /* thai_menu_reference.json in Resources */ = {isa = PBXBuildFile; fileRef = F884FF3670A23E94DD383C77 /* thai_menu_reference.json */; };
+		74F3894CCF7BD62EF34B0B6A /* FSRSAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8214B5DEC1E7054196D6AD /* FSRSAlgorithm.swift */; };
+		75F871061BFBFF88380B19A1 /* WordFamilyBrowserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163602676811F18460AEC28D /* WordFamilyBrowserView.swift */; };
+		79BC0A22CBBDE67139B8CD23 /* ReviewSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0200DE6E32A7CF5AF5A7B1F6 /* ReviewSessionView.swift */; };
+		79D6B47DE94C3F8FAECDEE5C /* ThaiMenuResourceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B66E11583090760FA57043 /* ThaiMenuResourceTests.swift */; };
+		7C6645C5EF3E8C299275E9FD /* AudioPlaybackServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539603C61B03611228A8E8A7 /* AudioPlaybackServiceTests.swift */; };
+		8A0304FFD3B15BEF9716CB82 /* StudyStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB0F7658B4A050D23434632 /* StudyStore.swift */; };
+		90F7B1DA203923BB858ED650 /* FSRS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 006A2FEC70660A4FC65A9241 /* FSRS.swift */; };
+		940CCCA3DAB69167FC7B6FE3 /* WordFamilyModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2A8406DF04A2D2039FF1AD /* WordFamilyModels.swift */; };
+		9A8091312CF0301D355CA195 /* LooplessSignageValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C0C470BBC7DB709CE6FE33 /* LooplessSignageValidator.swift */; };
+		9B0F1AF2B5CE85A91AB7BD48 /* FavoriteListPresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5ADD7D045C594BFE4CDEDBB /* FavoriteListPresentation.swift */; };
+		9F96B62B101F225C7141B3F7 /* content-manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = 28961AC7BDAB0B0A085A00AE /* content-manifest.json */; };
+		A025442484258E9C2EF46F05 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA1C499D69EC50A6F190C4 /* SettingsView.swift */; };
+		A5DB269BC319E674039EE225 /* kho_khai_icon_pure_flat.png in Resources */ = {isa = PBXBuildFile; fileRef = F3DD4B2CB5C7697F9969179D /* kho_khai_icon_pure_flat.png */; };
+		A6C8CA37E4A3CFA06079D31C /* TodayViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B179FBF57072B2BAA2A033BD /* TodayViewModel.swift */; };
+		AC20812C0D1759DD1F2CD75E /* FSRSDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEF8992CE654586D7759DF6 /* FSRSDefaults.swift */; };
+		AC3C4EB254E77FAEF390BCC0 /* loopless_signage_reference.json in Resources */ = {isa = PBXBuildFile; fileRef = C4EE05308A339FADA0AD560D /* loopless_signage_reference.json */; };
+		B0EB76A78E528EC8CB102521 /* WordFamilyCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F5BA010ED14AD9F2C9971C /* WordFamilyCardView.swift */; };
+		B707C4B6C7952F9AE0885AA5 /* ThaiMenu in Resources */ = {isa = PBXBuildFile; fileRef = 76259C8DEBBC49D9B51ED452 /* ThaiMenu */; };
+		B9792179D1D2E706E9C99E90 /* FSRSModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09467BAE42517F2E29EFB299 /* FSRSModels.swift */; };
+		BBFB98C2EF4B8B272AC71CF9 /* ThaiMenuValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD1238789321068FF292CDA /* ThaiMenuValidator.swift */; };
+		BD805F3B55953CD6AB2887A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58BE872F4C9E76EAE2286D76 /* Assets.xcassets */; };
+		BEA9FDDD71D345521920BEAB /* AudioPlaybackService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0279BCE1C6CC67ED96C6FA /* AudioPlaybackService.swift */; };
+		C0556891FDE2A521C3E8DAB6 /* ContentValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF98F87A7B3C0B94213BBEDD /* ContentValidator.swift */; };
+		C0642C266F7527668942E490 /* LooplessSignageContentTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D71DC68201A899E6144B86 /* LooplessSignageContentTests.swift */; };
+		C07B19C3CA77CBFF6561D8C8 /* FSRSReschedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD627F9309B361CAE6C0109F /* FSRSReschedule.swift */; };
+		C5A845F9E66A36D8BBBB0CD4 /* BasicSchedulerV6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A553924746E0B6D39C1D074 /* BasicSchedulerV6.swift */; };
+		C6949B64C03B21A1A1FB451C /* StudyQueueBuilderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B128547721E722A9B1AF7B32 /* StudyQueueBuilderTests.swift */; };
+		C8566E33C688E00ECCA19A03 /* LooplessSignageReferenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81F3332A499C0AD752B5D2B5 /* LooplessSignageReferenceView.swift */; };
+		CF00ED6D7E4AC6C492A7064A /* ThaiMenuModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991B2271C9C9F9B5E79BC29A /* ThaiMenuModels.swift */; };
+		D1C8B23BE321DDB17198EFEF /* ThaiLifeSmokeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51A610C80623FF7187A45433 /* ThaiLifeSmokeTests.swift */; };
+		D33CCBA4F6D7E3A2CA3A5866 /* OfflineAndRecoveryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA956BD8B8F2EC8DD542241 /* OfflineAndRecoveryTests.swift */; };
+		D474A70DC3EC894007C1FD98 /* StudyStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39C490BE4EF6C7DF82A756C /* StudyStoreTests.swift */; };
+		DA3BBCD7176D15F7BC7DF029 /* ProgressViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B025737DC7E9011AAC0B170 /* ProgressViewModelTests.swift */; };
+		DA9255385A066E792C8B2514 /* ThaiTextTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C159096C01394050314ABA92 /* ThaiTextTests.swift */; };
+		DB49D590A6733466F76B529E /* LongTermScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB14383FBBC1F6C0B2E51268 /* LongTermScheduler.swift */; };
+		DCA432516B598CDAE4113E9D /* BasicScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46B726D30F492853F535F6A1 /* BasicScheduler.swift */; };
+		DCD33539D7264F1D81F4ADED /* CatalogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E8537E1D81C1C7B24D96A6 /* CatalogView.swift */; };
+		DF267ADB4D39D3E379DAAD13 /* StudyQueueBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5AA6EECDBE486DC98EE3DC /* StudyQueueBuilder.swift */; };
+		E01D0B24330D57357DEBBD78 /* ChunkBreakdownViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 574DA59C90BD2766CE28D3A2 /* ChunkBreakdownViewTests.swift */; };
+		E6EC9FD9BD1DC47B326C861A /* ContentRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834DF8C0CF7B24EF632B5249 /* ContentRepository.swift */; };
+		EC8BBE340C717893F68D522A /* DialogueBreakdownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9A57000D64BB62F5C6EE28 /* DialogueBreakdownTests.swift */; };
+		EEFD4E5475DC31ECFCD78348 /* Audio in Resources */ = {isa = PBXBuildFile; fileRef = 5D794FA70C48526F76188543 /* Audio */; };
+		F03A9431C8BB59B5698A7A80 /* TodayViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 134FDD020DBDDB72000F1B65 /* TodayViewModelTests.swift */; };
+		F73DB5A75B70A8E0779C6E31 /* CatalogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C68059B73547D627981F34FC /* CatalogViewModel.swift */; };
+		F9C34B99CEE04EFF2110D513 /* kho_khai_logo_gold.png in Resources */ = {isa = PBXBuildFile; fileRef = 0175E3012F0777B4220D8913 /* kho_khai_logo_gold.png */; };
+		FC9CDEA4FEC45B859BC99188 /* FSRSScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0B18D5FDE769953A45C8B1C /* FSRSScheduler.swift */; };
+		FCFCD72D08EBB16A90D6CB68 /* StudyModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F77FFC38704CD92CFF2F23 /* StudyModels.swift */; };
+		FE4414DEB3C2AA782F213179 /* UnitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C542A5C49C1345F78458CE4 /* UnitDetailView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8351FE60423C907F58F393A8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 39ADB722AEB245906F00C85E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 53A38968384BFFCD99927735;
+			remoteInfo = ThaiLife;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		006A2FEC70660A4FC65A9241 /* FSRS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRS.swift; sourceTree = "<group>"; };
+		00B66E11583090760FA57043 /* ThaiMenuResourceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuResourceTests.swift; sourceTree = "<group>"; };
+		0175E3012F0777B4220D8913 /* kho_khai_logo_gold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kho_khai_logo_gold.png; sourceTree = "<group>"; };
+		0200DE6E32A7CF5AF5A7B1F6 /* ReviewSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewSessionView.swift; sourceTree = "<group>"; };
+		05C33760E2A47AE4EB3345A8 /* ThaiLife.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = ThaiLife.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		08BB4397355C52203031130A /* ContentAcceptanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentAcceptanceTests.swift; sourceTree = "<group>"; };
+		09467BAE42517F2E29EFB299 /* FSRSModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSModels.swift; sourceTree = "<group>"; };
+		0A553924746E0B6D39C1D074 /* BasicSchedulerV6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicSchedulerV6.swift; sourceTree = "<group>"; };
+		0FA956BD8B8F2EC8DD542241 /* OfflineAndRecoveryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfflineAndRecoveryTests.swift; sourceTree = "<group>"; };
+		134FDD020DBDDB72000F1B65 /* TodayViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewModelTests.swift; sourceTree = "<group>"; };
+		163602676811F18460AEC28D /* WordFamilyBrowserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFamilyBrowserView.swift; sourceTree = "<group>"; };
+		20EE6338A67D01EFE73A2106 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		28961AC7BDAB0B0A085A00AE /* content-manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "content-manifest.json"; sourceTree = "<group>"; };
+		2A0279BCE1C6CC67ED96C6FA /* AudioPlaybackService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlaybackService.swift; sourceTree = "<group>"; };
+		30B4D3FF7B53B3F017BB5A8E /* LooplessSignageReferenceViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageReferenceViewTests.swift; sourceTree = "<group>"; };
+		325F276470F786B26B4E9617 /* FSRSSchedulerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSSchedulerTests.swift; sourceTree = "<group>"; };
+		38530FEAF0C449FD638C3B43 /* ContentModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentModels.swift; sourceTree = "<group>"; };
+		39D71DC68201A899E6144B86 /* LooplessSignageContentTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageContentTests.swift; sourceTree = "<group>"; };
+		4013B69C75C6F7B975B6B0B4 /* ThaiMenuTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuTests.swift; sourceTree = "<group>"; };
+		4338C7E809BA46FDE9D73887 /* FSRSHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSHelper.swift; sourceTree = "<group>"; };
+		43F8D8222473099330014CC0 /* ThaiMenuBrowserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuBrowserView.swift; sourceTree = "<group>"; };
+		46B726D30F492853F535F6A1 /* BasicScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicScheduler.swift; sourceTree = "<group>"; };
+		51A610C80623FF7187A45433 /* ThaiLifeSmokeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiLifeSmokeTests.swift; sourceTree = "<group>"; };
+		51FFD7D3979BF443E4CE0FE1 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		52927B2C37085493574114AA /* LooplessSignage */ = {isa = PBXFileReference; lastKnownFileType = folder; name = LooplessSignage; path = ThaiLife/Resources/LooplessSignage; sourceTree = SOURCE_ROOT; };
+		539603C61B03611228A8E8A7 /* AudioPlaybackServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlaybackServiceTests.swift; sourceTree = "<group>"; };
+		53F77FFC38704CD92CFF2F23 /* StudyModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyModels.swift; sourceTree = "<group>"; };
+		574DA59C90BD2766CE28D3A2 /* ChunkBreakdownViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChunkBreakdownViewTests.swift; sourceTree = "<group>"; };
+		58BE872F4C9E76EAE2286D76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5938C3C5F1EB4CA472521193 /* AudioAssetManifestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioAssetManifestTests.swift; sourceTree = "<group>"; };
+		5B2A0E1B57F32475F4F0A746 /* FlipCardInteractionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCardInteractionTests.swift; sourceTree = "<group>"; };
+		5B8214B5DEC1E7054196D6AD /* FSRSAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSAlgorithm.swift; sourceTree = "<group>"; };
+		5D794FA70C48526F76188543 /* Audio */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Audio; path = ThaiLife/Resources/Audio; sourceTree = SOURCE_ROOT; };
+		5DDB09CD7AFF31BCCF5391AF /* Attributions */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Attributions; path = ThaiLife/Resources/Attributions; sourceTree = SOURCE_ROOT; };
+		616D6E52A32CB217627E12B4 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		6AF071C980F2311E1F2DC660 /* LooplessSignageResourceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageResourceTests.swift; sourceTree = "<group>"; };
+		6C542A5C49C1345F78458CE4 /* UnitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitDetailView.swift; sourceTree = "<group>"; };
+		6E5AA6EECDBE486DC98EE3DC /* StudyQueueBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyQueueBuilder.swift; sourceTree = "<group>"; };
+		70279AEF10661A02B978624E /* DialogueBreakdownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogueBreakdownView.swift; sourceTree = "<group>"; };
+		76259C8DEBBC49D9B51ED452 /* ThaiMenu */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ThaiMenu; path = ThaiLife/Resources/ThaiMenu; sourceTree = SOURCE_ROOT; };
+		7AA63F55A31C74AF03BADDE3 /* word_families.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = word_families.json; sourceTree = "<group>"; };
+		7B025737DC7E9011AAC0B170 /* ProgressViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewModelTests.swift; sourceTree = "<group>"; };
+		81C3C89A3280A807E9AE3164 /* ContentValidatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentValidatorTests.swift; sourceTree = "<group>"; };
+		81F3332A499C0AD752B5D2B5 /* LooplessSignageReferenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageReferenceView.swift; sourceTree = "<group>"; };
+		834DF8C0CF7B24EF632B5249 /* ContentRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentRepository.swift; sourceTree = "<group>"; };
+		86FC9F82E1F3B40BBEF791BB /* FSRSAlea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSAlea.swift; sourceTree = "<group>"; };
+		881F35087D36325490867DF7 /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Fonts; path = ThaiLife/Resources/Fonts; sourceTree = SOURCE_ROOT; };
+		8CEF8992CE654586D7759DF6 /* FSRSDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSDefaults.swift; sourceTree = "<group>"; };
+		8FD11044C47CF7F65B07238B /* ThaiMenuListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuListView.swift; sourceTree = "<group>"; };
+		9012D90B11743B7836100B93 /* ReviewSessionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewSessionViewModel.swift; sourceTree = "<group>"; };
+		9335288D7E971041C9C19FA5 /* FSRSTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSTypes.swift; sourceTree = "<group>"; };
+		97C217E290F3594BB8E1EEC1 /* FavoriteListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteListView.swift; sourceTree = "<group>"; };
+		991B2271C9C9F9B5E79BC29A /* ThaiMenuModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuModels.swift; sourceTree = "<group>"; };
+		9C3CC39A8446E81CDE87EE1B /* ThaiText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiText.swift; sourceTree = "<group>"; };
+		9F2A8406DF04A2D2039FF1AD /* WordFamilyModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFamilyModels.swift; sourceTree = "<group>"; };
+		9F56BFB49F82FCA74B313D31 /* ProgressViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewModel.swift; sourceTree = "<group>"; };
+		A39C490BE4EF6C7DF82A756C /* StudyStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyStoreTests.swift; sourceTree = "<group>"; };
+		A8C0C470BBC7DB709CE6FE33 /* LooplessSignageValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageValidator.swift; sourceTree = "<group>"; };
+		AF98F87A7B3C0B94213BBEDD /* ContentValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentValidator.swift; sourceTree = "<group>"; };
+		B128547721E722A9B1AF7B32 /* StudyQueueBuilderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyQueueBuilderTests.swift; sourceTree = "<group>"; };
+		B179FBF57072B2BAA2A033BD /* TodayViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewModel.swift; sourceTree = "<group>"; };
+		B52C53A505D9B459A5AC63AC /* FlipCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipCardView.swift; sourceTree = "<group>"; };
+		B8A09A3922E8A95F0559011E /* kho_khai_icon_flat_green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kho_khai_icon_flat_green.png; sourceTree = "<group>"; };
+		BCE574A15EE80C47C397AB51 /* ChunkBreakdownView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChunkBreakdownView.swift; sourceTree = "<group>"; };
+		BCED5BDBB18C33BDE9FDE8CD /* FSRSSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSSteps.swift; sourceTree = "<group>"; };
+		BF3438DE40D6ABBBFA86C12D /* items.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = items.json; sourceTree = "<group>"; };
+		C159096C01394050314ABA92 /* ThaiTextTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiTextTests.swift; sourceTree = "<group>"; };
+		C3A72204A940A6D58F86D336 /* kho_khai_icon_clay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kho_khai_icon_clay.png; sourceTree = "<group>"; };
+		C4EE05308A339FADA0AD560D /* loopless_signage_reference.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = loopless_signage_reference.json; sourceTree = "<group>"; };
+		C68059B73547D627981F34FC /* CatalogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogViewModel.swift; sourceTree = "<group>"; };
+		C82854D7716CF67D3BD23892 /* kho_khai_icon_neon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kho_khai_icon_neon.png; sourceTree = "<group>"; };
+		C8E52C44AF44F5E4165A51A6 /* UnitDetailViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitDetailViewTests.swift; sourceTree = "<group>"; };
+		CD4F04D2C025B9F472B607E0 /* ThaiLifeTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiLifeTheme.swift; sourceTree = "<group>"; };
+		CD627F9309B361CAE6C0109F /* FSRSReschedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSReschedule.swift; sourceTree = "<group>"; };
+		D3FA1C499D69EC50A6F190C4 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		DD9A57000D64BB62F5C6EE28 /* DialogueBreakdownTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialogueBreakdownTests.swift; sourceTree = "<group>"; };
+		E103E01E784FEAD136229098 /* LooplessSignageModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LooplessSignageModels.swift; sourceTree = "<group>"; };
+		E127B6D5BF08FAAC172A462E /* ReviewSessionViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewSessionViewModelTests.swift; sourceTree = "<group>"; };
+		E2A9A7B2A3F60F19843F0116 /* AppContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppContainer.swift; sourceTree = "<group>"; };
+		E697838FD6A05D4B0F52D9A7 /* ThaiLifeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiLifeApp.swift; sourceTree = "<group>"; };
+		E7E8537E1D81C1C7B24D96A6 /* CatalogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatalogView.swift; sourceTree = "<group>"; };
+		EBD1238789321068FF292CDA /* ThaiMenuValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThaiMenuValidator.swift; sourceTree = "<group>"; };
+		EC931EB5B58BB5C286C369F8 /* ThaiLife.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ThaiLife.entitlements; sourceTree = "<group>"; };
+		ECB0F7658B4A050D23434632 /* StudyStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyStore.swift; sourceTree = "<group>"; };
+		F0B18D5FDE769953A45C8B1C /* FSRSScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FSRSScheduler.swift; sourceTree = "<group>"; };
+		F2AFC862FD5D5FFF3EE60B79 /* AbstractScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbstractScheduler.swift; sourceTree = "<group>"; };
+		F3DD4B2CB5C7697F9969179D /* kho_khai_icon_pure_flat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kho_khai_icon_pure_flat.png; sourceTree = "<group>"; };
+		F4F5BA010ED14AD9F2C9971C /* WordFamilyCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFamilyCardView.swift; sourceTree = "<group>"; };
+		F5ADD7D045C594BFE4CDEDBB /* FavoriteListPresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteListPresentation.swift; sourceTree = "<group>"; };
+		F5CC41812DC0EA7377890D06 /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
+		F884FF3670A23E94DD383C77 /* thai_menu_reference.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = thai_menu_reference.json; sourceTree = "<group>"; };
+		F8F6466419C82821CF0606DD /* WordFamilyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFamilyTests.swift; sourceTree = "<group>"; };
+		FA7650F5C9EEEF92EB3C7EF5 /* ThaiLifeTests.xctest */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.cfbundle; path = ThaiLifeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB14383FBBC1F6C0B2E51268 /* LongTermScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongTermScheduler.swift; sourceTree = "<group>"; };
+		FB972DF51BE6291C4C8359B8 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0EBBCB64188DFF248ECDCAD9 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				86FC9F82E1F3B40BBEF791BB /* FSRSAlea.swift */,
+				4338C7E809BA46FDE9D73887 /* FSRSHelper.swift */,
+				BCED5BDBB18C33BDE9FDE8CD /* FSRSSteps.swift */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		0F6C3023A81B8E3016BF2B81 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				834DF8C0CF7B24EF632B5249 /* ContentRepository.swift */,
+				AF98F87A7B3C0B94213BBEDD /* ContentValidator.swift */,
+				A8C0C470BBC7DB709CE6FE33 /* LooplessSignageValidator.swift */,
+				ECB0F7658B4A050D23434632 /* StudyStore.swift */,
+				EBD1238789321068FF292CDA /* ThaiMenuValidator.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		104FE58F3F946D459E351F58 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				A76E3D6D369B9A8F222917AD /* Catalog */,
+				C73C8CFADAA09EEBBB889FE4 /* Progress */,
+				622CD4D768CFC60CF56CAC2C /* Review */,
+				B792ED4CD9733457B9AE312A /* Settings */,
+				F30950B0402897D0A7B2E408 /* Today */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		1507FFD42D6DE7058189C16E /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				38530FEAF0C449FD638C3B43 /* ContentModels.swift */,
+				E103E01E784FEAD136229098 /* LooplessSignageModels.swift */,
+				53F77FFC38704CD92CFF2F23 /* StudyModels.swift */,
+				991B2271C9C9F9B5E79BC29A /* ThaiMenuModels.swift */,
+				9F2A8406DF04A2D2039FF1AD /* WordFamilyModels.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		1D92E7E53D9D77F2DD75DAF6 /* ThaiLife */ = {
+			isa = PBXGroup;
+			children = (
+				20EE6338A67D01EFE73A2106 /* Info.plist */,
+				EC931EB5B58BB5C286C369F8 /* ThaiLife.entitlements */,
+				E433A4C53CDA4CB861228574 /* App */,
+				9C5C7C751D21B656AB7030FA /* Audio */,
+				0F6C3023A81B8E3016BF2B81 /* Data */,
+				4A0B3C458A0516CAEAAE1F5D /* Design */,
+				1507FFD42D6DE7058189C16E /* Domain */,
+				104FE58F3F946D459E351F58 /* Features */,
+				47A888CD67B7CFF90A365ABB /* FSRS */,
+				1F2E513DB350B730BBE4F463 /* Resources */,
+				C706CFFFD6FE35EE519A7B2D /* Scheduling */,
+			);
+			path = ThaiLife;
+			sourceTree = "<group>";
+		};
+		1F2E513DB350B730BBE4F463 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				58BE872F4C9E76EAE2286D76 /* Assets.xcassets */,
+				2FB91CD0CB0460D3920EE19C /* Content */,
+				BB7EDE78BA4ADB90EFD2C84C /* DesignAssets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		285687EE3D4A28215E6B6D6D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				05C33760E2A47AE4EB3345A8 /* ThaiLife.app */,
+				FA7650F5C9EEEF92EB3C7EF5 /* ThaiLifeTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2FB91CD0CB0460D3920EE19C /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				28961AC7BDAB0B0A085A00AE /* content-manifest.json */,
+				BF3438DE40D6ABBBFA86C12D /* items.json */,
+				C4EE05308A339FADA0AD560D /* loopless_signage_reference.json */,
+				F884FF3670A23E94DD383C77 /* thai_menu_reference.json */,
+				7AA63F55A31C74AF03BADDE3 /* word_families.json */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
+		47A888CD67B7CFF90A365ABB /* FSRS */ = {
+			isa = PBXGroup;
+			children = (
+				8BFB1B6B3431A23DEBC3B277 /* Algorithm */,
+				0EBBCB64188DFF248ECDCAD9 /* Helper */,
+				4F694BABB96EB1EDE159CF0C /* Models */,
+				6B3A99C9B955B8345940CBA1 /* Scheduler */,
+			);
+			path = FSRS;
+			sourceTree = "<group>";
+		};
+		4A0B3C458A0516CAEAAE1F5D /* Design */ = {
+			isa = PBXGroup;
+			children = (
+				CD4F04D2C025B9F472B607E0 /* ThaiLifeTheme.swift */,
+				9C3CC39A8446E81CDE87EE1B /* ThaiText.swift */,
+			);
+			path = Design;
+			sourceTree = "<group>";
+		};
+		4F694BABB96EB1EDE159CF0C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8CEF8992CE654586D7759DF6 /* FSRSDefaults.swift */,
+				09467BAE42517F2E29EFB299 /* FSRSModels.swift */,
+				9335288D7E971041C9C19FA5 /* FSRSTypes.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		622CD4D768CFC60CF56CAC2C /* Review */ = {
+			isa = PBXGroup;
+			children = (
+				BCE574A15EE80C47C397AB51 /* ChunkBreakdownView.swift */,
+				70279AEF10661A02B978624E /* DialogueBreakdownView.swift */,
+				F5ADD7D045C594BFE4CDEDBB /* FavoriteListPresentation.swift */,
+				97C217E290F3594BB8E1EEC1 /* FavoriteListView.swift */,
+				B52C53A505D9B459A5AC63AC /* FlipCardView.swift */,
+				0200DE6E32A7CF5AF5A7B1F6 /* ReviewSessionView.swift */,
+				9012D90B11743B7836100B93 /* ReviewSessionViewModel.swift */,
+				F4F5BA010ED14AD9F2C9971C /* WordFamilyCardView.swift */,
+			);
+			path = Review;
+			sourceTree = "<group>";
+		};
+		6B3A99C9B955B8345940CBA1 /* Scheduler */ = {
+			isa = PBXGroup;
+			children = (
+				F2AFC862FD5D5FFF3EE60B79 /* AbstractScheduler.swift */,
+				46B726D30F492853F535F6A1 /* BasicScheduler.swift */,
+				0A553924746E0B6D39C1D074 /* BasicSchedulerV6.swift */,
+				CD627F9309B361CAE6C0109F /* FSRSReschedule.swift */,
+				FB14383FBBC1F6C0B2E51268 /* LongTermScheduler.swift */,
+			);
+			path = Scheduler;
+			sourceTree = "<group>";
+		};
+		7A74F4E38039E78159788DD3 /* ThaiLifeTests */ = {
+			isa = PBXGroup;
+			children = (
+				5938C3C5F1EB4CA472521193 /* AudioAssetManifestTests.swift */,
+				539603C61B03611228A8E8A7 /* AudioPlaybackServiceTests.swift */,
+				574DA59C90BD2766CE28D3A2 /* ChunkBreakdownViewTests.swift */,
+				08BB4397355C52203031130A /* ContentAcceptanceTests.swift */,
+				81C3C89A3280A807E9AE3164 /* ContentValidatorTests.swift */,
+				DD9A57000D64BB62F5C6EE28 /* DialogueBreakdownTests.swift */,
+				5B2A0E1B57F32475F4F0A746 /* FlipCardInteractionTests.swift */,
+				325F276470F786B26B4E9617 /* FSRSSchedulerTests.swift */,
+				39D71DC68201A899E6144B86 /* LooplessSignageContentTests.swift */,
+				30B4D3FF7B53B3F017BB5A8E /* LooplessSignageReferenceViewTests.swift */,
+				6AF071C980F2311E1F2DC660 /* LooplessSignageResourceTests.swift */,
+				0FA956BD8B8F2EC8DD542241 /* OfflineAndRecoveryTests.swift */,
+				7B025737DC7E9011AAC0B170 /* ProgressViewModelTests.swift */,
+				E127B6D5BF08FAAC172A462E /* ReviewSessionViewModelTests.swift */,
+				B128547721E722A9B1AF7B32 /* StudyQueueBuilderTests.swift */,
+				A39C490BE4EF6C7DF82A756C /* StudyStoreTests.swift */,
+				51A610C80623FF7187A45433 /* ThaiLifeSmokeTests.swift */,
+				00B66E11583090760FA57043 /* ThaiMenuResourceTests.swift */,
+				4013B69C75C6F7B975B6B0B4 /* ThaiMenuTests.swift */,
+				C159096C01394050314ABA92 /* ThaiTextTests.swift */,
+				134FDD020DBDDB72000F1B65 /* TodayViewModelTests.swift */,
+				C8E52C44AF44F5E4165A51A6 /* UnitDetailViewTests.swift */,
+				F8F6466419C82821CF0606DD /* WordFamilyTests.swift */,
+			);
+			path = ThaiLifeTests;
+			sourceTree = "<group>";
+		};
+		8BFB1B6B3431A23DEBC3B277 /* Algorithm */ = {
+			isa = PBXGroup;
+			children = (
+				006A2FEC70660A4FC65A9241 /* FSRS.swift */,
+				5B8214B5DEC1E7054196D6AD /* FSRSAlgorithm.swift */,
+			);
+			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		9C5C7C751D21B656AB7030FA /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				2A0279BCE1C6CC67ED96C6FA /* AudioPlaybackService.swift */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		9C69D74E7308AC11B3B9DBBD = {
+			isa = PBXGroup;
+			children = (
+				5DDB09CD7AFF31BCCF5391AF /* Attributions */,
+				5D794FA70C48526F76188543 /* Audio */,
+				881F35087D36325490867DF7 /* Fonts */,
+				52927B2C37085493574114AA /* LooplessSignage */,
+				76259C8DEBBC49D9B51ED452 /* ThaiMenu */,
+				1D92E7E53D9D77F2DD75DAF6 /* ThaiLife */,
+				7A74F4E38039E78159788DD3 /* ThaiLifeTests */,
+				285687EE3D4A28215E6B6D6D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A76E3D6D369B9A8F222917AD /* Catalog */ = {
+			isa = PBXGroup;
+			children = (
+				E7E8537E1D81C1C7B24D96A6 /* CatalogView.swift */,
+				C68059B73547D627981F34FC /* CatalogViewModel.swift */,
+				81F3332A499C0AD752B5D2B5 /* LooplessSignageReferenceView.swift */,
+				43F8D8222473099330014CC0 /* ThaiMenuBrowserView.swift */,
+				8FD11044C47CF7F65B07238B /* ThaiMenuListView.swift */,
+				6C542A5C49C1345F78458CE4 /* UnitDetailView.swift */,
+				163602676811F18460AEC28D /* WordFamilyBrowserView.swift */,
+			);
+			path = Catalog;
+			sourceTree = "<group>";
+		};
+		B792ED4CD9733457B9AE312A /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				D3FA1C499D69EC50A6F190C4 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		BB7EDE78BA4ADB90EFD2C84C /* DesignAssets */ = {
+			isa = PBXGroup;
+			children = (
+				C3A72204A940A6D58F86D336 /* kho_khai_icon_clay.png */,
+				B8A09A3922E8A95F0559011E /* kho_khai_icon_flat_green.png */,
+				C82854D7716CF67D3BD23892 /* kho_khai_icon_neon.png */,
+				F3DD4B2CB5C7697F9969179D /* kho_khai_icon_pure_flat.png */,
+				0175E3012F0777B4220D8913 /* kho_khai_logo_gold.png */,
+			);
+			path = DesignAssets;
+			sourceTree = "<group>";
+		};
+		C706CFFFD6FE35EE519A7B2D /* Scheduling */ = {
+			isa = PBXGroup;
+			children = (
+				F0B18D5FDE769953A45C8B1C /* FSRSScheduler.swift */,
+				6E5AA6EECDBE486DC98EE3DC /* StudyQueueBuilder.swift */,
+			);
+			path = Scheduling;
+			sourceTree = "<group>";
+		};
+		C73C8CFADAA09EEBBB889FE4 /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				FB972DF51BE6291C4C8359B8 /* ProgressView.swift */,
+				9F56BFB49F82FCA74B313D31 /* ProgressViewModel.swift */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		E433A4C53CDA4CB861228574 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				E2A9A7B2A3F60F19843F0116 /* AppContainer.swift */,
+				616D6E52A32CB217627E12B4 /* AppState.swift */,
+				F5CC41812DC0EA7377890D06 /* RootTabView.swift */,
+				E697838FD6A05D4B0F52D9A7 /* ThaiLifeApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		F30950B0402897D0A7B2E408 /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				51FFD7D3979BF443E4CE0FE1 /* TodayView.swift */,
+				B179FBF57072B2BAA2A033BD /* TodayViewModel.swift */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1DD9F8B896A3376A9B964499 /* ThaiLifeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD4B859C986E8E6DC70B4459 /* Build configuration list for PBXNativeTarget "ThaiLifeTests" */;
+			buildPhases = (
+				214EC007A38B88B49275705A /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1EC240B5DD82550022A7A3A7 /* PBXTargetDependency */,
+			);
+			name = ThaiLifeTests;
+			packageProductDependencies = (
+			);
+			productName = ThaiLifeTests;
+			productReference = FA7650F5C9EEEF92EB3C7EF5 /* ThaiLifeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		53A38968384BFFCD99927735 /* ThaiLife */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 95E6B9B9AC0C8B477851B79B /* Build configuration list for PBXNativeTarget "ThaiLife" */;
+			buildPhases = (
+				ED27E0CF8E251475BEC33D2F /* SwiftLint */,
+				AC28D9FA4D8E9C2C96C7B927 /* Sources */,
+				A810D7554AC4AA3F7F3DCB06 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ThaiLife;
+			packageProductDependencies = (
+			);
+			productName = ThaiLife;
+			productReference = 05C33760E2A47AE4EB3345A8 /* ThaiLife.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39ADB722AEB245906F00C85E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					1DD9F8B896A3376A9B964499 = {
+						DevelopmentTeam = V67ZQWB5H3;
+						ProvisioningStyle = Automatic;
+					};
+					53A38968384BFFCD99927735 = {
+						DevelopmentTeam = V67ZQWB5H3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 3BC934AA39B3DF46116856CC /* Build configuration list for PBXProject "ThaiLife" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 9C69D74E7308AC11B3B9DBBD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 285687EE3D4A28215E6B6D6D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				53A38968384BFFCD99927735 /* ThaiLife */,
+				1DD9F8B896A3376A9B964499 /* ThaiLifeTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A810D7554AC4AA3F7F3DCB06 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BD805F3B55953CD6AB2887A1 /* Assets.xcassets in Resources */,
+				1CDF8450714D9111CB4FB9E5 /* Attributions in Resources */,
+				EEFD4E5475DC31ECFCD78348 /* Audio in Resources */,
+				5153EC55341BEE07312DB427 /* Fonts in Resources */,
+				6A5A9863DD70BF567F52ADD0 /* LooplessSignage in Resources */,
+				B707C4B6C7952F9AE0885AA5 /* ThaiMenu in Resources */,
+				9F96B62B101F225C7141B3F7 /* content-manifest.json in Resources */,
+				143E0AEFC85B32B800E4BDAC /* items.json in Resources */,
+				2C6F7E6F73C10743D8CC0BAA /* kho_khai_icon_clay.png in Resources */,
+				1D1E2DDA3939B248C65C5915 /* kho_khai_icon_flat_green.png in Resources */,
+				47B104551451AA6619C8EBB7 /* kho_khai_icon_neon.png in Resources */,
+				A5DB269BC319E674039EE225 /* kho_khai_icon_pure_flat.png in Resources */,
+				F9C34B99CEE04EFF2110D513 /* kho_khai_logo_gold.png in Resources */,
+				AC3C4EB254E77FAEF390BCC0 /* loopless_signage_reference.json in Resources */,
+				6FE14D6947E1C7E8A53EA654 /* thai_menu_reference.json in Resources */,
+				53DB063564FC9833B098E6EA /* word_families.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		ED27E0CF8E251475BEC33D2F /* SwiftLint */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = SwiftLint;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if which swiftlint > /dev/null; then\n  swiftlint\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		214EC007A38B88B49275705A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2976F50078B62F668A3B5DF6 /* AudioAssetManifestTests.swift in Sources */,
+				7C6645C5EF3E8C299275E9FD /* AudioPlaybackServiceTests.swift in Sources */,
+				E01D0B24330D57357DEBBD78 /* ChunkBreakdownViewTests.swift in Sources */,
+				1701272AA75C2FBC28499DAA /* ContentAcceptanceTests.swift in Sources */,
+				2F80C339E754FBC2BEF94C9C /* ContentValidatorTests.swift in Sources */,
+				EC8BBE340C717893F68D522A /* DialogueBreakdownTests.swift in Sources */,
+				29161D1DB40989375574503B /* FSRSSchedulerTests.swift in Sources */,
+				34AADD877CECF8235F91FF90 /* FlipCardInteractionTests.swift in Sources */,
+				C0642C266F7527668942E490 /* LooplessSignageContentTests.swift in Sources */,
+				27FD0AFAFD4E218DB7CF01D3 /* LooplessSignageReferenceViewTests.swift in Sources */,
+				55186D5E0650D0DD30782B83 /* LooplessSignageResourceTests.swift in Sources */,
+				D33CCBA4F6D7E3A2CA3A5866 /* OfflineAndRecoveryTests.swift in Sources */,
+				DA3BBCD7176D15F7BC7DF029 /* ProgressViewModelTests.swift in Sources */,
+				5C12B55DDCC6F7CEB652C00A /* ReviewSessionViewModelTests.swift in Sources */,
+				C6949B64C03B21A1A1FB451C /* StudyQueueBuilderTests.swift in Sources */,
+				D474A70DC3EC894007C1FD98 /* StudyStoreTests.swift in Sources */,
+				D1C8B23BE321DDB17198EFEF /* ThaiLifeSmokeTests.swift in Sources */,
+				79D6B47DE94C3F8FAECDEE5C /* ThaiMenuResourceTests.swift in Sources */,
+				35355A2FF1F112A07ABDDCD9 /* ThaiMenuTests.swift in Sources */,
+				DA9255385A066E792C8B2514 /* ThaiTextTests.swift in Sources */,
+				F03A9431C8BB59B5698A7A80 /* TodayViewModelTests.swift in Sources */,
+				5DCC4F789F0880CA06230E8C /* UnitDetailViewTests.swift in Sources */,
+				19B9219F6E00E1C57474AF77 /* WordFamilyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AC28D9FA4D8E9C2C96C7B927 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B18CEAD53A01C1784D344E4 /* AbstractScheduler.swift in Sources */,
+				6A85F6CE3BE2CDF1EFF03E9F /* AppContainer.swift in Sources */,
+				180837AD622376ECE1B4CEC4 /* AppState.swift in Sources */,
+				BEA9FDDD71D345521920BEAB /* AudioPlaybackService.swift in Sources */,
+				DCA432516B598CDAE4113E9D /* BasicScheduler.swift in Sources */,
+				C5A845F9E66A36D8BBBB0CD4 /* BasicSchedulerV6.swift in Sources */,
+				DCD33539D7264F1D81F4ADED /* CatalogView.swift in Sources */,
+				F73DB5A75B70A8E0779C6E31 /* CatalogViewModel.swift in Sources */,
+				2EA4F2A38A260AC618F89538 /* ChunkBreakdownView.swift in Sources */,
+				2851C59CE3F293CFBF924BE1 /* ContentModels.swift in Sources */,
+				E6EC9FD9BD1DC47B326C861A /* ContentRepository.swift in Sources */,
+				C0556891FDE2A521C3E8DAB6 /* ContentValidator.swift in Sources */,
+				65898F8EF529D77C27D8C28D /* DialogueBreakdownView.swift in Sources */,
+				90F7B1DA203923BB858ED650 /* FSRS.swift in Sources */,
+				3C3ED55BB11A781870AC9236 /* FSRSAlea.swift in Sources */,
+				74F3894CCF7BD62EF34B0B6A /* FSRSAlgorithm.swift in Sources */,
+				AC20812C0D1759DD1F2CD75E /* FSRSDefaults.swift in Sources */,
+				4E34B3E26A6DC9380D699393 /* FSRSHelper.swift in Sources */,
+				B9792179D1D2E706E9C99E90 /* FSRSModels.swift in Sources */,
+				C07B19C3CA77CBFF6561D8C8 /* FSRSReschedule.swift in Sources */,
+				FC9CDEA4FEC45B859BC99188 /* FSRSScheduler.swift in Sources */,
+				2A1D1271A00BFEF699DAE3E9 /* FSRSSteps.swift in Sources */,
+				014B468C662328BE51ECF79E /* FSRSTypes.swift in Sources */,
+				9B0F1AF2B5CE85A91AB7BD48 /* FavoriteListPresentation.swift in Sources */,
+				37A859B3AC7191F9CA095D20 /* FavoriteListView.swift in Sources */,
+				5D50ACD5A620983466ED8D2F /* FlipCardView.swift in Sources */,
+				DB49D590A6733466F76B529E /* LongTermScheduler.swift in Sources */,
+				3AA51BD25A976DCC6089619C /* LooplessSignageModels.swift in Sources */,
+				C8566E33C688E00ECCA19A03 /* LooplessSignageReferenceView.swift in Sources */,
+				9A8091312CF0301D355CA195 /* LooplessSignageValidator.swift in Sources */,
+				0C7821F739C7B89E4F76C152 /* ProgressView.swift in Sources */,
+				13DB519F4DE6BC56A3A52EDC /* ProgressViewModel.swift in Sources */,
+				79BC0A22CBBDE67139B8CD23 /* ReviewSessionView.swift in Sources */,
+				5913C3D969E1473C0FF17D7F /* ReviewSessionViewModel.swift in Sources */,
+				5C595B012364180140A49EC3 /* RootTabView.swift in Sources */,
+				A025442484258E9C2EF46F05 /* SettingsView.swift in Sources */,
+				FCFCD72D08EBB16A90D6CB68 /* StudyModels.swift in Sources */,
+				DF267ADB4D39D3E379DAAD13 /* StudyQueueBuilder.swift in Sources */,
+				8A0304FFD3B15BEF9716CB82 /* StudyStore.swift in Sources */,
+				4109AB4650F1791DA98C0A1D /* ThaiLifeApp.swift in Sources */,
+				2B60F6D1F0227821456C7B4D /* ThaiLifeTheme.swift in Sources */,
+				60380F95BBD9EA3A6022D58F /* ThaiMenuBrowserView.swift in Sources */,
+				2C19BF3AF1F3CEBCA5921106 /* ThaiMenuListView.swift in Sources */,
+				CF00ED6D7E4AC6C492A7064A /* ThaiMenuModels.swift in Sources */,
+				BBFB98C2EF4B8B272AC71CF9 /* ThaiMenuValidator.swift in Sources */,
+				05D3AC7405147C4345A64354 /* ThaiText.swift in Sources */,
+				2797AEA8CD995191C33F0639 /* TodayView.swift in Sources */,
+				A6C8CA37E4A3CFA06079D31C /* TodayViewModel.swift in Sources */,
+				FE4414DEB3C2AA782F213179 /* UnitDetailView.swift in Sources */,
+				75F871061BFBFF88380B19A1 /* WordFamilyBrowserView.swift in Sources */,
+				B0EB76A78E528EC8CB102521 /* WordFamilyCardView.swift in Sources */,
+				940CCCA3DAB69167FC7B6FE3 /* WordFamilyModels.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1EC240B5DD82550022A7A3A7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 53A38968384BFFCD99927735 /* ThaiLife */;
+			targetProxy = 8351FE60423C907F58F393A8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6108CB3FB913861B0EB11BB0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V67ZQWB5H3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ThaiLife/Info.plist;
+				INFOPLIST_KEY_CFBundleDevelopmentRegion = "zh-Hans";
+				INFOPLIST_KEY_CFBundleDisplayName = "泰会记";
+				INFOPLIST_KEY_UIAppFonts = (
+					"Fonts/Sarabun-Regular.ttf",
+					"Fonts/Prompt-Regular.ttf",
+				);
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yaohuix.ThaiLife;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8DD6AB264D7EFAB8ADF6F1A3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = V67ZQWB5H3;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.10;
+			};
+			name = Debug;
+		};
+		AE02A09E6E46E3D15465BD54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yaohuix.ThaiLifeTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThaiLife.app/ThaiLife";
+			};
+			name = Release;
+		};
+		C94BBEB950FEB4743FACD275 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V67ZQWB5H3;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ThaiLife/Info.plist;
+				INFOPLIST_KEY_CFBundleDevelopmentRegion = "zh-Hans";
+				INFOPLIST_KEY_CFBundleDisplayName = "泰会记";
+				INFOPLIST_KEY_UIAppFonts = (
+					"Fonts/Sarabun-Regular.ttf",
+					"Fonts/Prompt-Regular.ttf",
+				);
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yaohuix.ThaiLife;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D303335A75674C40EEACC3CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = V67ZQWB5H3;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.10;
+			};
+			name = Release;
+		};
+		DDB4FFB3FB7C33EB22FCDDE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yaohuix.ThaiLifeTests;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ThaiLife.app/ThaiLife";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BC934AA39B3DF46116856CC /* Build configuration list for PBXProject "ThaiLife" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8DD6AB264D7EFAB8ADF6F1A3 /* Debug */,
+				D303335A75674C40EEACC3CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		95E6B9B9AC0C8B477851B79B /* Build configuration list for PBXNativeTarget "ThaiLife" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C94BBEB950FEB4743FACD275 /* Debug */,
+				6108CB3FB913861B0EB11BB0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		CD4B859C986E8E6DC70B4459 /* Build configuration list for PBXNativeTarget "ThaiLifeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DDB4FFB3FB7C33EB22FCDDE0 /* Debug */,
+				AE02A09E6E46E3D15465BD54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39ADB722AEB245906F00C85E /* Project object */;
+}

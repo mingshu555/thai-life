@@ -1,0 +1,6104 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-Hans",
+  "recordCount": 215,
+  "items": [
+    {
+      "id": "basics-chunk-001",
+      "combinations": [
+        {
+          "thai": "ขอโทษ",
+          "gloss": "抱歉；打扰一下"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "โทษ",
+          "gloss": "过错；抱歉"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-002",
+      "combinations": [
+        {
+          "thai": "ขอโทษ",
+          "gloss": "抱歉；打扰一下"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "คะ",
+          "gloss": "女性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "โทษ",
+          "gloss": "过错；抱歉"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "คะ",
+          "gloss": "女性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-003",
+      "combinations": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "感谢；谢谢"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "感谢；谢谢"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-004",
+      "combinations": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "感谢；谢谢"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        },
+        {
+          "thai": "ค่ะ",
+          "gloss": "女性陈述礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอบคุณ",
+          "gloss": "感谢；谢谢"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "非常"
+        },
+        {
+          "thai": "ค่ะ",
+          "gloss": "女性陈述礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-005",
+      "combinations": [
+        {
+          "thai": "ไม่เป็นไร",
+          "gloss": "没关系；不碍事"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เป็น",
+          "gloss": "是；成为"
+        },
+        {
+          "thai": "ไร",
+          "gloss": "什么（口语成分）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-006",
+      "combinations": [
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-007",
+      "combinations": [
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-008",
+      "combinations": [
+        {
+          "thai": "ไม่ได้",
+          "gloss": "不可以；不能"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-009",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-010",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-011",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-012",
+      "combinations": [
+        {
+          "thai": "มา",
+          "gloss": "来；从…来"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มา",
+          "gloss": "来；从…来"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-013",
+      "combinations": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-014",
+      "combinations": [
+        {
+          "thai": "อร่อย",
+          "gloss": "好吃"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อร่อย",
+          "gloss": "好吃"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-015",
+      "combinations": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-016",
+      "combinations": [
+        {
+          "thai": "เข้าใจ",
+          "gloss": "明白；理解"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เข้า",
+          "gloss": "进入"
+        },
+        {
+          "thai": "ใจ",
+          "gloss": "心；理解"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-017",
+      "combinations": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰语；泰国的"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "会；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰语；泰国的"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "会；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-018",
+      "combinations": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "ช้าๆ",
+          "gloss": "慢一点；慢慢地"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "พูด",
+          "gloss": "说"
+        },
+        {
+          "thai": "ช้า",
+          "gloss": "慢"
+        },
+        {
+          "thai": "ๆ",
+          "gloss": "重复符号，表示程度延续"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-019",
+      "combinations": [
+        {
+          "thai": "อีกครั้ง",
+          "gloss": "再一次"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อีก",
+          "gloss": "再；另一个"
+        },
+        {
+          "thai": "ครั้ง",
+          "gloss": "次"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "basics-chunk-020",
+      "combinations": [
+        {
+          "thai": "ช่วย",
+          "gloss": "帮忙"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ช่วย",
+          "gloss": "帮忙"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-001",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "เมนู",
+          "gloss": "菜单"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "เมนู",
+          "gloss": "菜单"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-002",
+      "combinations": [
+        {
+          "thai": "สั่ง",
+          "gloss": "点（餐）"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สั่ง",
+          "gloss": "点（餐）"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-003",
+      "combinations": [
+        {
+          "thai": "คิดเงิน",
+          "gloss": "结账；算钱"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；请…"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คิด",
+          "gloss": "计算；想"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；请…"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-004",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "กลับ",
+          "gloss": "带回；回去"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "家"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "กลับ",
+          "gloss": "带回；回去"
+        },
+        {
+          "thai": "บ้าน",
+          "gloss": "家"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-005",
+      "combinations": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "ที่นี่",
+          "gloss": "这里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在；地点标记"
+        },
+        {
+          "thai": "นี่",
+          "gloss": "这；这里"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-006",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ผัก",
+          "gloss": "蔬菜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ผัก",
+          "gloss": "蔬菜"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-007",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-008",
+      "combinations": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "น้อย",
+          "gloss": "少；不太"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "น้อย",
+          "gloss": "少；不太"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-009",
+      "combinations": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-010",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大；大份"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大；大份"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-011",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "เล็ก",
+          "gloss": "小；小份"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "เล็ก",
+          "gloss": "小；小份"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-012",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "น้ำเปล่า",
+          "gloss": "白水"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "เปล่า",
+          "gloss": "纯的；白（不加味）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-013",
+      "combinations": [
+        {
+          "thai": "น้ำแข็ง",
+          "gloss": "冰"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "แข็ง",
+          "gloss": "硬；结冰"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-014",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ช้อนส้อม",
+          "gloss": "勺叉；餐具"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ช้อน",
+          "gloss": "勺子"
+        },
+        {
+          "thai": "ส้อม",
+          "gloss": "叉子"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-015",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ตะเกียบ",
+          "gloss": "筷子"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ตะเกียบ",
+          "gloss": "筷子"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-016",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ถุง",
+          "gloss": "袋子"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ถุง",
+          "gloss": "袋子"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-017",
+      "combinations": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "เผ็ด",
+          "gloss": "辣"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-018",
+      "combinations": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        },
+        {
+          "thai": "ทะเล",
+          "gloss": "海；海鲜所指的海产"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        },
+        {
+          "thai": "ทะเล",
+          "gloss": "海；海鲜所指的海产"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-019",
+      "combinations": [
+        {
+          "thai": "มื้อ",
+          "gloss": "一餐；餐次"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早上；早餐时段"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มื้อ",
+          "gloss": "一餐；餐次"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早上；早餐时段"
+        }
+      ]
+    },
+    {
+      "id": "food_dining-chunk-020",
+      "combinations": [
+        {
+          "thai": "มื้อ",
+          "gloss": "一餐；餐次"
+        },
+        {
+          "thai": "กลางวัน",
+          "gloss": "白天；中午"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มื้อ",
+          "gloss": "一餐；餐次"
+        },
+        {
+          "thai": "กลาง",
+          "gloss": "中间；中部"
+        },
+        {
+          "thai": "วัน",
+          "gloss": "天；白天"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-001",
+      "combinations": [
+        {
+          "thai": "ปวด",
+          "gloss": "疼；酸痛"
+        },
+        {
+          "thai": "หัว",
+          "gloss": "头"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปวด",
+          "gloss": "疼；酸痛"
+        },
+        {
+          "thai": "หัว",
+          "gloss": "头"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-002",
+      "combinations": [
+        {
+          "thai": "ปวด",
+          "gloss": "疼；酸痛"
+        },
+        {
+          "thai": "ท้อง",
+          "gloss": "肚子；腹部"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปวด",
+          "gloss": "疼；酸痛"
+        },
+        {
+          "thai": "ท้อง",
+          "gloss": "肚子；腹部"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-003",
+      "combinations": [
+        {
+          "thai": "เจ็บ",
+          "gloss": "疼；痛"
+        },
+        {
+          "thai": "คอ",
+          "gloss": "喉咙；脖子"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เจ็บ",
+          "gloss": "疼；痛"
+        },
+        {
+          "thai": "คอ",
+          "gloss": "喉咙；脖子"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-004",
+      "combinations": [
+        {
+          "thai": "เป็น",
+          "gloss": "得了；处于…状态"
+        },
+        {
+          "thai": "หวัด",
+          "gloss": "感冒"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เป็น",
+          "gloss": "得了；处于…状态"
+        },
+        {
+          "thai": "หวัด",
+          "gloss": "感冒"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-005",
+      "combinations": [
+        {
+          "thai": "เป็น",
+          "gloss": "得了；处于…状态"
+        },
+        {
+          "thai": "ไข้",
+          "gloss": "发烧；热病"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เป็น",
+          "gloss": "得了；处于…状态"
+        },
+        {
+          "thai": "ไข้",
+          "gloss": "发烧；热病"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-006",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "สบาย",
+          "gloss": "舒服；安好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "สบาย",
+          "gloss": "舒服；安好"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-007",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "หาหมอ",
+          "gloss": "看医生；找医生"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "หา",
+          "gloss": "找；看"
+        },
+        {
+          "thai": "หมอ",
+          "gloss": "医生"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-008",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "โรงพยาบาล",
+          "gloss": "医院"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "โรง",
+          "gloss": "建筑；场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理；医院"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-009",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ยาแก้ปวด",
+          "gloss": "止痛药"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        },
+        {
+          "thai": "แก้",
+          "gloss": "解除；治疗"
+        },
+        {
+          "thai": "ปวด",
+          "gloss": "疼；酸痛"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-010",
+      "combinations": [
+        {
+          "thai": "แพ้",
+          "gloss": "过敏"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แพ้",
+          "gloss": "过敏"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-011",
+      "combinations": [
+        {
+          "thai": "แพ้",
+          "gloss": "过敏"
+        },
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แพ้",
+          "gloss": "过敏"
+        },
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-012",
+      "combinations": [
+        {
+          "thai": "กินยา",
+          "gloss": "吃药"
+        },
+        {
+          "thai": "พร้อม",
+          "gloss": "同；随同"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "ยา",
+          "gloss": "药"
+        },
+        {
+          "thai": "พร้อม",
+          "gloss": "同；随同"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-013",
+      "combinations": [
+        {
+          "thai": "ก่อน",
+          "gloss": "在…之前"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ก่อน",
+          "gloss": "在…之前"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-014",
+      "combinations": [
+        {
+          "thai": "หลัง",
+          "gloss": "在…之后"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หลัง",
+          "gloss": "在…之后"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-015",
+      "combinations": [
+        {
+          "thai": "วันละ",
+          "gloss": "每天；每一日"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "ครั้ง",
+          "gloss": "次"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        },
+        {
+          "thai": "ละ",
+          "gloss": "每；按…计算"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "ครั้ง",
+          "gloss": "次"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-016",
+      "combinations": [
+        {
+          "thai": "ครั้งละ",
+          "gloss": "每次；一次按…算"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "เม็ด",
+          "gloss": "粒；片（药片量词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ครั้ง",
+          "gloss": "次"
+        },
+        {
+          "thai": "ละ",
+          "gloss": "每；按…计算"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "เม็ด",
+          "gloss": "粒；片（药片量词）"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-017",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有；出现"
+        },
+        {
+          "thai": "ไข้",
+          "gloss": "发烧；热病"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有；出现"
+        },
+        {
+          "thai": "ไข้",
+          "gloss": "发烧；热病"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-018",
+      "combinations": [
+        {
+          "thai": "ตรวจ",
+          "gloss": "检查；化验"
+        },
+        {
+          "thai": "เลือด",
+          "gloss": "血"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตรวจ",
+          "gloss": "检查；化验"
+        },
+        {
+          "thai": "เลือด",
+          "gloss": "血"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-019",
+      "combinations": [
+        {
+          "thai": "เอกซเรย์",
+          "gloss": "X光；X射线检查"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอกซเรย์",
+          "gloss": "X光；X射线检查"
+        }
+      ]
+    },
+    {
+      "id": "health-chunk-020",
+      "combinations": [
+        {
+          "thai": "นอน",
+          "gloss": "睡；住（院）"
+        },
+        {
+          "thai": "โรงพยาบาล",
+          "gloss": "医院"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นอน",
+          "gloss": "睡；住（院）"
+        },
+        {
+          "thai": "โรง",
+          "gloss": "建筑；场所"
+        },
+        {
+          "thai": "พยาบาล",
+          "gloss": "护理；医院"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-001",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "灯；电"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "灯；电"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-002",
+      "combinations": [
+        {
+          "thai": "ปิด",
+          "gloss": "关上"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "灯；电"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปิด",
+          "gloss": "关上"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "灯；电"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-003",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-004",
+      "combinations": [
+        {
+          "thai": "ปิด",
+          "gloss": "关上"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปิด",
+          "gloss": "关上"
+        },
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-005",
+      "combinations": [
+        {
+          "thai": "ไฟดับ",
+          "gloss": "停电；断电"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไฟ",
+          "gloss": "电；灯"
+        },
+        {
+          "thai": "ดับ",
+          "gloss": "熄灭；断掉"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-006",
+      "combinations": [
+        {
+          "thai": "ไม่มี",
+          "gloss": "没有"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ใช้",
+          "gloss": "使用"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "ใช้",
+          "gloss": "使用"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-007",
+      "combinations": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-008",
+      "combinations": [
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "凉；冷"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แอร์",
+          "gloss": "空调"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เย็น",
+          "gloss": "凉；冷"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-009",
+      "combinations": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "รั่ว",
+          "gloss": "漏；渗漏"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "รั่ว",
+          "gloss": "漏；渗漏"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-010",
+      "combinations": [
+        {
+          "thai": "ท่อ",
+          "gloss": "管道"
+        },
+        {
+          "thai": "ตัน",
+          "gloss": "堵塞"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ท่อ",
+          "gloss": "管道"
+        },
+        {
+          "thai": "ตัน",
+          "gloss": "堵塞"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-011",
+      "combinations": [
+        {
+          "thai": "ทำความสะอาด",
+          "gloss": "打扫；清洁"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทำ",
+          "gloss": "做"
+        },
+        {
+          "thai": "ความสะอาด",
+          "gloss": "清洁；干净"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-012",
+      "combinations": [
+        {
+          "thai": "เช่า",
+          "gloss": "租住"
+        },
+        {
+          "thai": "เดือนละ",
+          "gloss": "每月"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少钱；多少"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เช่า",
+          "gloss": "租"
+        },
+        {
+          "thai": "เดือน",
+          "gloss": "月"
+        },
+        {
+          "thai": "ละ",
+          "gloss": "每；按…计算"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-013",
+      "combinations": [
+        {
+          "thai": "อยู่",
+          "gloss": "住；在"
+        },
+        {
+          "thai": "ชั้น",
+          "gloss": "楼层"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪一；哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อยู่",
+          "gloss": "住；在"
+        },
+        {
+          "thai": "ชั้น",
+          "gloss": "楼层"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪一；哪里"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-014",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ที่จอดรถ",
+          "gloss": "停车位；停车场"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "地方；用于名词化"
+        },
+        {
+          "thai": "จอด",
+          "gloss": "停放"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-015",
+      "combinations": [
+        {
+          "thai": "ห้องว่าง",
+          "gloss": "空房；空着的房间"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ว่าง",
+          "gloss": "空闲；空着"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-016",
+      "combinations": [
+        {
+          "thai": "สัญญาเช่า",
+          "gloss": "租赁合同；租约"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สัญญา",
+          "gloss": "合同；约定"
+        },
+        {
+          "thai": "เช่า",
+          "gloss": "租赁"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-017",
+      "combinations": [
+        {
+          "thai": "เงินมัดจำ",
+          "gloss": "押金；定金"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "มัดจำ",
+          "gloss": "押金；定金"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-018",
+      "combinations": [
+        {
+          "thai": "ค่าไฟ",
+          "gloss": "电费"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ไฟ",
+          "gloss": "电；灯"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-019",
+      "combinations": [
+        {
+          "thai": "ค่าน้ำ",
+          "gloss": "水费"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "home_living-chunk-020",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-001",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ห้องว่าง",
+          "gloss": "空房；空着的房间"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ว่าง",
+          "gloss": "空闲；空着"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-002",
+      "combinations": [
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "先；留着"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "先；留着"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-003",
+      "combinations": [
+        {
+          "thai": "คืนนี้",
+          "gloss": "今晚"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คืน",
+          "gloss": "夜；晚"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-004",
+      "combinations": [
+        {
+          "thai": "รวม",
+          "gloss": "包含；合计"
+        },
+        {
+          "thai": "อาหารเช้า",
+          "gloss": "早餐"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รวม",
+          "gloss": "包含；合计"
+        },
+        {
+          "thai": "อาหาร",
+          "gloss": "食物；饭菜"
+        },
+        {
+          "thai": "เช้า",
+          "gloss": "早上；早餐时段"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-005",
+      "combinations": [
+        {
+          "thai": "เช็คเอาท์",
+          "gloss": "退房"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "点钟"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เช็คเอาท์",
+          "gloss": "退房"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "โมง",
+          "gloss": "点钟"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-006",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ก่อน",
+          "gloss": "先；在…之前"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        },
+        {
+          "thai": "ก่อน",
+          "gloss": "先；在…之前"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-007",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ห้อง",
+          "gloss": "房间"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-008",
+      "combinations": [
+        {
+          "thai": "ฝากกระเป๋า",
+          "gloss": "寄存行李"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝาก",
+          "gloss": "寄放；托付"
+        },
+        {
+          "thai": "กระเป๋า",
+          "gloss": "包；行李"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-009",
+      "combinations": [
+        {
+          "thai": "เช็คเอาท์",
+          "gloss": "退房"
+        },
+        {
+          "thai": "ช้า",
+          "gloss": "晚；迟"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เช็คเอาท์",
+          "gloss": "退房"
+        },
+        {
+          "thai": "ช้า",
+          "gloss": "晚；迟"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "hotel-chunk-010",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ยืม",
+          "gloss": "借用"
+        },
+        {
+          "thai": "ที่ชาร์จ",
+          "gloss": "充电器"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ยืม",
+          "gloss": "借用"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "用于名词化"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-001",
+      "combinations": [
+        {
+          "thai": "เปิดบัญชี",
+          "gloss": "开户"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "开；办理"
+        },
+        {
+          "thai": "บัญชี",
+          "gloss": "账户"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-002",
+      "combinations": [
+        {
+          "thai": "กดเงิน",
+          "gloss": "取钱；从ATM取现"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กด",
+          "gloss": "按；取（ATM）"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-003",
+      "combinations": [
+        {
+          "thai": "โอนเงิน",
+          "gloss": "转账；汇款"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โอน",
+          "gloss": "转移；转账"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-004",
+      "combinations": [
+        {
+          "thai": "กรอก",
+          "gloss": "填写"
+        },
+        {
+          "thai": "แบบฟอร์ม",
+          "gloss": "表格"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กรอก",
+          "gloss": "填写"
+        },
+        {
+          "thai": "แบบฟอร์ม",
+          "gloss": "表格"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-005",
+      "combinations": [
+        {
+          "thai": "เซ็น",
+          "gloss": "签字"
+        },
+        {
+          "thai": "ตรงนี้",
+          "gloss": "这里；此处"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เซ็น",
+          "gloss": "签字"
+        },
+        {
+          "thai": "ตรง",
+          "gloss": "正；在…处"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-006",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "สำเนา",
+          "gloss": "复印件"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "สำเนา",
+          "gloss": "复印件"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-007",
+      "combinations": [
+        {
+          "thai": "รอคิว",
+          "gloss": "等号；排队等待"
+        },
+        {
+          "thai": "ที่ไหน",
+          "gloss": "哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รอ",
+          "gloss": "等"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号码；队列"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在；地点标记"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-008",
+      "combinations": [
+        {
+          "thai": "คิว",
+          "gloss": "号码；排队号"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "第（序数标记）"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "几号；多少"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คิว",
+          "gloss": "号码；队列"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "第；在"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-009",
+      "combinations": [
+        {
+          "thai": "อีก",
+          "gloss": "还；再"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号码；队列"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อีก",
+          "gloss": "还；再"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "คิว",
+          "gloss": "号码；队列"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-010",
+      "combinations": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-011",
+      "combinations": [
+        {
+          "thai": "เสีย",
+          "gloss": "坏了；损坏"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เสีย",
+          "gloss": "坏了；损坏"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-012",
+      "combinations": [
+        {
+          "thai": "ใช้งาน",
+          "gloss": "使用；正常运作"
+        },
+        {
+          "thai": "ไม่ได้",
+          "gloss": "不能；不可用"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใช้",
+          "gloss": "使用"
+        },
+        {
+          "thai": "งาน",
+          "gloss": "工作；功能"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-013",
+      "combinations": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-014",
+      "combinations": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "เมื่อไหร่",
+          "gloss": "什么时候"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成；修好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซ่อม",
+          "gloss": "修理"
+        },
+        {
+          "thai": "เมื่อไหร่",
+          "gloss": "什么时候"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成；修好"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-015",
+      "combinations": [
+        {
+          "thai": "ค่าใช้จ่าย",
+          "gloss": "费用；开支"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "ใช้",
+          "gloss": "使用；花费"
+        },
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；支出"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-016",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ประกัน",
+          "gloss": "保修；保障"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ประกัน",
+          "gloss": "保修；保障"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-017",
+      "combinations": [
+        {
+          "thai": "ตัดผม",
+          "gloss": "理发；剪头发"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตัด",
+          "gloss": "剪；切"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "头发"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-018",
+      "combinations": [
+        {
+          "thai": "ตัด",
+          "gloss": "剪"
+        },
+        {
+          "thai": "สั้น",
+          "gloss": "短"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตัด",
+          "gloss": "剪"
+        },
+        {
+          "thai": "สั้น",
+          "gloss": "短"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-019",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；让…"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "留着；保持"
+        },
+        {
+          "thai": "ยาว",
+          "gloss": "长"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；让…"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "留着；保持"
+        },
+        {
+          "thai": "ยาว",
+          "gloss": "长"
+        }
+      ]
+    },
+    {
+      "id": "local_errands-chunk-020",
+      "combinations": [
+        {
+          "thai": "สระผม",
+          "gloss": "洗头"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สระ",
+          "gloss": "洗头"
+        },
+        {
+          "thai": "ผม",
+          "gloss": "头发"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "也；还要"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-001",
+      "combinations": [
+        {
+          "thai": "สิบเอ็ด",
+          "gloss": "十一"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สิบ",
+          "gloss": "十"
+        },
+        {
+          "thai": "เอ็ด",
+          "gloss": "一（合成数词中的一）"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-002",
+      "combinations": [
+        {
+          "thai": "ยี่สิบ",
+          "gloss": "二十"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ยี่",
+          "gloss": "二（十位数词）"
+        },
+        {
+          "thai": "สิบ",
+          "gloss": "十"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-003",
+      "combinations": [
+        {
+          "thai": "หนึ่งร้อย",
+          "gloss": "一百"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "หนึ่ง",
+          "gloss": "一"
+        },
+        {
+          "thai": "ร้อย",
+          "gloss": "百"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-004",
+      "combinations": [
+        {
+          "thai": "สองร้อย",
+          "gloss": "二百"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สอง",
+          "gloss": "二"
+        },
+        {
+          "thai": "ร้อย",
+          "gloss": "百"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-005",
+      "combinations": [
+        {
+          "thai": "ครึ่ง",
+          "gloss": "一半"
+        },
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ครึ่ง",
+          "gloss": "一半"
+        },
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-006",
+      "combinations": [
+        {
+          "thai": "อีก",
+          "gloss": "再；还要"
+        },
+        {
+          "thai": "เดี๋ยว",
+          "gloss": "一会儿；马上"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อีก",
+          "gloss": "再；还要"
+        },
+        {
+          "thai": "เดี๋ยว",
+          "gloss": "一会儿；马上"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-007",
+      "combinations": [
+        {
+          "thai": "ทุก",
+          "gloss": "每；所有"
+        },
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทุก",
+          "gloss": "每；所有"
+        },
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-008",
+      "combinations": [
+        {
+          "thai": "อาทิตย์",
+          "gloss": "星期；周"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อาทิตย์",
+          "gloss": "星期；周"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-009",
+      "combinations": [
+        {
+          "thai": "เดือน",
+          "gloss": "月"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เดือน",
+          "gloss": "月"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-010",
+      "combinations": [
+        {
+          "thai": "ปี",
+          "gloss": "年"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ปี",
+          "gloss": "年"
+        },
+        {
+          "thai": "หน้า",
+          "gloss": "下一个；接下来的"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-011",
+      "combinations": [
+        {
+          "thai": "กี่",
+          "gloss": "多少；几"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กี่",
+          "gloss": "多少；几"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-012",
+      "combinations": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "เกินไป",
+          "gloss": "过于；太…了"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "เกิน",
+          "gloss": "超过"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去；过度"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-013",
+      "combinations": [
+        {
+          "thai": "ลด",
+          "gloss": "降低；减少"
+        },
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ลด",
+          "gloss": "降低；减少"
+        },
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-014",
+      "combinations": [
+        {
+          "thai": "ส่วนลด",
+          "gloss": "折扣；减价"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ส่วน",
+          "gloss": "部分；份额"
+        },
+        {
+          "thai": "ลด",
+          "gloss": "降低；减少"
+        }
+      ]
+    },
+    {
+      "id": "numbers-chunk-015",
+      "combinations": [
+        {
+          "thai": "เก็บเงิน",
+          "gloss": "收钱；收款；存钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เก็บ",
+          "gloss": "收取；保存"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-001",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-002",
+      "combinations": [
+        {
+          "thai": "รหัส",
+          "gloss": "密码"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รหัส",
+          "gloss": "密码"
+        },
+        {
+          "thai": "ไวไฟ",
+          "gloss": "Wi-Fi"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-003",
+      "combinations": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-004",
+      "combinations": [
+        {
+          "thai": "ไม่มี",
+          "gloss": "没有"
+        },
+        {
+          "thai": "สัญญาณ",
+          "gloss": "信号"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "สัญญาณ",
+          "gloss": "信号"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-005",
+      "combinations": [
+        {
+          "thai": "แบต",
+          "gloss": "电池；电量"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "将要；快要"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；耗尽"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แบต",
+          "gloss": "电池；电量"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "将要；快要"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；耗尽"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-006",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ชาร์จแบต",
+          "gloss": "给电池充电"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ชาร์จ",
+          "gloss": "充电"
+        },
+        {
+          "thai": "แบต",
+          "gloss": "电池；电量"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-007",
+      "combinations": [
+        {
+          "thai": "เติมเงิน",
+          "gloss": "充值；加话费"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เติม",
+          "gloss": "添加；充入"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱；话费"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-008",
+      "combinations": [
+        {
+          "thai": "เติม",
+          "gloss": "充值；充入"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เติม",
+          "gloss": "充值；充入"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-009",
+      "combinations": [
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "อะไร",
+          "gloss": "什么"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-010",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "เบอร์",
+          "gloss": "号码"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-011",
+      "combinations": [
+        {
+          "thai": "โทรกลับ",
+          "gloss": "回电；回电话"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โทร",
+          "gloss": "打电话"
+        },
+        {
+          "thai": "กลับ",
+          "gloss": "回来；回拨"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-012",
+      "combinations": [
+        {
+          "thai": "ฝากข้อความ",
+          "gloss": "留言"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝาก",
+          "gloss": "托付；留下"
+        },
+        {
+          "thai": "ข้อความ",
+          "gloss": "消息；文字"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-013",
+      "combinations": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-014",
+      "combinations": [
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        },
+        {
+          "thai": "ใหม่",
+          "gloss": "新的"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        },
+        {
+          "thai": "ใหม่",
+          "gloss": "新的"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-015",
+      "combinations": [
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        },
+        {
+          "thai": "นักท่องเที่ยว",
+          "gloss": "游客"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ซิม",
+          "gloss": "SIM卡"
+        },
+        {
+          "thai": "นัก",
+          "gloss": "从事者；人"
+        },
+        {
+          "thai": "ท่องเที่ยว",
+          "gloss": "旅行；观光"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-016",
+      "combinations": [
+        {
+          "thai": "เล่นเน็ต",
+          "gloss": "上网；使用网络"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เล่น",
+          "gloss": "玩；使用"
+        },
+        {
+          "thai": "เน็ต",
+          "gloss": "网络"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-017",
+      "combinations": [
+        {
+          "thai": "โทร",
+          "gloss": "打电话"
+        },
+        {
+          "thai": "ฟรี",
+          "gloss": "免费"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โทร",
+          "gloss": "打电话"
+        },
+        {
+          "thai": "ฟรี",
+          "gloss": "免费"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-018",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "โปร",
+          "gloss": "套餐；优惠"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "โปร",
+          "gloss": "套餐；优惠"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-019",
+      "combinations": [
+        {
+          "thai": "เหมา",
+          "gloss": "包价；不限量套餐"
+        },
+        {
+          "thai": "เน็ต",
+          "gloss": "网络；流量"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เหมา",
+          "gloss": "包价；不限量套餐"
+        },
+        {
+          "thai": "เน็ต",
+          "gloss": "网络；流量"
+        }
+      ]
+    },
+    {
+      "id": "phone_network-chunk-020",
+      "combinations": [
+        {
+          "thai": "วันนี้",
+          "gloss": "今天"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；耗尽"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；耗尽"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-001",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ลอง",
+          "gloss": "试用；试穿"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ลอง",
+          "gloss": "试用；试穿"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-002",
+      "combinations": [
+        {
+          "thai": "ใส่",
+          "gloss": "穿；戴"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใส่",
+          "gloss": "穿；戴"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-003",
+      "combinations": [
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-004",
+      "combinations": [
+        {
+          "thai": "เล็ก",
+          "gloss": "小"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เล็ก",
+          "gloss": "小"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-005",
+      "combinations": [
+        {
+          "thai": "พอดี",
+          "gloss": "正好；合适"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "正是；很（加强语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "พอดี",
+          "gloss": "正好；合适"
+        },
+        {
+          "thai": "เลย",
+          "gloss": "正是；很（加强语气）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-006",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ไซส์",
+          "gloss": "尺码"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        },
+        {
+          "thai": "กว่า",
+          "gloss": "比…更"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "ไซส์",
+          "gloss": "尺码"
+        },
+        {
+          "thai": "ใหญ่",
+          "gloss": "大"
+        },
+        {
+          "thai": "กว่า",
+          "gloss": "比…更"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-007",
+      "combinations": [
+        {
+          "thai": "ลด",
+          "gloss": "降低；打折"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ลด",
+          "gloss": "降低；打折"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-008",
+      "combinations": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แพง",
+          "gloss": "贵"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "过于；太…了"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-009",
+      "combinations": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "อันนี้",
+          "gloss": "这个"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "อัน",
+          "gloss": "件；个（指物）"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-010",
+      "combinations": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "อันนี้",
+          "gloss": "这个"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "เอา",
+          "gloss": "要；拿"
+        },
+        {
+          "thai": "อัน",
+          "gloss": "件；个（指物）"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-011",
+      "combinations": [
+        {
+          "thai": "จ่ายเงิน",
+          "gloss": "付款；结账"
+        },
+        {
+          "thai": "ตรงไหน",
+          "gloss": "在哪里；哪一处"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；付款"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "ตรง",
+          "gloss": "正；在…处"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-012",
+      "combinations": [
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；付款"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "用；以"
+        },
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；付款"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "用；以"
+        },
+        {
+          "thai": "บัตร",
+          "gloss": "卡"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-013",
+      "combinations": [
+        {
+          "thai": "เงินสด",
+          "gloss": "现金"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        },
+        {
+          "thai": "สด",
+          "gloss": "现成的；现金"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-014",
+      "combinations": [
+        {
+          "thai": "โอนเงิน",
+          "gloss": "转账；汇款"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โอน",
+          "gloss": "转移；转账"
+        },
+        {
+          "thai": "เงิน",
+          "gloss": "钱"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-015",
+      "combinations": [
+        {
+          "thai": "สแกน",
+          "gloss": "扫描"
+        },
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；付款"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สแกน",
+          "gloss": "扫描"
+        },
+        {
+          "thai": "จ่าย",
+          "gloss": "支付；付款"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-016",
+      "combinations": [
+        {
+          "thai": "ใบเสร็จ",
+          "gloss": "收据；小票"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใบ",
+          "gloss": "张；份（量词）"
+        },
+        {
+          "thai": "เสร็จ",
+          "gloss": "完成；结清"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-017",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ถุง",
+          "gloss": "袋子"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ถุง",
+          "gloss": "袋子"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-018",
+      "combinations": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปลี่ยน",
+          "gloss": "更换"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-019",
+      "combinations": [
+        {
+          "thai": "คืน",
+          "gloss": "退回"
+        },
+        {
+          "thai": "ของ",
+          "gloss": "东西；货物"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คืน",
+          "gloss": "退回"
+        },
+        {
+          "thai": "ของ",
+          "gloss": "东西；货物"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "可以；能"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "shopping-chunk-020",
+      "combinations": [
+        {
+          "thai": "ของ",
+          "gloss": "东西；货物"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；售罄"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ของ",
+          "gloss": "东西；货物"
+        },
+        {
+          "thai": "หมด",
+          "gloss": "用完；售罄"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-001",
+      "combinations": [
+        {
+          "thai": "คุณ",
+          "gloss": "您；你"
+        },
+        {
+          "thai": "สบายดี",
+          "gloss": "安好；过得不错"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คุณ",
+          "gloss": "您；你"
+        },
+        {
+          "thai": "สบาย",
+          "gloss": "舒适；安好"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-002",
+      "combinations": [
+        {
+          "thai": "สบายดี",
+          "gloss": "安好；过得不错"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "那么；然后"
+        },
+        {
+          "thai": "คุณ",
+          "gloss": "您；你"
+        },
+        {
+          "thai": "ล่ะ",
+          "gloss": "呢（追问词）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "สบาย",
+          "gloss": "舒适；安好"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "那么；然后"
+        },
+        {
+          "thai": "คุณ",
+          "gloss": "您；你"
+        },
+        {
+          "thai": "ล่ะ",
+          "gloss": "呢（追问词）"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-003",
+      "combinations": [
+        {
+          "thai": "ยินดี",
+          "gloss": "高兴；乐意"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "用于引出所说的事"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "得以；已经"
+        },
+        {
+          "thai": "รู้จัก",
+          "gloss": "认识；相识"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ยินดี",
+          "gloss": "高兴；乐意"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "用于引出所说的事"
+        },
+        {
+          "thai": "ได้",
+          "gloss": "得以；已经"
+        },
+        {
+          "thai": "รู้จัก",
+          "gloss": "认识；相识"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-004",
+      "combinations": [
+        {
+          "thai": "คิดถึง",
+          "gloss": "想念"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คิด",
+          "gloss": "想"
+        },
+        {
+          "thai": "ถึง",
+          "gloss": "到；及"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-005",
+      "combinations": [
+        {
+          "thai": "แล้ว",
+          "gloss": "那么；以后"
+        },
+        {
+          "thai": "เจอกัน",
+          "gloss": "见面；再见"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "แล้ว",
+          "gloss": "那么；以后"
+        },
+        {
+          "thai": "เจอ",
+          "gloss": "遇见"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "彼此；一起"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-006",
+      "combinations": [
+        {
+          "thai": "โชคดี",
+          "gloss": "好运；顺利"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "โชค",
+          "gloss": "运气"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        },
+        {
+          "thai": "ครับ",
+          "gloss": "男性礼貌词"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-007",
+      "combinations": [
+        {
+          "thai": "ขอให้",
+          "gloss": "祝愿；希望…"
+        },
+        {
+          "thai": "สนุก",
+          "gloss": "开心；有趣"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "希望；祈求"
+        },
+        {
+          "thai": "ให้",
+          "gloss": "让；使"
+        },
+        {
+          "thai": "สนุก",
+          "gloss": "开心；有趣"
+        },
+        {
+          "thai": "นะ",
+          "gloss": "缓和语气的句尾词"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-008",
+      "combinations": [
+        {
+          "thai": "ขอให้",
+          "gloss": "祝愿；希望…"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "痊愈；好起来"
+        },
+        {
+          "thai": "เร็วๆ",
+          "gloss": "尽快；早日"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "希望；祈求"
+        },
+        {
+          "thai": "ให้",
+          "gloss": "让；使"
+        },
+        {
+          "thai": "หาย",
+          "gloss": "痊愈；好起来"
+        },
+        {
+          "thai": "เร็ว",
+          "gloss": "快"
+        },
+        {
+          "thai": "ๆ",
+          "gloss": "重复符号，表示程度延续"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-009",
+      "combinations": [
+        {
+          "thai": "กินข้าว",
+          "gloss": "吃饭"
+        },
+        {
+          "thai": "หรือยัง",
+          "gloss": "…了吗；是否已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กิน",
+          "gloss": "吃"
+        },
+        {
+          "thai": "ข้าว",
+          "gloss": "米饭；一餐饭"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "还是；或"
+        },
+        {
+          "thai": "ยัง",
+          "gloss": "还；已经"
+        }
+      ]
+    },
+    {
+      "id": "social-chunk-010",
+      "combinations": [
+        {
+          "thai": "ไปเที่ยว",
+          "gloss": "去玩；出游"
+        },
+        {
+          "thai": "ด้วยกัน",
+          "gloss": "一起"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เที่ยว",
+          "gloss": "游玩；旅行"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "一起；和"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "彼此；一起"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-001",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ยังไง",
+          "gloss": "怎么；如何"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ยังไง",
+          "gloss": "怎么；如何"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-002",
+      "combinations": [
+        {
+          "thai": "อยู่",
+          "gloss": "在；位于"
+        },
+        {
+          "thai": "ที่ไหน",
+          "gloss": "哪里"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อยู่",
+          "gloss": "在；位于"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在；地点标记"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪里"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-003",
+      "combinations": [
+        {
+          "thai": "ไกล",
+          "gloss": "远"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไกล",
+          "gloss": "远"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-004",
+      "combinations": [
+        {
+          "thai": "ใช้เวลา",
+          "gloss": "花时间；耗时"
+        },
+        {
+          "thai": "นาน",
+          "gloss": "久"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ใช้",
+          "gloss": "使用；花费"
+        },
+        {
+          "thai": "เวลา",
+          "gloss": "时间"
+        },
+        {
+          "thai": "นาน",
+          "gloss": "久"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-005",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ทางไหน",
+          "gloss": "哪条路；哪个方向"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路；方向"
+        },
+        {
+          "thai": "ไหน",
+          "gloss": "哪一；哪里"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-006",
+      "combinations": [
+        {
+          "thai": "เลี้ยว",
+          "gloss": "转弯"
+        },
+        {
+          "thai": "ซ้าย",
+          "gloss": "左边"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เลี้ยว",
+          "gloss": "转弯"
+        },
+        {
+          "thai": "ซ้าย",
+          "gloss": "左边"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-007",
+      "combinations": [
+        {
+          "thai": "เลี้ยว",
+          "gloss": "转弯"
+        },
+        {
+          "thai": "ขวา",
+          "gloss": "右边"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เลี้ยว",
+          "gloss": "转弯"
+        },
+        {
+          "thai": "ขวา",
+          "gloss": "右边"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-008",
+      "combinations": [
+        {
+          "thai": "ตรงไป",
+          "gloss": "直走"
+        },
+        {
+          "thai": "เรื่อยๆ",
+          "gloss": "一直；持续地"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ตรง",
+          "gloss": "直；正"
+        },
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เรื่อย",
+          "gloss": "持续；不停"
+        },
+        {
+          "thai": "ๆ",
+          "gloss": "重复符号，表示持续"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-009",
+      "combinations": [
+        {
+          "thai": "กลับรถ",
+          "gloss": "掉头；让车折返"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กลับ",
+          "gloss": "返回；转回"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-010",
+      "combinations": [
+        {
+          "thai": "จอด",
+          "gloss": "停靠"
+        },
+        {
+          "thai": "ตรงนี้",
+          "gloss": "这里；此处"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จอด",
+          "gloss": "停靠"
+        },
+        {
+          "thai": "ตรง",
+          "gloss": "正；在…处"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-011",
+      "combinations": [
+        {
+          "thai": "ถึง",
+          "gloss": "到达"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ถึง",
+          "gloss": "到达"
+        },
+        {
+          "thai": "แล้ว",
+          "gloss": "了；已经"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-012",
+      "combinations": [
+        {
+          "thai": "ยัง",
+          "gloss": "还；尚未"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ถึง",
+          "gloss": "到达"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ยัง",
+          "gloss": "还；尚未"
+        },
+        {
+          "thai": "ไม่",
+          "gloss": "不"
+        },
+        {
+          "thai": "ถึง",
+          "gloss": "到达"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-013",
+      "combinations": [
+        {
+          "thai": "ไปส่ง",
+          "gloss": "送去；载到"
+        },
+        {
+          "thai": "ที่...",
+          "gloss": "到…（填写目的地）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ส่ง",
+          "gloss": "送；递送"
+        },
+        {
+          "thai": "ที่",
+          "gloss": "在；到（地点标记）"
+        },
+        {
+          "thai": "...",
+          "gloss": "待填目的地"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-014",
+      "combinations": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "มิเตอร์",
+          "gloss": "计价器；出租车表"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เปิด",
+          "gloss": "打开"
+        },
+        {
+          "thai": "มิเตอร์",
+          "gloss": "计价器；出租车表"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-015",
+      "combinations": [
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-016",
+      "combinations": [
+        {
+          "thai": "ค่ารถ",
+          "gloss": "车费；乘车费"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ค่า",
+          "gloss": "费用"
+        },
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-017",
+      "combinations": [
+        {
+          "thai": "รถติด",
+          "gloss": "堵车；交通拥堵"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "รถ",
+          "gloss": "车"
+        },
+        {
+          "thai": "ติด",
+          "gloss": "卡住；堵塞"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-018",
+      "combinations": [
+        {
+          "thai": "ขึ้น",
+          "gloss": "上；驶上"
+        },
+        {
+          "thai": "ทางด่วน",
+          "gloss": "高速路；快速路"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขึ้น",
+          "gloss": "上；驶上"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速；急"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-019",
+      "combinations": [
+        {
+          "thai": "ลง",
+          "gloss": "下；驶下"
+        },
+        {
+          "thai": "ทางด่วน",
+          "gloss": "高速路；快速路"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ลง",
+          "gloss": "下；驶下"
+        },
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速；急"
+        }
+      ]
+    },
+    {
+      "id": "transport-chunk-020",
+      "combinations": [
+        {
+          "thai": "ทางด่วน",
+          "gloss": "高速路；快速路"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ทาง",
+          "gloss": "路"
+        },
+        {
+          "thai": "ด่วน",
+          "gloss": "快速；急"
+        },
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "บาท",
+          "gloss": "泰铢"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-001",
+      "combinations": [
+        {
+          "thai": "วันนี้",
+          "gloss": "今天"
+        },
+        {
+          "thai": "อากาศ",
+          "gloss": "天气"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "วัน",
+          "gloss": "天"
+        },
+        {
+          "thai": "นี้",
+          "gloss": "这；这个"
+        },
+        {
+          "thai": "อากาศ",
+          "gloss": "天气"
+        },
+        {
+          "thai": "ดี",
+          "gloss": "好"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-002",
+      "combinations": [
+        {
+          "thai": "อากาศ",
+          "gloss": "天气"
+        },
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "อากาศ",
+          "gloss": "天气"
+        },
+        {
+          "thai": "ร้อน",
+          "gloss": "热"
+        },
+        {
+          "thai": "มาก",
+          "gloss": "很；非常"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-003",
+      "combinations": [
+        {
+          "thai": "ฝน",
+          "gloss": "雨"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "将要；会"
+        },
+        {
+          "thai": "ตก",
+          "gloss": "落下；下（雨）"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝน",
+          "gloss": "雨"
+        },
+        {
+          "thai": "จะ",
+          "gloss": "将要；会"
+        },
+        {
+          "thai": "ตก",
+          "gloss": "落下；下（雨）"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-004",
+      "combinations": [
+        {
+          "thai": "ฝนตก",
+          "gloss": "下雨"
+        },
+        {
+          "thai": "หนัก",
+          "gloss": "大；严重"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ฝน",
+          "gloss": "雨"
+        },
+        {
+          "thai": "ตก",
+          "gloss": "落下；下（雨）"
+        },
+        {
+          "thai": "หนัก",
+          "gloss": "重；大"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-005",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ทะเล",
+          "gloss": "海；海边"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ทะเล",
+          "gloss": "海；海边"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-006",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เดินเล่น",
+          "gloss": "散步；随意走走"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เดิน",
+          "gloss": "走路"
+        },
+        {
+          "thai": "เล่น",
+          "gloss": "玩；随意地"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-007",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "หนัง",
+          "gloss": "电影"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ดู",
+          "gloss": "看"
+        },
+        {
+          "thai": "หนัง",
+          "gloss": "电影"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-008",
+      "combinations": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ช้อปปิ้ง",
+          "gloss": "购物"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "ช้อปปิ้ง",
+          "gloss": "购物"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-009",
+      "combinations": [
+        {
+          "thai": "ไปเที่ยว",
+          "gloss": "去玩；出游"
+        },
+        {
+          "thai": "ด้วยกัน",
+          "gloss": "一起"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ไป",
+          "gloss": "去"
+        },
+        {
+          "thai": "เที่ยว",
+          "gloss": "游玩；旅行"
+        },
+        {
+          "thai": "ด้วย",
+          "gloss": "一起；和"
+        },
+        {
+          "thai": "กัน",
+          "gloss": "彼此；一起"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-010",
+      "combinations": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-011",
+      "combinations": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式；泰国的"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "ไทย",
+          "gloss": "泰式；泰国的"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-012",
+      "combinations": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "น้ำมัน",
+          "gloss": "精油；按摩油"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "น้ำ",
+          "gloss": "水；液体"
+        },
+        {
+          "thai": "มัน",
+          "gloss": "油；油脂"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-013",
+      "combinations": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚；足部"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "นวด",
+          "gloss": "按摩"
+        },
+        {
+          "thai": "เท้า",
+          "gloss": "脚；足部"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-014",
+      "combinations": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ใบราคา",
+          "gloss": "价目表"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ขอ",
+          "gloss": "请求；请"
+        },
+        {
+          "thai": "ใบ",
+          "gloss": "张；份（量词）"
+        },
+        {
+          "thai": "ราคา",
+          "gloss": "价格"
+        },
+        {
+          "thai": "หน่อย",
+          "gloss": "请；稍微（缓和语气）"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-015",
+      "combinations": [
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "กี่",
+          "gloss": "几；多少"
+        },
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-016",
+      "combinations": [
+        {
+          "thai": "ชั่วโมงละ",
+          "gloss": "每小时"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "ชั่วโมง",
+          "gloss": "小时"
+        },
+        {
+          "thai": "ละ",
+          "gloss": "每；按…计算"
+        },
+        {
+          "thai": "เท่าไหร่",
+          "gloss": "多少；多少钱"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-017",
+      "combinations": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "โปร",
+          "gloss": "优惠；套餐"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "มี",
+          "gloss": "有"
+        },
+        {
+          "thai": "โปร",
+          "gloss": "优惠；套餐"
+        },
+        {
+          "thai": "ไหม",
+          "gloss": "吗（疑问词）"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-018",
+      "combinations": [
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "先；留着"
+        },
+        {
+          "thai": "หรือยัง",
+          "gloss": "…了吗；是否已经"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "จอง",
+          "gloss": "预订"
+        },
+        {
+          "thai": "ไว้",
+          "gloss": "先；留着"
+        },
+        {
+          "thai": "หรือ",
+          "gloss": "还是；或"
+        },
+        {
+          "thai": "ยัง",
+          "gloss": "还；已经"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-019",
+      "combinations": [
+        {
+          "thai": "คนละ",
+          "gloss": "每人各；一人一份"
+        },
+        {
+          "thai": "ครึ่ง",
+          "gloss": "一半"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "คน",
+          "gloss": "人"
+        },
+        {
+          "thai": "ละ",
+          "gloss": "每；各"
+        },
+        {
+          "thai": "ครึ่ง",
+          "gloss": "一半"
+        }
+      ]
+    },
+    {
+      "id": "weather_leisure-chunk-020",
+      "combinations": [
+        {
+          "thai": "เลี้ยง",
+          "gloss": "请客；供养"
+        },
+        {
+          "thai": "เอง",
+          "gloss": "自己；亲自"
+        }
+      ],
+      "minimal": [
+        {
+          "thai": "เลี้ยง",
+          "gloss": "请客；供养"
+        },
+        {
+          "thai": "เอง",
+          "gloss": "自己；亲自"
+        }
+      ]
+    }
+  ]
+}
